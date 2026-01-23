@@ -1,0 +1,3061 @@
+,1,2,3,year
+0,NAME,TEAM,SALARY,2021
+1,"Stephen Curry, G",Golden State Warriors,"$43,006,362",2021
+2,"Russell Westbrook, G",Washington Wizards,"$41,358,814",2021
+3,"Chris Paul, G",Phoenix Suns,"$41,358,814",2021
+4,"James Harden, G",Brooklyn Nets,"$41,254,920",2021
+5,"John Wall, PG",Houston Rockets,"$41,254,920",2021
+6,"Kevin Durant, F",Brooklyn Nets,"$40,108,950",2021
+7,"LeBron James, F",Los Angeles Lakers,"$39,219,565",2021
+8,"Paul George, F",LA Clippers,"$35,450,412",2021
+9,"Klay Thompson, G",Dallas Mavericks,"$35,361,360",2021
+10,"Mike Conley, G",Utah Jazz,"$34,502,130",2021
+11,NAME,TEAM,SALARY,2021
+12,"Jimmy Butler III, F",Miami Heat,"$34,379,100",2021
+13,"Kawhi Leonard, F",LA Clippers,"$34,379,100",2021
+14,"Kemba Walker, PG",Boston Celtics,"$34,379,100",2021
+15,"Tobias Harris, F",Philadelphia 76ers,"$34,358,850",2021
+16,"Khris Middleton, F",Milwaukee Bucks,"$33,051,724",2021
+17,"Anthony Davis, F",Los Angeles Lakers,"$32,742,000",2021
+18,"Kyrie Irving, G",Brooklyn Nets,"$31,742,000",2021
+19,"Damian Lillard, G",Portland Trail Blazers,"$31,626,953",2021
+20,"Kevin Love, F",Cleveland Cavaliers,"$31,258,256",2021
+21,"Ben Simmons, PG",Philadelphia 76ers,"$30,559,200",2021
+22,NAME,TEAM,SALARY,2021
+23,"Pascal Siakam, F",Toronto Raptors,"$30,559,200",2021
+24,"Kyle Lowry, G",Toronto Raptors,"$30,500,000",2021
+25,"Steven Adams, C",New Orleans Pelicans,"$29,592,696",2021
+26,"Joel Embiid, C",Philadelphia 76ers,"$29,542,010",2021
+27,"Andrew Wiggins, F",Golden State Warriors,"$29,542,010",2021
+28,"Nikola Jokic, C",Denver Nuggets,"$29,542,010",2021
+29,"Devin Booker, G",Phoenix Suns,"$29,467,800",2021
+30,"Karl-Anthony Towns, C",Minnesota Timberwolves,"$29,467,800",2021
+31,"Kristaps Porzingis, C",Dallas Mavericks,"$29,467,800",2021
+32,"CJ McCollum, G",Portland Trail Blazers,"$29,354,152",2021
+33,NAME,TEAM,SALARY,2021
+34,"Bradley Beal, G",Washington Wizards,"$28,751,775",2021
+35,"D'Angelo Russell, G",Minnesota Timberwolves,"$28,649,250",2021
+36,"Gordon Hayward, SF",Charlotte Hornets,"$28,500,000",2021
+37,"Otto Porter Jr., SF",Orlando Magic,"$28,489,237",2021
+38,"DeMar DeRozan, G",San Antonio Spurs,"$27,739,975",2021
+39,"Giannis Antetokounmpo, F",Milwaukee Bucks,"$27,528,090",2021
+40,"Rudy Gobert, C",Utah Jazz,"$27,525,281",2021
+41,"Al Horford, C",Oklahoma City Thunder,"$27,500,000",2021
+42,"Jamal Murray, G",Denver Nuggets,"$27,285,000",2021
+43,"Brandon Ingram, F",New Orleans Pelicans,"$27,285,000",2021
+44,NAME,TEAM,SALARY,2021
+45,"Jrue Holiday, G",Milwaukee Bucks,"$26,231,111",2021
+46,"Nikola Vucevic, C",Chicago Bulls,"$26,000,000",2021
+47,"Chandler Parsons, SF",Atlanta Hawks,"$25,102,511",2021
+48,"Buddy Hield, G",Sacramento Kings,"$24,701,834",2021
+49,"LaMarcus Aldridge, C",Brooklyn Nets,"$24,000,000",2021
+50,"Jaylen Brown, G",Boston Celtics,"$23,735,118",2021
+51,"Draymond Green, F",Golden State Warriors,"$22,246,956",2021
+52,"Harrison Barnes, F",Sacramento Kings,"$22,215,909",2021
+53,"Fred VanVleet, G",Toronto Raptors,"$21,250,000",2021
+54,"Victor Oladipo, SG",Miami Heat,"$21,000,000",2021
+55,NAME,TEAM,SALARY,2021
+56,"Malcolm Brogdon, G",Indiana Pacers,"$20,700,000",2021
+57,"Domantas Sabonis, F",Indiana Pacers,"$19,800,000",2021
+58,"Gary Harris, G",Orlando Magic,"$19,610,714",2021
+59,"Danilo Gallinari, PF",Atlanta Hawks,"$19,500,000",2021
+60,"Zach LaVine, G",Chicago Bulls,"$19,500,000",2021
+61,"Jerami Grant, F",Detroit Pistons,"$19,050,000",2021
+62,"Tim Hardaway Jr., G",Dallas Mavericks,"$18,975,000",2021
+63,"Julius Randle, F",New York Knicks,"$18,900,000",2021
+64,"Terry Rozier, G",Charlotte Hornets,"$18,900,000",2021
+65,"Allen Crabbe, G",Minnesota Timberwolves,"$18,500,000",2021
+66,NAME,TEAM,SALARY,2021
+67,"Aaron Gordon, F",Denver Nuggets,"$18,136,364",2021
+68,"Goran Dragic, PG",Miami Heat,"$18,000,000",2021
+69,"Myles Turner, C",Indiana Pacers,"$18,000,000",2021
+70,"Bogdan Bogdanovic, G",Atlanta Hawks,"$18,000,000",2021
+71,"Bojan Bogdanovic, SF",Utah Jazz,"$17,850,000",2021
+72,"Evan Fournier, SG",Boston Celtics,"$17,150,000",2021
+73,"Ricky Rubio, PG",Minnesota Timberwolves,"$17,000,000",2021
+74,"Eric Bledsoe, SG",New Orleans Pelicans,"$16,875,000",2021
+75,"Eric Gordon, G",Houston Rockets,"$16,869,276",2021
+76,"Timofey Mozgov, C",Orlando Magic,"$16,720,000",2021
+77,NAME,TEAM,SALARY,2021
+78,"Caris LeVert, G",Indiana Pacers,"$16,203,704",2021
+79,"Joe Harris, SF",Brooklyn Nets,"$16,071,429",2021
+80,"James Johnson, PF",New Orleans Pelicans,"$16,047,100",2021
+81,"Dennis Schroder, G",Los Angeles Lakers,"$16,000,000",2021
+82,"Clint Capela, C",Atlanta Hawks,"$16,000,000",2021
+83,"Cody Zeller, C",Charlotte Hornets,"$15,415,730",2021
+84,"Danny Green, F",Philadelphia 76ers,"$15,365,853",2021
+85,"Davis Bertans, SF",Washington Wizards,"$15,000,000",2021
+86,"Andre Iguodala, F",Miami Heat,"$15,000,000",2021
+87,"Jonas Valanciunas, C",Memphis Grizzlies,"$15,000,000",2021
+88,NAME,TEAM,SALARY,2021
+89,"Marcus Morris Sr., F",LA Clippers,"$14,888,721",2021
+90,"Luke Babbitt, F",Miami Heat,"$14,651,700",2021
+91,"Rudy Gay, SF",San Antonio Spurs,"$14,500,000",2021
+92,"Kelly Oubre Jr., G",Golden State Warriors,"$14,375,000",2021
+93,"Dejounte Murray, G",San Antonio Spurs,"$14,286,000",2021
+94,"Will Barton, G",Denver Nuggets,"$13,723,214",2021
+95,"Marcin Gortat, C",LA Clippers,"$13,565,218",2021
+96,"Thaddeus Young, F",Chicago Bulls,"$13,545,000",2021
+97,"Patty Mills, PG",San Antonio Spurs,"$13,535,714",2021
+98,"Terrence Ross, G",Orlando Magic,"$13,500,000",2021
+99,NAME,TEAM,SALARY,2021
+100,"Marcus Smart, G",Boston Celtics,"$13,446,428",2021
+101,"Malik Beasley, SG",Minnesota Timberwolves,"$13,425,895",2021
+102,"Patrick Beverley, PG",LA Clippers,"$13,333,333",2021
+103,"Christian Wood, F",Houston Rockets,"$13,015,873",2021
+104,"JJ Redick, SG",Dallas Mavericks,"$13,013,700",2021
+105,"Justise Winslow, PF",Memphis Grizzlies,"$13,000,000",2021
+106,"Jusuf Nurkic, C",Portland Trail Blazers,"$12,888,889",2021
+107,"Trevor Ariza, SF",Miami Heat,"$12,800,000",2021
+108,"Courtney Lee, G",Dallas Mavericks,"$12,759,670",2021
+109,"Brook Lopez, C",Milwaukee Bucks,"$12,697,674",2021
+110,NAME,TEAM,SALARY,2021
+111,"Cory Joseph, PG",Detroit Pistons,"$12,600,000",2021
+112,"Kelly Olynyk, F",Houston Rockets,"$12,598,243",2021
+113,"Miles Plumlee, C",Memphis Grizzlies,"$12,500,000",2021
+114,"T.J. Warren, SF",Indiana Pacers,"$12,500,000",2021
+115,"Nikola Mirotic, F",Milwaukee Bucks,"$12,500,000",2021
+116,"Tyreke Evans, G",Indiana Pacers,"$12,400,000",2021
+117,"Markelle Fultz, PG",Orlando Magic,"$12,288,697",2021
+118,"Taurean Prince, F",Cleveland Cavaliers,"$12,250,000",2021
+119,"Tony Snell, SF",Atlanta Hawks,"$12,178,571",2021
+120,"Robert Covington, PF",Portland Trail Blazers,"$12,138,345",2021
+121,NAME,TEAM,SALARY,2021
+122,"Kentavious Caldwell-Pope, G",Los Angeles Lakers,"$12,073,020",2021
+123,"Larry Nance Jr., F",Cleveland Cavaliers,"$11,709,091",2021
+124,"Zach Randolph, F",Dallas Mavericks,"$11,692,308",2021
+125,"Jordan Clarkson, G",Utah Jazz,"$11,500,000",2021
+126,"Spencer Dinwiddie, PG",Brooklyn Nets,"$11,454,048",2021
+127,"Dillon Brooks, F",Memphis Grizzlies,"$11,400,000",2021
+128,"Omer Asik, C",Chicago Bulls,"$11,286,516",2021
+129,"Dwight Powell, F",Dallas Mavericks,"$11,080,125",2021
+130,"Lonzo Ball, G",New Orleans Pelicans,"$11,003,782",2021
+131,"Josh Richardson, SG",Dallas Mavericks,"$10,865,952",2021
+132,NAME,TEAM,SALARY,2021
+133,"Norman Powell, G",Portland Trail Blazers,"$10,865,952",2021
+134,"Joe Ingles, F",Utah Jazz,"$10,863,637",2021
+135,"Jeremy Lamb, SG",Indiana Pacers,"$10,500,000",2021
+136,"DeAndre Jordan, C",Brooklyn Nets,"$10,375,678",2021
+137,"Zion Williamson, F",New Orleans Pelicans,"$10,245,480",2021
+138,"Rodney Hood, SG",Toronto Raptors,"$10,047,450",2021
+139,"Tomas Satoransky, SG",Chicago Bulls,"$10,000,000",2021
+140,"Darren Collison, PG",Los Angeles Lakers,"$10,000,000",2021
+141,"Jayson Tatum, F",Boston Celtics,"$9,897,120",2021
+142,"Anthony Edwards, G",Minnesota Timberwolves,"$9,757,440",2021
+143,NAME,TEAM,SALARY,2021
+144,"Al-Farouq Aminu, SF",Chicago Bulls,"$9,720,900",2021
+145,"Dante Exum, G",Cleveland Cavaliers,"$9,600,000",2021
+146,"George Hill, PG",Philadelphia 76ers,"$9,590,602",2021
+147,"De'Anthony Melton, G",Memphis Grizzlies,"$9,571,712",2021
+148,"Deandre Ayton, C",Phoenix Suns,"$9,562,920",2021
+149,"Kyle Anderson, F",Memphis Grizzlies,"$9,505,100",2021
+150,"Meyers Leonard, C",Miami Heat,"$9,400,000",2021
+151,"Montrezl Harrell, C",Los Angeles Lakers,"$9,258,000",2021
+152,"Jae Crowder, PF",Phoenix Suns,"$9,258,000",2021
+153,"Serge Ibaka, F",LA Clippers,"$9,258,000",2021
+154,NAME,TEAM,SALARY,2021
+155,"Derrick Jones Jr., F",Portland Trail Blazers,"$9,258,000",2021
+156,"Tristan Thompson, C",Boston Celtics,"$9,258,000",2021
+157,"Derrick Favors, F",Utah Jazz,"$9,258,000",2021
+158,"Dario Saric, F",Phoenix Suns,"$9,250,000",2021
+159,"Ja Morant, G",Memphis Grizzlies,"$9,166,800",2021
+160,"Delon Wright, G",Sacramento Kings,"$9,000,000",2021
+161,"Marvin Bagley III, F",Sacramento Kings,"$8,963,640",2021
+162,"Cedi Osman, SF",Cleveland Cavaliers,"$8,840,580",2021
+163,"Tyus Jones, G",Memphis Grizzlies,"$8,817,143",2021
+164,"James Wiseman, C",Golden State Warriors,"$8,730,240",2021
+165,NAME,TEAM,SALARY,2021
+166,"Royce O'Neale, F",Utah Jazz,"$8,500,000",2021
+167,"Thomas Bryant, C",Washington Wizards,"$8,333,333",2021
+168,"CJ Miles, G",Boston Celtics,"$8,333,333",2021
+169,"Maxi Kleber, F",Dallas Mavericks,"$8,325,000",2021
+170,"RJ Barrett, F",New York Knicks,"$8,231,760",2021
+171,"Jakob Poeltl, C",San Antonio Spurs,"$8,101,852",2021
+172,"De'Aaron Fox, G",Sacramento Kings,"$8,099,627",2021
+173,"Luka Doncic, G",Dallas Mavericks,"$8,049,360",2021
+174,"Mason Plumlee, C",Detroit Pistons,"$8,000,000",2021
+175,"Lou Williams, SG",Atlanta Hawks,"$8,000,000",2021
+176,NAME,TEAM,SALARY,2021
+177,"P.J. Tucker, PF",Milwaukee Bucks,"$7,969,537",2021
+178,"LaMelo Ball, G",Charlotte Hornets,"$7,839,960",2021
+179,"Seth Curry, SG",Philadelphia 76ers,"$7,834,449",2021
+180,"Derrick Rose, PG",New York Knicks,"$7,682,927",2021
+181,"Cristiano Felicio, PF",Chicago Bulls,"$7,529,020",2021
+182,"Rajon Rondo, PG",LA Clippers,"$7,500,000",2021
+183,"Darrell Arthur, F",Phoenix Suns,"$7,464,912",2021
+184,"De'Andre Hunter, F",Atlanta Hawks,"$7,422,000",2021
+185,"Jonathan Isaac, F",Orlando Magic,"$7,362,566",2021
+186,"Doug McDermott, F",Indiana Pacers,"$7,333,333",2021
+187,NAME,TEAM,SALARY,2021
+188,"Robin Lopez, C",Washington Wizards,"$7,300,000",2021
+189,"Jaren Jackson Jr., F",Memphis Grizzlies,"$7,257,360",2021
+190,"JaMychal Green, F",Denver Nuggets,"$7,199,760",2021
+191,"Patrick Williams, F",Chicago Bulls,"$7,068,360",2021
+192,"Aron Baynes, C",Toronto Raptors,"$7,000,000",2021
+193,"Darius Miller, SF",Oklahoma City Thunder,"$7,000,000",2021
+194,"Ivica Zubac, C",LA Clippers,"$7,000,000",2021
+195,"Chris Boucher, F",Toronto Raptors,"$6,750,000",2021
+196,"Lauri Markkanen, F",Chicago Bulls,"$6,731,508",2021
+197,"Darius Garland, G",Cleveland Cavaliers,"$6,720,720",2021
+198,NAME,TEAM,SALARY,2021
+199,"D.J. Augustin, G",Houston Rockets,"$6,666,667",2021
+200,"Trae Young, G",Atlanta Hawks,"$6,571,800",2021
+201,"Juancho Hernangomez, PF",Minnesota Timberwolves,"$6,493,000",2021
+202,"Isaac Okoro, F",Cleveland Cavaliers,"$6,400,920",2021
+203,"Milos Teodosic, G",LA Clippers,"$6,300,000",2021
+204,"Frank Ntilikina, PG",New York Knicks,"$6,176,578",2021
+205,"Wesley Johnson, F",Washington Wizards,"$6,134,520",2021
+206,"Jarrett Culver, G",Minnesota Timberwolves,"$6,104,280",2021
+207,"Ish Smith, PG",Washington Wizards,"$6,000,000",2021
+208,"Alec Burks, SG",New York Knicks,"$6,000,000",2021
+209,NAME,TEAM,SALARY,2021
+210,"Mo Bamba, C",Orlando Magic,"$5,969,040",2021
+211,"Onyeka Okongwu, F",Atlanta Hawks,"$5,813,640",2021
+212,"Justin Holiday, F",Indiana Pacers,"$5,720,000",2021
+213,"Jonathon Simmons, G",Washington Wizards,"$5,700,000",2021
+214,"Dennis Smith Jr., PG",Detroit Pistons,"$5,686,677",2021
+215,"Avery Bradley, PG",Houston Rockets,"$5,635,000",2021
+216,"Coby White, G",Chicago Bulls,"$5,572,680",2021
+217,"Trey Lyles, PF",San Antonio Spurs,"$5,500,000",2021
+218,"Alex Abrines, G",Oklahoma City Thunder,"$5,455,236",2021
+219,"Jason Smith, F",New Orleans Pelicans,"$5,450,000",2021
+220,NAME,TEAM,SALARY,2021
+221,"Wendell Carter Jr., C",Orlando Magic,"$5,448,840",2021
+222,"Zach Collins, F",Chicago Bulls,"$5,406,255",2021
+223,"Malik Monk, G",Charlotte Hornets,"$5,345,687",2021
+224,"Killian Hayes, G",Detroit Pistons,"$5,307,120",2021
+225,"Alexis Ajinca, C",LA Clippers,"$5,285,394",2021
+226,"Luke Kennard, G",LA Clippers,"$5,273,826",2021
+227,"Donovan Mitchell, G",Utah Jazz,"$5,195,501",2021
+228,"Rodney McGruder, G",Detroit Pistons,"$5,192,307",2021
+229,"Bam Adebayo, C",Miami Heat,"$5,115,492",2021
+230,"Jaxson Hayes, C",New Orleans Pelicans,"$5,105,160",2021
+231,NAME,TEAM,SALARY,2021
+232,"Richaun Holmes, F",Sacramento Kings,"$5,005,350",2021
+233,"Mike Scott, PF",Philadelphia 76ers,"$5,005,350",2021
+234,"Ed Davis, C",Minnesota Timberwolves,"$5,005,350",2021
+235,"Enes Freedom, C",Portland Trail Blazers,"$5,005,350",2021
+236,"Nerlens Noel, C",New York Knicks,"$5,000,000",2021
+237,"Daniel Theis, C",Chicago Bulls,"$5,000,000",2021
+238,"Dirk Nowitzki, F",Dallas Mavericks,"$5,000,000",2021
+239,"Kyle Singler, F",Oklahoma City Thunder,"$4,996,000",2021
+240,"Collin Sexton, G",Cleveland Cavaliers,"$4,991,880",2021
+241,"Pat Connaughton, G",Milwaukee Bucks,"$4,938,272",2021
+242,NAME,TEAM,SALARY,2021
+243,"Obi Toppin, F",New York Knicks,"$4,862,040",2021
+244,"Josh Jackson, SG",Detroit Pistons,"$4,767,000",2021
+245,"Garrett Temple, G",Chicago Bulls,"$4,767,000",2021
+246,"Kris Dunn, G",Atlanta Hawks,"$4,767,000",2021
+247,"Rui Hachimura, F",Washington Wizards,"$4,692,840",2021
+248,"Denzel Valentine, G",Chicago Bulls,"$4,642,800",2021
+249,"Kevin Knox II, F",New York Knicks,"$4,588,680",2021
+250,"D.J. Wilson, F",Houston Rockets,"$4,548,280",2021
+251,"Deni Avdija, F",Washington Wizards,"$4,469,160",2021
+252,"Kevon Looney, F",Golden State Warriors,"$4,464,226",2021
+253,NAME,TEAM,SALARY,2021
+254,"Cam Reddish, SF",Atlanta Hawks,"$4,458,000",2021
+255,"T.J. Leaf, PF",Portland Trail Blazers,"$4,326,825",2021
+256,"Jalen Smith, F",Phoenix Suns,"$4,245,720",2021
+257,"JaVale McGee, C",Denver Nuggets,"$4,200,000",2021
+258,"Reggie Bullock Jr., SF",New York Knicks,"$4,200,000",2021
+259,"Mikal Bridges, G",Phoenix Suns,"$4,161,000",2021
+260,"Shai Gilgeous-Alexander, G",Oklahoma City Thunder,"$4,141,320",2021
+261,"John Collins, F",Atlanta Hawks,"$4,137,302",2021
+262,"Nicolo Melli, PF",Dallas Mavericks,"$4,102,564",2021
+263,"Willie Cauley-Stein, C",Dallas Mavericks,"$4,100,000",2021
+264,NAME,TEAM,SALARY,2021
+265,"Devin Vassell, G",San Antonio Spurs,"$4,033,440",2021
+266,"Cameron Johnson, F",Phoenix Suns,"$4,033,440",2021
+267,"P.J. Washington, F",Charlotte Hornets,"$4,023,600",2021
+268,"Patrick McCaw, SF",Toronto Raptors,"$4,000,000",2021
+269,"Dorian Finney-Smith, F",Dallas Mavericks,"$4,000,000",2021
+270,"Terrance Ferguson, SF",Philadelphia 76ers,"$3,944,013",2021
+271,"Miles Bridges, F",Charlotte Hornets,"$3,934,320",2021
+272,"Jevon Carter, G",Phoenix Suns,"$3,925,000",2021
+273,"Jarrett Allen, C",Cleveland Cavaliers,"$3,909,902",2021
+274,"OG Anunoby, F",Toronto Raptors,"$3,872,215",2021
+275,NAME,TEAM,SALARY,2021
+276,"Gabriel Deck, SF",Oklahoma City Thunder,"$3,870,370",2021
+277,"Tyrese Haliburton, G",Sacramento Kings,"$3,831,840",2021
+278,"Stanley Johnson, SF",Toronto Raptors,"$3,804,150",2021
+279,"Jake Layman, F",Minnesota Timberwolves,"$3,761,085",2021
+280,"Jerome Robinson, SG",Washington Wizards,"$3,737,520",2021
+281,"Danuel House Jr., SF",Houston Rockets,"$3,717,000",2021
+282,"Kira Lewis Jr., G",New Orleans Pelicans,"$3,640,200",2021
+283,"Romeo Langford, SG",Boston Celtics,"$3,631,200",2021
+284,"Bobby Portis, F",Milwaukee Bucks,"$3,623,000",2021
+285,"Maurice Harkless, SF",Sacramento Kings,"$3,623,000",2021
+286,NAME,TEAM,SALARY,2021
+287,"Wesley Matthews, SG",Los Angeles Lakers,"$3,623,000",2021
+288,"Kyle Kuzma, F",Los Angeles Lakers,"$3,562,178",2021
+289,"Allonzo Trier, G",New York Knicks,"$3,551,000",2021
+290,"Michael Porter Jr., F",Denver Nuggets,"$3,550,800",2021
+291,"Tony Bradley, C",Oklahoma City Thunder,"$3,542,060",2021
+292,"Derrick White, G",San Antonio Spurs,"$3,516,284",2021
+293,"Bismack Biyombo, C",Charlotte Hornets,"$3,500,000",2021
+294,"Michael Beasley, F",Brooklyn Nets,"$3,500,000",2021
+295,"Luca Vildoza, G",Milwaukee Bucks,"$3,500,000",2021
+296,"T.J. McConnell, G",Indiana Pacers,"$3,500,000",2021
+297,NAME,TEAM,SALARY,2021
+298,"Boban Marjanovic, C",Dallas Mavericks,"$3,500,000",2021
+299,"Josh Hart, G",New Orleans Pelicans,"$3,491,159",2021
+300,"Aaron Nesmith, G",Boston Celtics,"$3,458,400",2021
+301,"Sekou Doumbouya, SF",Detroit Pistons,"$3,449,400",2021
+302,"Michael Carter-Williams, G",Orlando Magic,"$3,300,000",2021
+303,"James Ennis III, F",Orlando Magic,"$3,300,000",2021
+304,"Cole Anthony, G",Orlando Magic,"$3,285,120",2021
+305,"Troy Brown Jr., F",Chicago Bulls,"$3,219,480",2021
+306,"Chuma Okeke, F",Orlando Magic,"$3,121,080",2021
+307,"Isaiah Stewart, F",Detroit Pistons,"$3,121,080",2021
+308,NAME,TEAM,SALARY,2021
+309,"Nickeil Alexander-Walker, G",New Orleans Pelicans,"$3,113,160",2021
+310,"Patrick Patterson, PF",LA Clippers,"$3,077,704",2021
+311,"Donte DiVincenzo, G",Milwaukee Bucks,"$3,044,160",2021
+312,"Trey Burke, PG",Dallas Mavericks,"$3,000,000",2021
+313,"Khem Birch, C",Toronto Raptors,"$3,000,000",2021
+314,"Ryan Arcidiacono, G",Chicago Bulls,"$3,000,000",2021
+315,"Aleksej Pokusevski, F",Oklahoma City Thunder,"$2,964,840",2021
+316,"Goga Bitadze, C",Indiana Pacers,"$2,957,520",2021
+317,"Luka Samanic, F",San Antonio Spurs,"$2,892,000",2021
+318,"Lonnie Walker IV, G",San Antonio Spurs,"$2,892,000",2021
+319,NAME,TEAM,SALARY,2021
+320,"Josh Green, G",Dallas Mavericks,"$2,816,760",2021
+321,"Kevin Huerter, G",Atlanta Hawks,"$2,761,920",2021
+322,"Alex Caruso, G",Los Angeles Lakers,"$2,750,000",2021
+323,"Matisse Thybulle, G",Philadelphia 76ers,"$2,711,280",2021
+324,"Saddiq Bey, G",Detroit Pistons,"$2,689,920",2021
+325,"Josh Okogie, G",Minnesota Timberwolves,"$2,651,040",2021
+326,"Marko Guduric, G",Memphis Grizzlies,"$2,625,000",2021
+327,"Brandon Clarke, F",Memphis Grizzlies,"$2,602,920",2021
+328,"Precious Achiuwa, PF",Miami Heat,"$2,582,160",2021
+329,"Tyler Herro, G",Miami Heat,"$2,582,160",2021
+330,NAME,TEAM,SALARY,2021
+331,"Marc Gasol, C",Los Angeles Lakers,"$2,564,753",2021
+332,"Nene Hilario, C",Atlanta Hawks,"$2,564,753",2021
+333,"Grayson Allen, G",Memphis Grizzlies,"$2,545,320",2021
+334,"Manu Ginobili, G",San Antonio Spurs,"$2,500,000",2021
+335,"Grant Williams, F",Boston Celtics,"$2,498,760",2021
+336,"Tyrese Maxey, G",Philadelphia 76ers,"$2,478,840",2021
+337,"Emeka Okafor, C",Philadelphia 76ers,"$2,445,085",2021
+338,"Kendrick Perkins, C",Cleveland Cavaliers,"$2,445,085",2021
+339,"Chandler Hutchison, SF",Washington Wizards,"$2,443,440",2021
+340,"Tyler Zeller, C",Atlanta Hawks,"$2,436,046",2021
+341,NAME,TEAM,SALARY,2021
+342,"Aaron Holiday, G",Indiana Pacers,"$2,345,640",2021
+343,"Darius Bazley, F",Oklahoma City Thunder,"$2,339,160",2021
+344,"Bryn Forbes, SG",Milwaukee Bucks,"$2,337,145",2021
+345,"Ty Jerome, G",Oklahoma City Thunder,"$2,303,040",2021
+346,"Zeke Nnaji, F",Denver Nuggets,"$2,284,800",2021
+347,"Mike Muscala, C",Oklahoma City Thunder,"$2,283,034",2021
+348,"Ben McLemore, SG",Los Angeles Lakers,"$2,283,034",2021
+349,"Anfernee Simons, G",Portland Trail Blazers,"$2,252,040",2021
+350,"Brad Wanamaker, PG",Charlotte Hornets,"$2,250,000",2021
+351,"Luke Kornet, C",Boston Celtics,"$2,250,000",2021
+352,NAME,TEAM,SALARY,2021
+353,"Brandon Jennings, G",Milwaukee Bucks,"$2,222,803",2021
+354,"Nassir Little, SF",Portland Trail Blazers,"$2,210,640",2021
+355,"Payton Pritchard, G",Boston Celtics,"$2,193,480",2021
+356,"R.J. Hampton, G",Orlando Magic,"$2,193,040",2021
+357,"Edmond Sumner, PG",Indiana Pacers,"$2,160,000",2021
+358,"Dylan Windler, G",Cleveland Cavaliers,"$2,137,440",2021
+359,"Immanuel Quickley, G",New York Knicks,"$2,105,520",2021
+360,"John Konchar, G",Memphis Grizzlies,"$2,100,000",2021
+361,"Landry Shamet, G",Brooklyn Nets,"$2,090,040",2021
+362,"Jordan Poole, G",Golden State Warriors,"$2,063,280",2021
+363,NAME,TEAM,SALARY,2021
+364,"Bol Bol, C",Denver Nuggets,"$2,058,240",2021
+365,"Sean Kilpatrick, G",Chicago Bulls,"$2,054,856",2021
+366,"Keldon Johnson, F",San Antonio Spurs,"$2,048,040",2021
+367,"Robert Williams III, C",Boston Celtics,"$2,029,920",2021
+368,"Jacob Evans, G",New York Knicks,"$2,017,320",2021
+369,"Kenrich Williams, G",Oklahoma City Thunder,"$2,000,000",2021
+370,"Theo Maledon, PG",Oklahoma City Thunder,"$2,000,000",2021
+371,"Damyean Dotson, SG",Cleveland Cavaliers,"$2,000,000",2021
+372,"Gary Clark, F",Philadelphia 76ers,"$2,000,000",2021
+373,"Omari Rasulala Spellman, F",New York Knicks,"$1,988,280",2021
+374,NAME,TEAM,SALARY,2021
+375,"Cameron Payne, PG",Phoenix Suns,"$1,977,011",2021
+376,"Udoka Azubuike, C",Utah Jazz,"$1,977,000",2021
+377,"Jaden McDaniels, F",Minnesota Timberwolves,"$1,964,760",2021
+378,"Malachi Flynn, PG",Toronto Raptors,"$1,950,600",2021
+379,"Desmond Bane, G",Memphis Grizzlies,"$1,936,440",2021
+380,"Jontay Porter, C",Memphis Grizzlies,"$1,900,000",2021
+381,"Jahlil Okafor, C",Detroit Pistons,"$1,882,867",2021
+382,"Marquese Chriss, SF",Golden State Warriors,"$1,824,003",2021
+383,"David Nwaba, SF",Houston Rockets,"$1,824,003",2021
+384,"DeAndre Liggins, G",Miami Heat,"$1,795,015",2021
+385,NAME,TEAM,SALARY,2021
+386,"Georges Niang, F",Utah Jazz,"$1,783,557",2021
+387,"PJ Dozier, G",Denver Nuggets,"$1,762,796",2021
+388,"Damion Lee, SG",Golden State Warriors,"$1,762,796",2021
+389,"Furkan Korkmaz, SG",Philadelphia 76ers,"$1,762,796",2021
+390,"Alfonzo McKinnie, F",Los Angeles Lakers,"$1,762,796",2021
+391,"Abdel Nader, F",Phoenix Suns,"$1,752,950",2021
+392,"Semi Ojeleye, PF",Boston Celtics,"$1,752,950",2021
+393,"DeAndre' Bembry, SG",Toronto Raptors,"$1,737,145",2021
+394,"Kevin Porter Jr., G",Houston Rockets,"$1,717,981",2021
+395,"Shake Milton, SG",Philadelphia 76ers,"$1,701,593",2021
+396,NAME,TEAM,SALARY,2021
+397,"Thanasis Antetokounmpo, F",Milwaukee Bucks,"$1,701,593",2021
+398,"Brandon Goodwin, G",Atlanta Hawks,"$1,701,593",2021
+399,"Jonah Bolden, PF",Phoenix Suns,"$1,698,450",2021
+400,"Wes Iwundu, F",New Orleans Pelicans,"$1,678,854",2021
+401,"Dragan Bender, F",Golden State Warriors,"$1,678,854",2021
+402,"Isaac Bonga, G",Washington Wizards,"$1,663,861",2021
+403,"Gary Trent Jr., G",Toronto Raptors,"$1,663,861",2021
+404,"Bruce Brown, G",Brooklyn Nets,"$1,663,861",2021
+405,"Hamidou Diallo, G",Detroit Pistons,"$1,663,861",2021
+406,"Kendrick Nunn, G",Miami Heat,"$1,663,861",2021
+407,NAME,TEAM,SALARY,2021
+408,"Mitchell Robinson, C",New York Knicks,"$1,663,861",2021
+409,"Jalen Brunson, G",Dallas Mavericks,"$1,663,861",2021
+410,"Keita Bates-Diop, SF",San Antonio Spurs,"$1,663,861",2021
+411,"Duncan Robinson, F",Miami Heat,"$1,663,861",2021
+412,"Svi Mykhailiuk, G",Oklahoma City Thunder,"$1,663,861",2021
+413,"Jarred Vanderbilt, F",Minnesota Timberwolves,"$1,663,361",2021
+414,"Julyan Stone, G",Chicago Bulls,"$1,656,092",2021
+415,"MarShon Brooks, G",Chicago Bulls,"$1,656,092",2021
+416,"Wenyen Gabriel, F",New Orleans Pelicans,"$1,620,564",2021
+417,"Shaquille Harrison, G",Denver Nuggets,"$1,620,564",2021
+418,NAME,TEAM,SALARY,2021
+419,"Isaiah Taylor, G",Toronto Raptors,"$1,620,564",2021
+420,"Hassan Whiteside, C",Sacramento Kings,"$1,620,564",2021
+421,"Tyler Johnson, G",Brooklyn Nets,"$1,620,564",2021
+422,"Tyler Lydon, F",Sacramento Kings,"$1,620,564",2021
+423,"Quinn Cook, PG",Cleveland Cavaliers,"$1,620,564",2021
+424,"Matthew Dellavedova, G",Cleveland Cavaliers,"$1,620,564",2021
+425,"Kent Bazemore, SF",Golden State Warriors,"$1,620,564",2021
+426,"Drew Eubanks, F",San Antonio Spurs,"$1,620,564",2021
+427,"Isaiah Thomas, G",New Orleans Pelicans,"$1,620,564",2021
+428,"Nicolas Batum, F",LA Clippers,"$1,620,564",2021
+429,NAME,TEAM,SALARY,2021
+430,"E'Twaun Moore, G",Phoenix Suns,"$1,620,564",2021
+431,"Isaiah Hartenstein, C",Cleveland Cavaliers,"$1,620,564",2021
+432,"Solomon Hill, SF",Atlanta Hawks,"$1,620,564",2021
+433,"Josh Gray, G",Brooklyn Nets,"$1,620,564",2021
+434,"Wilson Chandler, F",Brooklyn Nets,"$1,620,564",2021
+435,"Glenn Robinson III, F",Sacramento Kings,"$1,620,564",2021
+436,"Udonis Haslem, PF",Miami Heat,"$1,620,564",2021
+437,"Harry Giles III, PF",Portland Trail Blazers,"$1,620,564",2021
+438,"Sterling Brown, SF",Houston Rockets,"$1,620,564",2021
+439,"Wayne Ellington, SG",Detroit Pistons,"$1,620,564",2021
+440,NAME,TEAM,SALARY,2021
+441,"Jared Dudley, SF",Los Angeles Lakers,"$1,620,564",2021
+442,"Dwight Howard, C",Philadelphia 76ers,"$1,620,564",2021
+443,"Carmelo Anthony, PF",Portland Trail Blazers,"$1,620,564",2021
+444,"JaKarr Sampson, SF",Indiana Pacers,"$1,620,564",2021
+445,"Langston Galloway, SG",Phoenix Suns,"$1,620,564",2021
+446,"Frank Kaminsky, F",Phoenix Suns,"$1,620,564",2021
+447,"Ryan Anderson, PF",Houston Rockets,"$1,620,564",2021
+448,"Jeff Green, F",Brooklyn Nets,"$1,620,564",2021
+449,"Gerald Green, G",Houston Rockets,"$1,620,564",2021
+450,"Reggie Jackson, PG",LA Clippers,"$1,620,564",2021
+451,NAME,TEAM,SALARY,2021
+452,"Markieff Morris, PF",Los Angeles Lakers,"$1,620,564",2021
+453,"J.J. Barea, G",Dallas Mavericks,"$1,620,564",2021
+454,"Thon Maker, F",Cleveland Cavaliers,"$1,620,564",2021
+455,"Jarell Martin, F",Cleveland Cavaliers,"$1,620,564",2021
+456,"Raul Neto, PG",Washington Wizards,"$1,620,564",2021
+457,"Torrey Craig, SF",Phoenix Suns,"$1,620,564",2021
+458,"Willy Hernangomez, C",New Orleans Pelicans,"$1,620,564",2021
+459,"Joe Johnson, G",Boston Celtics,"$1,620,564",2021
+460,"Vince Carter, G",Atlanta Hawks,"$1,620,564",2021
+461,"Dwight Buycks, G",Detroit Pistons,"$1,600,520",2021
+462,NAME,TEAM,SALARY,2021
+463,"Monte Morris, PG",Denver Nuggets,"$1,588,231",2021
+464,"Antonio Blakeney, G",Chicago Bulls,"$1,588,231",2021
+465,"Tyrone Wallace, G",New Orleans Pelicans,"$1,588,231",2021
+466,"Malachi Richardson, G",Philadelphia 76ers,"$1,569,360",2021
+467,"Georgios Papagiannis, C",Portland Trail Blazers,"$1,544,951",2021
+468,"Chinanu Onuaku, C",Portland Trail Blazers,"$1,544,951",2021
+469,"Wade Baldwin IV, G",Indiana Pacers,"$1,544,951",2021
+470,"Isaiah Whitehead, G",Detroit Pistons,"$1,544,951",2021
+471,"Paul Zipser, F",Chicago Bulls,"$1,544,951",2021
+472,"Cody Martin, SF",Charlotte Hornets,"$1,517,981",2021
+473,NAME,TEAM,SALARY,2021
+474,"Mychal Mulder, G",Golden State Warriors,"$1,517,981",2021
+475,"Jalen McDaniels, F",Charlotte Hornets,"$1,517,981",2021
+476,"Dewan Hernandez, F",Toronto Raptors,"$1,517,981",2021
+477,"Anzejs Pasecniks, C",Washington Wizards,"$1,517,981",2021
+478,"Talen Horton-Tucker, SF",Los Angeles Lakers,"$1,517,981",2021
+479,"Nigel Williams-Goss, G",Utah Jazz,"$1,517,981",2021
+480,"Luguentz Dort, G",Oklahoma City Thunder,"$1,517,981",2021
+481,"KZ Okpala, SF",Miami Heat,"$1,517,981",2021
+482,"Terence Davis, G",Sacramento Kings,"$1,517,981",2021
+483,"Miye Oni, SF",Utah Jazz,"$1,517,981",2021
+484,NAME,TEAM,SALARY,2021
+485,"Admiral Schofield, SF",Orlando Magic,"$1,517,981",2021
+486,"Isaiah Roby, PF",Oklahoma City Thunder,"$1,517,981",2021
+487,"Nic Claxton, C",Brooklyn Nets,"$1,517,981",2021
+488,"Naz Reid, C",Minnesota Timberwolves,"$1,517,981",2021
+489,"Eric Paschall, F",Golden State Warriors,"$1,517,981",2021
+490,"Jalen Lecque, G",Indiana Pacers,"$1,517,981",2021
+491,"Rayjon Tucker, G",Philadelphia 76ers,"$1,517,981",2021
+492,"Caleb Martin, F",Charlotte Hornets,"$1,517,981",2021
+493,"Ky Bowman, G",LA Clippers,"$1,517,981",2021
+494,"Juwan Morgan, F",Utah Jazz,"$1,517,981",2021
+495,NAME,TEAM,SALARY,2021
+496,"Terance Mann, G",LA Clippers,"$1,517,981",2021
+497,"Alen Smailagic, PF",Golden State Warriors,"$1,517,981",2021
+498,"Jaylen Nowell, G",Minnesota Timberwolves,"$1,517,981",2021
+499,"Carsen Edwards, PG",Boston Celtics,"$1,517,981",2021
+500,"Vlatko Cancar, SF",Denver Nuggets,"$1,517,981",2021
+501,"Daniel Gafford, F",Washington Wizards,"$1,517,981",2021
+502,"Dean Wade, F",Cleveland Cavaliers,"$1,517,981",2021
+503,"Matt Thomas, SG",Utah Jazz,"$1,517,981",2021
+504,"Javonte Green, G",Chicago Bulls,"$1,517,981",2021
+505,"Justin James, G",Sacramento Kings,"$1,517,981",2021
+506,NAME,TEAM,SALARY,2021
+507,"Bruno Fernando, F",Atlanta Hawks,"$1,517,981",2021
+508,"Chris Silva, F",Sacramento Kings,"$1,517,981",2021
+509,"Chris Clemons, G",Atlanta Hawks,"$1,517,981",2021
+510,"Omri Casspi, F",Memphis Grizzlies,"$1,512,601",2021
+511,"Isaiah Canaan, G",Milwaukee Bucks,"$1,512,601",2021
+512,"Dwyane Wade, G",Miami Heat,"$1,512,601",2021
+513,"Robert Woodard II, F",Sacramento Kings,"$1,500,000",2021
+514,"Paul Watson, SG",Toronto Raptors,"$1,445,697",2021
+515,"DaQuan Jeffries, SG",Houston Rockets,"$1,445,697",2021
+516,"Jae'Sean Tate, F",Houston Rockets,"$1,445,697",2021
+517,NAME,TEAM,SALARY,2021
+518,"Theo Pinson, G",New York Knicks,"$1,445,697",2021
+519,"Zylan Cheatham, F",ADELAIDE 36ers,"$1,445,697",2021
+520,"Kelan Martin, SG",Indiana Pacers,"$1,445,697",2021
+521,"Taj Gibson, F",New York Knicks,"$1,442,968",2021
+522,"Elie Okobo, G",Brooklyn Nets,"$1,416,852",2021
+523,"Jaylen Adams, G",Milwaukee Bucks,"$1,416,852",2021
+524,"Jemerrio Jones, F",Los Angeles Lakers,"$1,416,852",2021
+525,"Dairis Bertans, G",New Orleans Pelicans,"$1,416,852",2021
+526,"Yante Maten, F",Boston Celtics,"$1,416,852",2021
+527,"Tarik Phillip, G",Washington Wizards,"$1,416,842",2021
+528,NAME,TEAM,SALARY,2021
+529,"Dakari Johnson, C",Memphis Grizzlies,"$1,378,242",2021
+530,"Kyle Collinsworth, G",Utah Jazz,"$1,378,242",2021
+531,"Jaylen Morris, F",San Antonio Spurs,"$1,378,242",2021
+532,"Brandon Paul, G",San Antonio Spurs,"$1,378,242",2021
+533,"Rodney Purvis, G",Miami Heat,"$1,378,242",2021
+534,"David Stockton, G",Los Angeles Lakers,"$1,378,242",2021
+535,"Zhou Qi, C",Houston Rockets,"$1,378,242",2021
+536,"Aaron Jackson, F",Houston Rockets,"$1,378,242",2021
+537,"Ike Anigbogu, C",New Orleans Pelicans,"$1,378,242",2021
+538,"Vernon Carey Jr., C",Charlotte Hornets,"$1,350,000",2021
+539,NAME,TEAM,SALARY,2021
+540,"Jabari Bird, G",Atlanta Hawks,"$1,349,464",2021
+541,"Ben Moore, F",San Antonio Spurs,"$1,349,383",2021
+542,"James Nunnally, SF",New Orleans Pelicans,"$1,349,383",2021
+543,"Xavier Tillman, F",Memphis Grizzlies,"$1,300,000",2021
+544,"Tyrell Terry, PG",Dallas Mavericks,"$1,289,846",2021
+545,"Alex Len, C",Washington Wizards,"$1,265,372",2021
+546,"Noah Vonleh, PF",Brooklyn Nets,"$1,087,776",2021
+547,"Nick Young, G",Denver Nuggets,"$1,042,584",2021
+548,"Nick Richards, C",Charlotte Hornets,"$1,000,000",2021
+549,"Jahmi'us Ramsey, PG",Sacramento Kings,"$1,000,000",2021
+550,NAME,TEAM,SALARY,2021
+551,"Gorgui Dieng, C",San Antonio Spurs,"$1,000,000",2021
+552,"Paul Millsap, PF",Denver Nuggets,"$1,000,000",2021
+553,"Ron Baker, G",Washington Wizards,"$948,580",2021
+554,"Daniel Oturu, C",LA Clippers,"$898,310",2021
+555,"Jordan Nwora, SF",Milwaukee Bucks,"$898,310",2021
+556,"Anthony Gill, F",Washington Wizards,"$898,310",2021
+557,"Stanton Kidd, SF",Utah Jazz,"$898,310",2021
+558,"Isaiah Joe, G",Philadelphia 76ers,"$898,310",2021
+559,"Tre Jones, G",San Antonio Spurs,"$898,310",2021
+560,"Elijah Hughes, F",Utah Jazz,"$898,310",2021
+561,NAME,TEAM,SALARY,2021
+562,"KJ Martin, F",Houston Rockets,"$898,310",2021
+563,"CJ Elleby, SG",Portland Trail Blazers,"$898,310",2021
+564,"Deividas Sirvydis, F",Detroit Pistons,"$898,310",2021
+565,"Sam Merrill, G",Milwaukee Bucks,"$898,310",2021
+566,"Max Strus, G",Miami Heat,"$898,310",2021
+567,"Isaiah Briscoe, G",Orlando Magic,"$838,464",2021
+568,"Andre Drummond, C",Los Angeles Lakers,"$794,536",2021
+569,"Blake Griffin, PF",Brooklyn Nets,"$776,983",2021
+570,"Oshae Brissett, SF",Indiana Pacers,"$757,453",2021
+571,"Ersan Ilyasova, PF",Utah Jazz,"$754,783",2021
+572,NAME,TEAM,SALARY,2021
+573,"Chimezie Metu, PF",Sacramento Kings,"$700,000",2021
+574,"Timothe Luwawu-Cabarrot, SG",Brooklyn Nets,"$654,469",2021
+575,"Lamar Stevens, F",Cleveland Cavaliers,"$652,366",2021
+576,"Paul Reed, F",Philadelphia 76ers,"$609,128",2021
+577,"Jeff Teague, PG",Milwaukee Bucks,"$510,589",2021
+578,"Norvel Pelle, PF",New York Knicks,"$500,000",2021
+579,"Dewayne Dedmon, C",Miami Heat,"$432,890",2021
+580,"Nemanja Bjelica, PF",Miami Heat,"$432,890",2021
+581,"Jabari Parker, PF",Boston Celtics,"$430,729",2021
+582,"Alize Johnson, F",Brooklyn Nets,"$399,591",2021
+583,NAME,TEAM,SALARY,2021
+584,"Tyler Cook, F",Brooklyn Nets,"$396,081",2021
+585,"Dion Waiters, G",Los Angeles Lakers,"$375,385",2021
+586,"Juan Toscano-Anderson, F",Golden State Warriors,"$358,295",2021
+587,"Yuta Watanabe, SF",Toronto Raptors,"$321,893",2021
+588,"Anthony Tolliver, PF",Philadelphia 76ers,"$263,501",2021
+589,"Tim Frazier, PG",Memphis Grizzlies,"$255,294",2021
+590,"Khyri Thomas, SG",Houston Rockets,"$250,000",2021
+591,"Damian Jones, C",Sacramento Kings,"$237,965",2021
+592,"DeMarcus Cousins, C",LA Clippers,"$233,095",2021
+593,"Moritz Wagner, F",Orlando Magic,"$221,995",2021
+594,NAME,TEAM,SALARY,2021
+595,"Yogi Ferrell, PG",LA Clippers,"$214,169",2021
+596,"Rondae Hollis Jefferson, SF",Portland Trail Blazers,"$210,895",2021
+597,"Jimmer Fredette, G",Phoenix Suns,"$208,509",2021
+598,"Austin Rivers, SG",Denver Nuggets,"$188,696",2021
+599,"Devonte' Graham, PG",Charlotte Hornets,"$163,861",2021
+600,"Mamadi Diakite, F",Milwaukee Bucks,"$160,173",2021
+601,"Mfiondu Kabengele, C",Cleveland Cavaliers,"$154,433",2021
+602,"Naji Marshall, F",New Orleans Pelicans,"$120,000",2021
+603,"Freddie Gillespie, SF",Toronto Raptors,"$116,903",2021
+604,"Ignas Brazdeikis, SF",Orlando Magic,"$49,510",2021
+605,NAME,TEAM,SALARY,2021
+606,"Mike James, PG",Brooklyn Nets,"$39,608",2021
+607,"Elijah Bryant, SG",Milwaukee Bucks,"$24,611",2021
+608,"Caleb Homesley, SG",Washington Wizards,"$20,000",2021
+609,"Charlie Brown Jr., G",Oklahoma City Thunder,"$19,804",2021
+610,"Omer Yurtseven, C",Utah Jazz,"$18,458",2021
+611,"Gary Payton II, G",Golden State Warriors,"$11,898",2021
+612,NAME,TEAM,SALARY,2022
+613,"Stephen Curry, G",Golden State Warriors,"$43,006,362",2022
+614,"Russell Westbrook, G",Washington Wizards,"$41,358,814",2022
+615,"Chris Paul, G",Phoenix Suns,"$41,358,814",2022
+616,"James Harden, G",Brooklyn Nets,"$41,254,920",2022
+617,"John Wall, PG",Houston Rockets,"$41,254,920",2022
+618,"Kevin Durant, F",Brooklyn Nets,"$40,108,950",2022
+619,"LeBron James, F",Los Angeles Lakers,"$39,219,565",2022
+620,"Paul George, F",LA Clippers,"$35,450,412",2022
+621,"Klay Thompson, G",Dallas Mavericks,"$35,361,360",2022
+622,"Mike Conley, G",Utah Jazz,"$34,502,130",2022
+623,NAME,TEAM,SALARY,2022
+624,"Jimmy Butler III, F",Miami Heat,"$34,379,100",2022
+625,"Kawhi Leonard, F",LA Clippers,"$34,379,100",2022
+626,"Kemba Walker, PG",Boston Celtics,"$34,379,100",2022
+627,"Tobias Harris, F",Philadelphia 76ers,"$34,358,850",2022
+628,"Khris Middleton, F",Milwaukee Bucks,"$33,051,724",2022
+629,"Anthony Davis, F",Los Angeles Lakers,"$32,742,000",2022
+630,"Kyrie Irving, G",Brooklyn Nets,"$31,742,000",2022
+631,"Damian Lillard, G",Portland Trail Blazers,"$31,626,953",2022
+632,"Kevin Love, F",Cleveland Cavaliers,"$31,258,256",2022
+633,"Ben Simmons, PG",Philadelphia 76ers,"$30,559,200",2022
+634,NAME,TEAM,SALARY,2022
+635,"Pascal Siakam, F",Toronto Raptors,"$30,559,200",2022
+636,"Kyle Lowry, G",Toronto Raptors,"$30,500,000",2022
+637,"Steven Adams, C",New Orleans Pelicans,"$29,592,696",2022
+638,"Joel Embiid, C",Philadelphia 76ers,"$29,542,010",2022
+639,"Andrew Wiggins, F",Golden State Warriors,"$29,542,010",2022
+640,"Nikola Jokic, C",Denver Nuggets,"$29,542,010",2022
+641,"Devin Booker, G",Phoenix Suns,"$29,467,800",2022
+642,"Karl-Anthony Towns, C",Minnesota Timberwolves,"$29,467,800",2022
+643,"Kristaps Porzingis, C",Dallas Mavericks,"$29,467,800",2022
+644,"CJ McCollum, G",Portland Trail Blazers,"$29,354,152",2022
+645,NAME,TEAM,SALARY,2022
+646,"Bradley Beal, G",Washington Wizards,"$28,751,775",2022
+647,"D'Angelo Russell, G",Minnesota Timberwolves,"$28,649,250",2022
+648,"Gordon Hayward, SF",Charlotte Hornets,"$28,500,000",2022
+649,"Otto Porter Jr., SF",Orlando Magic,"$28,489,237",2022
+650,"DeMar DeRozan, G",San Antonio Spurs,"$27,739,975",2022
+651,"Giannis Antetokounmpo, F",Milwaukee Bucks,"$27,528,090",2022
+652,"Rudy Gobert, C",Utah Jazz,"$27,525,281",2022
+653,"Al Horford, C",Oklahoma City Thunder,"$27,500,000",2022
+654,"Jamal Murray, G",Denver Nuggets,"$27,285,000",2022
+655,"Brandon Ingram, F",New Orleans Pelicans,"$27,285,000",2022
+656,NAME,TEAM,SALARY,2022
+657,"Jrue Holiday, G",Milwaukee Bucks,"$26,231,111",2022
+658,"Nikola Vucevic, C",Chicago Bulls,"$26,000,000",2022
+659,"Chandler Parsons, SF",Atlanta Hawks,"$25,102,511",2022
+660,"Buddy Hield, G",Sacramento Kings,"$24,701,834",2022
+661,"LaMarcus Aldridge, C",Brooklyn Nets,"$24,000,000",2022
+662,"Jaylen Brown, G",Boston Celtics,"$23,735,118",2022
+663,"Draymond Green, F",Golden State Warriors,"$22,246,956",2022
+664,"Harrison Barnes, F",Sacramento Kings,"$22,215,909",2022
+665,"Fred VanVleet, G",Toronto Raptors,"$21,250,000",2022
+666,"Victor Oladipo, SG",Miami Heat,"$21,000,000",2022
+667,NAME,TEAM,SALARY,2022
+668,"Malcolm Brogdon, G",Indiana Pacers,"$20,700,000",2022
+669,"Domantas Sabonis, F",Indiana Pacers,"$19,800,000",2022
+670,"Gary Harris, G",Orlando Magic,"$19,610,714",2022
+671,"Danilo Gallinari, PF",Atlanta Hawks,"$19,500,000",2022
+672,"Zach LaVine, G",Chicago Bulls,"$19,500,000",2022
+673,"Jerami Grant, F",Detroit Pistons,"$19,050,000",2022
+674,"Tim Hardaway Jr., G",Dallas Mavericks,"$18,975,000",2022
+675,"Julius Randle, F",New York Knicks,"$18,900,000",2022
+676,"Terry Rozier, G",Charlotte Hornets,"$18,900,000",2022
+677,"Allen Crabbe, G",Minnesota Timberwolves,"$18,500,000",2022
+678,NAME,TEAM,SALARY,2022
+679,"Aaron Gordon, F",Denver Nuggets,"$18,136,364",2022
+680,"Goran Dragic, PG",Miami Heat,"$18,000,000",2022
+681,"Myles Turner, C",Indiana Pacers,"$18,000,000",2022
+682,"Bogdan Bogdanovic, G",Atlanta Hawks,"$18,000,000",2022
+683,"Bojan Bogdanovic, SF",Utah Jazz,"$17,850,000",2022
+684,"Evan Fournier, SG",Boston Celtics,"$17,150,000",2022
+685,"Ricky Rubio, PG",Minnesota Timberwolves,"$17,000,000",2022
+686,"Eric Bledsoe, SG",New Orleans Pelicans,"$16,875,000",2022
+687,"Eric Gordon, G",Houston Rockets,"$16,869,276",2022
+688,"Timofey Mozgov, C",Orlando Magic,"$16,720,000",2022
+689,NAME,TEAM,SALARY,2022
+690,"Caris LeVert, G",Indiana Pacers,"$16,203,704",2022
+691,"Joe Harris, SF",Brooklyn Nets,"$16,071,429",2022
+692,"James Johnson, PF",New Orleans Pelicans,"$16,047,100",2022
+693,"Dennis Schroder, G",Los Angeles Lakers,"$16,000,000",2022
+694,"Clint Capela, C",Atlanta Hawks,"$16,000,000",2022
+695,"Cody Zeller, C",Charlotte Hornets,"$15,415,730",2022
+696,"Danny Green, F",Philadelphia 76ers,"$15,365,853",2022
+697,"Davis Bertans, SF",Washington Wizards,"$15,000,000",2022
+698,"Andre Iguodala, F",Miami Heat,"$15,000,000",2022
+699,"Jonas Valanciunas, C",Memphis Grizzlies,"$15,000,000",2022
+700,NAME,TEAM,SALARY,2022
+701,"Marcus Morris Sr., F",LA Clippers,"$14,888,721",2022
+702,"Luke Babbitt, F",Miami Heat,"$14,651,700",2022
+703,"Rudy Gay, SF",San Antonio Spurs,"$14,500,000",2022
+704,"Kelly Oubre Jr., G",Golden State Warriors,"$14,375,000",2022
+705,"Dejounte Murray, G",San Antonio Spurs,"$14,286,000",2022
+706,"Will Barton, G",Denver Nuggets,"$13,723,214",2022
+707,"Marcin Gortat, C",LA Clippers,"$13,565,218",2022
+708,"Thaddeus Young, F",Chicago Bulls,"$13,545,000",2022
+709,"Patty Mills, PG",San Antonio Spurs,"$13,535,714",2022
+710,"Terrence Ross, G",Orlando Magic,"$13,500,000",2022
+711,NAME,TEAM,SALARY,2022
+712,"Marcus Smart, G",Boston Celtics,"$13,446,428",2022
+713,"Malik Beasley, SG",Minnesota Timberwolves,"$13,425,895",2022
+714,"Patrick Beverley, PG",LA Clippers,"$13,333,333",2022
+715,"Christian Wood, F",Houston Rockets,"$13,015,873",2022
+716,"JJ Redick, SG",Dallas Mavericks,"$13,013,700",2022
+717,"Justise Winslow, PF",Memphis Grizzlies,"$13,000,000",2022
+718,"Jusuf Nurkic, C",Portland Trail Blazers,"$12,888,889",2022
+719,"Trevor Ariza, SF",Miami Heat,"$12,800,000",2022
+720,"Courtney Lee, G",Dallas Mavericks,"$12,759,670",2022
+721,"Brook Lopez, C",Milwaukee Bucks,"$12,697,674",2022
+722,NAME,TEAM,SALARY,2022
+723,"Cory Joseph, PG",Detroit Pistons,"$12,600,000",2022
+724,"Kelly Olynyk, F",Houston Rockets,"$12,598,243",2022
+725,"Miles Plumlee, C",Memphis Grizzlies,"$12,500,000",2022
+726,"T.J. Warren, SF",Indiana Pacers,"$12,500,000",2022
+727,"Nikola Mirotic, F",Milwaukee Bucks,"$12,500,000",2022
+728,"Tyreke Evans, G",Indiana Pacers,"$12,400,000",2022
+729,"Markelle Fultz, PG",Orlando Magic,"$12,288,697",2022
+730,"Taurean Prince, F",Cleveland Cavaliers,"$12,250,000",2022
+731,"Tony Snell, SF",Atlanta Hawks,"$12,178,571",2022
+732,"Robert Covington, PF",Portland Trail Blazers,"$12,138,345",2022
+733,NAME,TEAM,SALARY,2022
+734,"Kentavious Caldwell-Pope, G",Los Angeles Lakers,"$12,073,020",2022
+735,"Larry Nance Jr., F",Cleveland Cavaliers,"$11,709,091",2022
+736,"Zach Randolph, F",Dallas Mavericks,"$11,692,308",2022
+737,"Jordan Clarkson, G",Utah Jazz,"$11,500,000",2022
+738,"Spencer Dinwiddie, PG",Brooklyn Nets,"$11,454,048",2022
+739,"Dillon Brooks, F",Memphis Grizzlies,"$11,400,000",2022
+740,"Omer Asik, C",Chicago Bulls,"$11,286,516",2022
+741,"Dwight Powell, F",Dallas Mavericks,"$11,080,125",2022
+742,"Lonzo Ball, G",New Orleans Pelicans,"$11,003,782",2022
+743,"Josh Richardson, SG",Dallas Mavericks,"$10,865,952",2022
+744,NAME,TEAM,SALARY,2022
+745,"Norman Powell, G",Portland Trail Blazers,"$10,865,952",2022
+746,"Joe Ingles, F",Utah Jazz,"$10,863,637",2022
+747,"Jeremy Lamb, SG",Indiana Pacers,"$10,500,000",2022
+748,"DeAndre Jordan, C",Brooklyn Nets,"$10,375,678",2022
+749,"Zion Williamson, F",New Orleans Pelicans,"$10,245,480",2022
+750,"Rodney Hood, SG",Toronto Raptors,"$10,047,450",2022
+751,"Tomas Satoransky, SG",Chicago Bulls,"$10,000,000",2022
+752,"Darren Collison, PG",Los Angeles Lakers,"$10,000,000",2022
+753,"Jayson Tatum, F",Boston Celtics,"$9,897,120",2022
+754,"Anthony Edwards, G",Minnesota Timberwolves,"$9,757,440",2022
+755,NAME,TEAM,SALARY,2022
+756,"Al-Farouq Aminu, SF",Chicago Bulls,"$9,720,900",2022
+757,"Dante Exum, G",Cleveland Cavaliers,"$9,600,000",2022
+758,"George Hill, PG",Philadelphia 76ers,"$9,590,602",2022
+759,"De'Anthony Melton, G",Memphis Grizzlies,"$9,571,712",2022
+760,"Deandre Ayton, C",Phoenix Suns,"$9,562,920",2022
+761,"Kyle Anderson, F",Memphis Grizzlies,"$9,505,100",2022
+762,"Meyers Leonard, C",Miami Heat,"$9,400,000",2022
+763,"Montrezl Harrell, C",Los Angeles Lakers,"$9,258,000",2022
+764,"Jae Crowder, PF",Phoenix Suns,"$9,258,000",2022
+765,"Serge Ibaka, F",LA Clippers,"$9,258,000",2022
+766,NAME,TEAM,SALARY,2022
+767,"Derrick Jones Jr., F",Portland Trail Blazers,"$9,258,000",2022
+768,"Tristan Thompson, C",Boston Celtics,"$9,258,000",2022
+769,"Derrick Favors, F",Utah Jazz,"$9,258,000",2022
+770,"Dario Saric, F",Phoenix Suns,"$9,250,000",2022
+771,"Ja Morant, G",Memphis Grizzlies,"$9,166,800",2022
+772,"Delon Wright, G",Sacramento Kings,"$9,000,000",2022
+773,"Marvin Bagley III, F",Sacramento Kings,"$8,963,640",2022
+774,"Cedi Osman, SF",Cleveland Cavaliers,"$8,840,580",2022
+775,"Tyus Jones, G",Memphis Grizzlies,"$8,817,143",2022
+776,"James Wiseman, C",Golden State Warriors,"$8,730,240",2022
+777,NAME,TEAM,SALARY,2022
+778,"Royce O'Neale, F",Utah Jazz,"$8,500,000",2022
+779,"Thomas Bryant, C",Washington Wizards,"$8,333,333",2022
+780,"CJ Miles, G",Boston Celtics,"$8,333,333",2022
+781,"Maxi Kleber, F",Dallas Mavericks,"$8,325,000",2022
+782,"RJ Barrett, F",New York Knicks,"$8,231,760",2022
+783,"Jakob Poeltl, C",San Antonio Spurs,"$8,101,852",2022
+784,"De'Aaron Fox, G",Sacramento Kings,"$8,099,627",2022
+785,"Luka Doncic, G",Dallas Mavericks,"$8,049,360",2022
+786,"Mason Plumlee, C",Detroit Pistons,"$8,000,000",2022
+787,"Lou Williams, SG",Atlanta Hawks,"$8,000,000",2022
+788,NAME,TEAM,SALARY,2022
+789,"P.J. Tucker, PF",Milwaukee Bucks,"$7,969,537",2022
+790,"LaMelo Ball, G",Charlotte Hornets,"$7,839,960",2022
+791,"Seth Curry, SG",Philadelphia 76ers,"$7,834,449",2022
+792,"Derrick Rose, PG",New York Knicks,"$7,682,927",2022
+793,"Cristiano Felicio, PF",Chicago Bulls,"$7,529,020",2022
+794,"Rajon Rondo, PG",LA Clippers,"$7,500,000",2022
+795,"Darrell Arthur, F",Phoenix Suns,"$7,464,912",2022
+796,"De'Andre Hunter, F",Atlanta Hawks,"$7,422,000",2022
+797,"Jonathan Isaac, F",Orlando Magic,"$7,362,566",2022
+798,"Doug McDermott, F",Indiana Pacers,"$7,333,333",2022
+799,NAME,TEAM,SALARY,2022
+800,"Robin Lopez, C",Washington Wizards,"$7,300,000",2022
+801,"Jaren Jackson Jr., F",Memphis Grizzlies,"$7,257,360",2022
+802,"JaMychal Green, F",Denver Nuggets,"$7,199,760",2022
+803,"Patrick Williams, F",Chicago Bulls,"$7,068,360",2022
+804,"Aron Baynes, C",Toronto Raptors,"$7,000,000",2022
+805,"Darius Miller, SF",Oklahoma City Thunder,"$7,000,000",2022
+806,"Ivica Zubac, C",LA Clippers,"$7,000,000",2022
+807,"Chris Boucher, F",Toronto Raptors,"$6,750,000",2022
+808,"Lauri Markkanen, F",Chicago Bulls,"$6,731,508",2022
+809,"Darius Garland, G",Cleveland Cavaliers,"$6,720,720",2022
+810,NAME,TEAM,SALARY,2022
+811,"D.J. Augustin, G",Houston Rockets,"$6,666,667",2022
+812,"Trae Young, G",Atlanta Hawks,"$6,571,800",2022
+813,"Juancho Hernangomez, PF",Minnesota Timberwolves,"$6,493,000",2022
+814,"Isaac Okoro, F",Cleveland Cavaliers,"$6,400,920",2022
+815,"Milos Teodosic, G",LA Clippers,"$6,300,000",2022
+816,"Frank Ntilikina, PG",New York Knicks,"$6,176,578",2022
+817,"Wesley Johnson, F",Washington Wizards,"$6,134,520",2022
+818,"Jarrett Culver, G",Minnesota Timberwolves,"$6,104,280",2022
+819,"Ish Smith, PG",Washington Wizards,"$6,000,000",2022
+820,"Alec Burks, SG",New York Knicks,"$6,000,000",2022
+821,NAME,TEAM,SALARY,2022
+822,"Mo Bamba, C",Orlando Magic,"$5,969,040",2022
+823,"Onyeka Okongwu, F",Atlanta Hawks,"$5,813,640",2022
+824,"Justin Holiday, F",Indiana Pacers,"$5,720,000",2022
+825,"Jonathon Simmons, G",Washington Wizards,"$5,700,000",2022
+826,"Dennis Smith Jr., PG",Detroit Pistons,"$5,686,677",2022
+827,"Avery Bradley, PG",Houston Rockets,"$5,635,000",2022
+828,"Coby White, G",Chicago Bulls,"$5,572,680",2022
+829,"Trey Lyles, PF",San Antonio Spurs,"$5,500,000",2022
+830,"Alex Abrines, G",Oklahoma City Thunder,"$5,455,236",2022
+831,"Jason Smith, F",New Orleans Pelicans,"$5,450,000",2022
+832,NAME,TEAM,SALARY,2022
+833,"Wendell Carter Jr., C",Orlando Magic,"$5,448,840",2022
+834,"Zach Collins, F",Chicago Bulls,"$5,406,255",2022
+835,"Malik Monk, G",Charlotte Hornets,"$5,345,687",2022
+836,"Killian Hayes, G",Detroit Pistons,"$5,307,120",2022
+837,"Alexis Ajinca, C",LA Clippers,"$5,285,394",2022
+838,"Luke Kennard, G",LA Clippers,"$5,273,826",2022
+839,"Donovan Mitchell, G",Utah Jazz,"$5,195,501",2022
+840,"Rodney McGruder, G",Detroit Pistons,"$5,192,307",2022
+841,"Bam Adebayo, C",Miami Heat,"$5,115,492",2022
+842,"Jaxson Hayes, C",New Orleans Pelicans,"$5,105,160",2022
+843,NAME,TEAM,SALARY,2022
+844,"Richaun Holmes, F",Sacramento Kings,"$5,005,350",2022
+845,"Mike Scott, PF",Philadelphia 76ers,"$5,005,350",2022
+846,"Ed Davis, C",Minnesota Timberwolves,"$5,005,350",2022
+847,"Enes Freedom, C",Portland Trail Blazers,"$5,005,350",2022
+848,"Nerlens Noel, C",New York Knicks,"$5,000,000",2022
+849,"Daniel Theis, C",Chicago Bulls,"$5,000,000",2022
+850,"Dirk Nowitzki, F",Dallas Mavericks,"$5,000,000",2022
+851,"Kyle Singler, F",Oklahoma City Thunder,"$4,996,000",2022
+852,"Collin Sexton, G",Cleveland Cavaliers,"$4,991,880",2022
+853,"Pat Connaughton, G",Milwaukee Bucks,"$4,938,272",2022
+854,NAME,TEAM,SALARY,2022
+855,"Obi Toppin, F",New York Knicks,"$4,862,040",2022
+856,"Josh Jackson, SG",Detroit Pistons,"$4,767,000",2022
+857,"Garrett Temple, G",Chicago Bulls,"$4,767,000",2022
+858,"Kris Dunn, G",Atlanta Hawks,"$4,767,000",2022
+859,"Rui Hachimura, F",Washington Wizards,"$4,692,840",2022
+860,"Denzel Valentine, G",Chicago Bulls,"$4,642,800",2022
+861,"Kevin Knox II, F",New York Knicks,"$4,588,680",2022
+862,"D.J. Wilson, F",Houston Rockets,"$4,548,280",2022
+863,"Deni Avdija, F",Washington Wizards,"$4,469,160",2022
+864,"Kevon Looney, F",Golden State Warriors,"$4,464,226",2022
+865,NAME,TEAM,SALARY,2022
+866,"Cam Reddish, SF",Atlanta Hawks,"$4,458,000",2022
+867,"T.J. Leaf, PF",Portland Trail Blazers,"$4,326,825",2022
+868,"Jalen Smith, F",Phoenix Suns,"$4,245,720",2022
+869,"JaVale McGee, C",Denver Nuggets,"$4,200,000",2022
+870,"Reggie Bullock Jr., SF",New York Knicks,"$4,200,000",2022
+871,"Mikal Bridges, G",Phoenix Suns,"$4,161,000",2022
+872,"Shai Gilgeous-Alexander, G",Oklahoma City Thunder,"$4,141,320",2022
+873,"John Collins, F",Atlanta Hawks,"$4,137,302",2022
+874,"Nicolo Melli, PF",Dallas Mavericks,"$4,102,564",2022
+875,"Willie Cauley-Stein, C",Dallas Mavericks,"$4,100,000",2022
+876,NAME,TEAM,SALARY,2022
+877,"Devin Vassell, G",San Antonio Spurs,"$4,033,440",2022
+878,"Cameron Johnson, F",Phoenix Suns,"$4,033,440",2022
+879,"P.J. Washington, F",Charlotte Hornets,"$4,023,600",2022
+880,"Patrick McCaw, SF",Toronto Raptors,"$4,000,000",2022
+881,"Dorian Finney-Smith, F",Dallas Mavericks,"$4,000,000",2022
+882,"Terrance Ferguson, SF",Philadelphia 76ers,"$3,944,013",2022
+883,"Miles Bridges, F",Charlotte Hornets,"$3,934,320",2022
+884,"Jevon Carter, G",Phoenix Suns,"$3,925,000",2022
+885,"Jarrett Allen, C",Cleveland Cavaliers,"$3,909,902",2022
+886,"OG Anunoby, F",Toronto Raptors,"$3,872,215",2022
+887,NAME,TEAM,SALARY,2022
+888,"Gabriel Deck, SF",Oklahoma City Thunder,"$3,870,370",2022
+889,"Tyrese Haliburton, G",Sacramento Kings,"$3,831,840",2022
+890,"Stanley Johnson, SF",Toronto Raptors,"$3,804,150",2022
+891,"Jake Layman, F",Minnesota Timberwolves,"$3,761,085",2022
+892,"Jerome Robinson, SG",Washington Wizards,"$3,737,520",2022
+893,"Danuel House Jr., SF",Houston Rockets,"$3,717,000",2022
+894,"Kira Lewis Jr., G",New Orleans Pelicans,"$3,640,200",2022
+895,"Romeo Langford, SG",Boston Celtics,"$3,631,200",2022
+896,"Bobby Portis, F",Milwaukee Bucks,"$3,623,000",2022
+897,"Maurice Harkless, SF",Sacramento Kings,"$3,623,000",2022
+898,NAME,TEAM,SALARY,2022
+899,"Wesley Matthews, SG",Los Angeles Lakers,"$3,623,000",2022
+900,"Kyle Kuzma, F",Los Angeles Lakers,"$3,562,178",2022
+901,"Allonzo Trier, G",New York Knicks,"$3,551,000",2022
+902,"Michael Porter Jr., F",Denver Nuggets,"$3,550,800",2022
+903,"Tony Bradley, C",Oklahoma City Thunder,"$3,542,060",2022
+904,"Derrick White, G",San Antonio Spurs,"$3,516,284",2022
+905,"Bismack Biyombo, C",Charlotte Hornets,"$3,500,000",2022
+906,"Michael Beasley, F",Brooklyn Nets,"$3,500,000",2022
+907,"Luca Vildoza, G",Milwaukee Bucks,"$3,500,000",2022
+908,"T.J. McConnell, G",Indiana Pacers,"$3,500,000",2022
+909,NAME,TEAM,SALARY,2022
+910,"Boban Marjanovic, C",Dallas Mavericks,"$3,500,000",2022
+911,"Josh Hart, G",New Orleans Pelicans,"$3,491,159",2022
+912,"Aaron Nesmith, G",Boston Celtics,"$3,458,400",2022
+913,"Sekou Doumbouya, SF",Detroit Pistons,"$3,449,400",2022
+914,"Michael Carter-Williams, G",Orlando Magic,"$3,300,000",2022
+915,"James Ennis III, F",Orlando Magic,"$3,300,000",2022
+916,"Cole Anthony, G",Orlando Magic,"$3,285,120",2022
+917,"Troy Brown Jr., F",Chicago Bulls,"$3,219,480",2022
+918,"Chuma Okeke, F",Orlando Magic,"$3,121,080",2022
+919,"Isaiah Stewart, F",Detroit Pistons,"$3,121,080",2022
+920,NAME,TEAM,SALARY,2022
+921,"Nickeil Alexander-Walker, G",New Orleans Pelicans,"$3,113,160",2022
+922,"Patrick Patterson, PF",LA Clippers,"$3,077,704",2022
+923,"Donte DiVincenzo, G",Milwaukee Bucks,"$3,044,160",2022
+924,"Trey Burke, PG",Dallas Mavericks,"$3,000,000",2022
+925,"Khem Birch, C",Toronto Raptors,"$3,000,000",2022
+926,"Ryan Arcidiacono, G",Chicago Bulls,"$3,000,000",2022
+927,"Aleksej Pokusevski, F",Oklahoma City Thunder,"$2,964,840",2022
+928,"Goga Bitadze, C",Indiana Pacers,"$2,957,520",2022
+929,"Luka Samanic, F",San Antonio Spurs,"$2,892,000",2022
+930,"Lonnie Walker IV, G",San Antonio Spurs,"$2,892,000",2022
+931,NAME,TEAM,SALARY,2022
+932,"Josh Green, G",Dallas Mavericks,"$2,816,760",2022
+933,"Kevin Huerter, G",Atlanta Hawks,"$2,761,920",2022
+934,"Alex Caruso, G",Los Angeles Lakers,"$2,750,000",2022
+935,"Matisse Thybulle, G",Philadelphia 76ers,"$2,711,280",2022
+936,"Saddiq Bey, G",Detroit Pistons,"$2,689,920",2022
+937,"Josh Okogie, G",Minnesota Timberwolves,"$2,651,040",2022
+938,"Marko Guduric, G",Memphis Grizzlies,"$2,625,000",2022
+939,"Brandon Clarke, F",Memphis Grizzlies,"$2,602,920",2022
+940,"Precious Achiuwa, PF",Miami Heat,"$2,582,160",2022
+941,"Tyler Herro, G",Miami Heat,"$2,582,160",2022
+942,NAME,TEAM,SALARY,2022
+943,"Marc Gasol, C",Los Angeles Lakers,"$2,564,753",2022
+944,"Nene Hilario, C",Atlanta Hawks,"$2,564,753",2022
+945,"Grayson Allen, G",Memphis Grizzlies,"$2,545,320",2022
+946,"Manu Ginobili, G",San Antonio Spurs,"$2,500,000",2022
+947,"Grant Williams, F",Boston Celtics,"$2,498,760",2022
+948,"Tyrese Maxey, G",Philadelphia 76ers,"$2,478,840",2022
+949,"Emeka Okafor, C",Philadelphia 76ers,"$2,445,085",2022
+950,"Kendrick Perkins, C",Cleveland Cavaliers,"$2,445,085",2022
+951,"Chandler Hutchison, SF",Washington Wizards,"$2,443,440",2022
+952,"Tyler Zeller, C",Atlanta Hawks,"$2,436,046",2022
+953,NAME,TEAM,SALARY,2022
+954,"Aaron Holiday, G",Indiana Pacers,"$2,345,640",2022
+955,"Darius Bazley, F",Oklahoma City Thunder,"$2,339,160",2022
+956,"Bryn Forbes, SG",Milwaukee Bucks,"$2,337,145",2022
+957,"Ty Jerome, G",Oklahoma City Thunder,"$2,303,040",2022
+958,"Zeke Nnaji, F",Denver Nuggets,"$2,284,800",2022
+959,"Mike Muscala, C",Oklahoma City Thunder,"$2,283,034",2022
+960,"Ben McLemore, SG",Los Angeles Lakers,"$2,283,034",2022
+961,"Anfernee Simons, G",Portland Trail Blazers,"$2,252,040",2022
+962,"Brad Wanamaker, PG",Charlotte Hornets,"$2,250,000",2022
+963,"Luke Kornet, C",Boston Celtics,"$2,250,000",2022
+964,NAME,TEAM,SALARY,2022
+965,"Brandon Jennings, G",Milwaukee Bucks,"$2,222,803",2022
+966,"Nassir Little, SF",Portland Trail Blazers,"$2,210,640",2022
+967,"Payton Pritchard, G",Boston Celtics,"$2,193,480",2022
+968,"R.J. Hampton, G",Orlando Magic,"$2,193,040",2022
+969,"Edmond Sumner, PG",Indiana Pacers,"$2,160,000",2022
+970,"Dylan Windler, G",Cleveland Cavaliers,"$2,137,440",2022
+971,"Immanuel Quickley, G",New York Knicks,"$2,105,520",2022
+972,"John Konchar, G",Memphis Grizzlies,"$2,100,000",2022
+973,"Landry Shamet, G",Brooklyn Nets,"$2,090,040",2022
+974,"Jordan Poole, G",Golden State Warriors,"$2,063,280",2022
+975,NAME,TEAM,SALARY,2022
+976,"Bol Bol, C",Denver Nuggets,"$2,058,240",2022
+977,"Sean Kilpatrick, G",Chicago Bulls,"$2,054,856",2022
+978,"Keldon Johnson, F",San Antonio Spurs,"$2,048,040",2022
+979,"Robert Williams III, C",Boston Celtics,"$2,029,920",2022
+980,"Jacob Evans, G",New York Knicks,"$2,017,320",2022
+981,"Kenrich Williams, G",Oklahoma City Thunder,"$2,000,000",2022
+982,"Theo Maledon, PG",Oklahoma City Thunder,"$2,000,000",2022
+983,"Damyean Dotson, SG",Cleveland Cavaliers,"$2,000,000",2022
+984,"Gary Clark, F",Philadelphia 76ers,"$2,000,000",2022
+985,"Omari Rasulala Spellman, F",New York Knicks,"$1,988,280",2022
+986,NAME,TEAM,SALARY,2022
+987,"Cameron Payne, PG",Phoenix Suns,"$1,977,011",2022
+988,"Udoka Azubuike, C",Utah Jazz,"$1,977,000",2022
+989,"Jaden McDaniels, F",Minnesota Timberwolves,"$1,964,760",2022
+990,"Malachi Flynn, PG",Toronto Raptors,"$1,950,600",2022
+991,"Desmond Bane, G",Memphis Grizzlies,"$1,936,440",2022
+992,"Jontay Porter, C",Memphis Grizzlies,"$1,900,000",2022
+993,"Jahlil Okafor, C",Detroit Pistons,"$1,882,867",2022
+994,"Marquese Chriss, SF",Golden State Warriors,"$1,824,003",2022
+995,"David Nwaba, SF",Houston Rockets,"$1,824,003",2022
+996,"DeAndre Liggins, G",Miami Heat,"$1,795,015",2022
+997,NAME,TEAM,SALARY,2022
+998,"Georges Niang, F",Utah Jazz,"$1,783,557",2022
+999,"PJ Dozier, G",Denver Nuggets,"$1,762,796",2022
+1000,"Damion Lee, SG",Golden State Warriors,"$1,762,796",2022
+1001,"Furkan Korkmaz, SG",Philadelphia 76ers,"$1,762,796",2022
+1002,"Alfonzo McKinnie, F",Los Angeles Lakers,"$1,762,796",2022
+1003,"Abdel Nader, F",Phoenix Suns,"$1,752,950",2022
+1004,"Semi Ojeleye, PF",Boston Celtics,"$1,752,950",2022
+1005,"DeAndre' Bembry, SG",Toronto Raptors,"$1,737,145",2022
+1006,"Kevin Porter Jr., G",Houston Rockets,"$1,717,981",2022
+1007,"Shake Milton, SG",Philadelphia 76ers,"$1,701,593",2022
+1008,NAME,TEAM,SALARY,2022
+1009,"Thanasis Antetokounmpo, F",Milwaukee Bucks,"$1,701,593",2022
+1010,"Brandon Goodwin, G",Atlanta Hawks,"$1,701,593",2022
+1011,"Jonah Bolden, PF",Phoenix Suns,"$1,698,450",2022
+1012,"Wes Iwundu, F",New Orleans Pelicans,"$1,678,854",2022
+1013,"Dragan Bender, F",Golden State Warriors,"$1,678,854",2022
+1014,"Isaac Bonga, G",Washington Wizards,"$1,663,861",2022
+1015,"Gary Trent Jr., G",Toronto Raptors,"$1,663,861",2022
+1016,"Bruce Brown, G",Brooklyn Nets,"$1,663,861",2022
+1017,"Hamidou Diallo, G",Detroit Pistons,"$1,663,861",2022
+1018,"Kendrick Nunn, G",Miami Heat,"$1,663,861",2022
+1019,NAME,TEAM,SALARY,2022
+1020,"Mitchell Robinson, C",New York Knicks,"$1,663,861",2022
+1021,"Jalen Brunson, G",Dallas Mavericks,"$1,663,861",2022
+1022,"Keita Bates-Diop, SF",San Antonio Spurs,"$1,663,861",2022
+1023,"Duncan Robinson, F",Miami Heat,"$1,663,861",2022
+1024,"Svi Mykhailiuk, G",Oklahoma City Thunder,"$1,663,861",2022
+1025,"Jarred Vanderbilt, F",Minnesota Timberwolves,"$1,663,361",2022
+1026,"Julyan Stone, G",Chicago Bulls,"$1,656,092",2022
+1027,"MarShon Brooks, G",Chicago Bulls,"$1,656,092",2022
+1028,"Wenyen Gabriel, F",New Orleans Pelicans,"$1,620,564",2022
+1029,"Shaquille Harrison, G",Denver Nuggets,"$1,620,564",2022
+1030,NAME,TEAM,SALARY,2022
+1031,"Isaiah Taylor, G",Toronto Raptors,"$1,620,564",2022
+1032,"Hassan Whiteside, C",Sacramento Kings,"$1,620,564",2022
+1033,"Tyler Johnson, G",Brooklyn Nets,"$1,620,564",2022
+1034,"Tyler Lydon, F",Sacramento Kings,"$1,620,564",2022
+1035,"Quinn Cook, PG",Cleveland Cavaliers,"$1,620,564",2022
+1036,"Matthew Dellavedova, G",Cleveland Cavaliers,"$1,620,564",2022
+1037,"Kent Bazemore, SF",Golden State Warriors,"$1,620,564",2022
+1038,"Drew Eubanks, F",San Antonio Spurs,"$1,620,564",2022
+1039,"Isaiah Thomas, G",New Orleans Pelicans,"$1,620,564",2022
+1040,"Nicolas Batum, F",LA Clippers,"$1,620,564",2022
+1041,NAME,TEAM,SALARY,2022
+1042,"E'Twaun Moore, G",Phoenix Suns,"$1,620,564",2022
+1043,"Isaiah Hartenstein, C",Cleveland Cavaliers,"$1,620,564",2022
+1044,"Solomon Hill, SF",Atlanta Hawks,"$1,620,564",2022
+1045,"Josh Gray, G",Brooklyn Nets,"$1,620,564",2022
+1046,"Wilson Chandler, F",Brooklyn Nets,"$1,620,564",2022
+1047,"Glenn Robinson III, F",Sacramento Kings,"$1,620,564",2022
+1048,"Udonis Haslem, PF",Miami Heat,"$1,620,564",2022
+1049,"Harry Giles III, PF",Portland Trail Blazers,"$1,620,564",2022
+1050,"Sterling Brown, SF",Houston Rockets,"$1,620,564",2022
+1051,"Wayne Ellington, SG",Detroit Pistons,"$1,620,564",2022
+1052,NAME,TEAM,SALARY,2022
+1053,"Jared Dudley, SF",Los Angeles Lakers,"$1,620,564",2022
+1054,"Dwight Howard, C",Philadelphia 76ers,"$1,620,564",2022
+1055,"Carmelo Anthony, PF",Portland Trail Blazers,"$1,620,564",2022
+1056,"JaKarr Sampson, SF",Indiana Pacers,"$1,620,564",2022
+1057,"Langston Galloway, SG",Phoenix Suns,"$1,620,564",2022
+1058,"Frank Kaminsky, F",Phoenix Suns,"$1,620,564",2022
+1059,"Ryan Anderson, PF",Houston Rockets,"$1,620,564",2022
+1060,"Jeff Green, F",Brooklyn Nets,"$1,620,564",2022
+1061,"Gerald Green, G",Houston Rockets,"$1,620,564",2022
+1062,"Reggie Jackson, PG",LA Clippers,"$1,620,564",2022
+1063,NAME,TEAM,SALARY,2022
+1064,"Markieff Morris, PF",Los Angeles Lakers,"$1,620,564",2022
+1065,"J.J. Barea, G",Dallas Mavericks,"$1,620,564",2022
+1066,"Thon Maker, F",Cleveland Cavaliers,"$1,620,564",2022
+1067,"Jarell Martin, F",Cleveland Cavaliers,"$1,620,564",2022
+1068,"Raul Neto, PG",Washington Wizards,"$1,620,564",2022
+1069,"Torrey Craig, SF",Phoenix Suns,"$1,620,564",2022
+1070,"Willy Hernangomez, C",New Orleans Pelicans,"$1,620,564",2022
+1071,"Joe Johnson, G",Boston Celtics,"$1,620,564",2022
+1072,"Vince Carter, G",Atlanta Hawks,"$1,620,564",2022
+1073,"Dwight Buycks, G",Detroit Pistons,"$1,600,520",2022
+1074,NAME,TEAM,SALARY,2022
+1075,"Monte Morris, PG",Denver Nuggets,"$1,588,231",2022
+1076,"Antonio Blakeney, G",Chicago Bulls,"$1,588,231",2022
+1077,"Tyrone Wallace, G",New Orleans Pelicans,"$1,588,231",2022
+1078,"Malachi Richardson, G",Philadelphia 76ers,"$1,569,360",2022
+1079,"Georgios Papagiannis, C",Portland Trail Blazers,"$1,544,951",2022
+1080,"Chinanu Onuaku, C",Portland Trail Blazers,"$1,544,951",2022
+1081,"Wade Baldwin IV, G",Indiana Pacers,"$1,544,951",2022
+1082,"Isaiah Whitehead, G",Detroit Pistons,"$1,544,951",2022
+1083,"Paul Zipser, F",Chicago Bulls,"$1,544,951",2022
+1084,"Cody Martin, SF",Charlotte Hornets,"$1,517,981",2022
+1085,NAME,TEAM,SALARY,2022
+1086,"Mychal Mulder, G",Golden State Warriors,"$1,517,981",2022
+1087,"Jalen McDaniels, F",Charlotte Hornets,"$1,517,981",2022
+1088,"Dewan Hernandez, F",Toronto Raptors,"$1,517,981",2022
+1089,"Anzejs Pasecniks, C",Washington Wizards,"$1,517,981",2022
+1090,"Talen Horton-Tucker, SF",Los Angeles Lakers,"$1,517,981",2022
+1091,"Nigel Williams-Goss, G",Utah Jazz,"$1,517,981",2022
+1092,"Luguentz Dort, G",Oklahoma City Thunder,"$1,517,981",2022
+1093,"KZ Okpala, SF",Miami Heat,"$1,517,981",2022
+1094,"Terence Davis, G",Sacramento Kings,"$1,517,981",2022
+1095,"Miye Oni, SF",Utah Jazz,"$1,517,981",2022
+1096,NAME,TEAM,SALARY,2022
+1097,"Admiral Schofield, SF",Orlando Magic,"$1,517,981",2022
+1098,"Isaiah Roby, PF",Oklahoma City Thunder,"$1,517,981",2022
+1099,"Nic Claxton, C",Brooklyn Nets,"$1,517,981",2022
+1100,"Naz Reid, C",Minnesota Timberwolves,"$1,517,981",2022
+1101,"Eric Paschall, F",Golden State Warriors,"$1,517,981",2022
+1102,"Jalen Lecque, G",Indiana Pacers,"$1,517,981",2022
+1103,"Rayjon Tucker, G",Philadelphia 76ers,"$1,517,981",2022
+1104,"Caleb Martin, F",Charlotte Hornets,"$1,517,981",2022
+1105,"Ky Bowman, G",LA Clippers,"$1,517,981",2022
+1106,"Juwan Morgan, F",Utah Jazz,"$1,517,981",2022
+1107,NAME,TEAM,SALARY,2022
+1108,"Terance Mann, G",LA Clippers,"$1,517,981",2022
+1109,"Alen Smailagic, PF",Golden State Warriors,"$1,517,981",2022
+1110,"Jaylen Nowell, G",Minnesota Timberwolves,"$1,517,981",2022
+1111,"Carsen Edwards, PG",Boston Celtics,"$1,517,981",2022
+1112,"Vlatko Cancar, SF",Denver Nuggets,"$1,517,981",2022
+1113,"Daniel Gafford, F",Washington Wizards,"$1,517,981",2022
+1114,"Dean Wade, F",Cleveland Cavaliers,"$1,517,981",2022
+1115,"Matt Thomas, SG",Utah Jazz,"$1,517,981",2022
+1116,"Javonte Green, G",Chicago Bulls,"$1,517,981",2022
+1117,"Justin James, G",Sacramento Kings,"$1,517,981",2022
+1118,NAME,TEAM,SALARY,2022
+1119,"Bruno Fernando, F",Atlanta Hawks,"$1,517,981",2022
+1120,"Chris Silva, F",Sacramento Kings,"$1,517,981",2022
+1121,"Chris Clemons, G",Atlanta Hawks,"$1,517,981",2022
+1122,"Omri Casspi, F",Memphis Grizzlies,"$1,512,601",2022
+1123,"Isaiah Canaan, G",Milwaukee Bucks,"$1,512,601",2022
+1124,"Dwyane Wade, G",Miami Heat,"$1,512,601",2022
+1125,"Robert Woodard II, F",Sacramento Kings,"$1,500,000",2022
+1126,"Paul Watson, SG",Toronto Raptors,"$1,445,697",2022
+1127,"DaQuan Jeffries, SG",Houston Rockets,"$1,445,697",2022
+1128,"Jae'Sean Tate, F",Houston Rockets,"$1,445,697",2022
+1129,NAME,TEAM,SALARY,2022
+1130,"Theo Pinson, G",New York Knicks,"$1,445,697",2022
+1131,"Zylan Cheatham, F",ADELAIDE 36ers,"$1,445,697",2022
+1132,"Kelan Martin, SG",Indiana Pacers,"$1,445,697",2022
+1133,"Taj Gibson, F",New York Knicks,"$1,442,968",2022
+1134,"Elie Okobo, G",Brooklyn Nets,"$1,416,852",2022
+1135,"Jaylen Adams, G",Milwaukee Bucks,"$1,416,852",2022
+1136,"Jemerrio Jones, F",Los Angeles Lakers,"$1,416,852",2022
+1137,"Dairis Bertans, G",New Orleans Pelicans,"$1,416,852",2022
+1138,"Yante Maten, F",Boston Celtics,"$1,416,852",2022
+1139,"Tarik Phillip, G",Washington Wizards,"$1,416,842",2022
+1140,NAME,TEAM,SALARY,2022
+1141,"Dakari Johnson, C",Memphis Grizzlies,"$1,378,242",2022
+1142,"Kyle Collinsworth, G",Utah Jazz,"$1,378,242",2022
+1143,"Jaylen Morris, F",San Antonio Spurs,"$1,378,242",2022
+1144,"Brandon Paul, G",San Antonio Spurs,"$1,378,242",2022
+1145,"Rodney Purvis, G",Miami Heat,"$1,378,242",2022
+1146,"David Stockton, G",Los Angeles Lakers,"$1,378,242",2022
+1147,"Zhou Qi, C",Houston Rockets,"$1,378,242",2022
+1148,"Aaron Jackson, F",Houston Rockets,"$1,378,242",2022
+1149,"Ike Anigbogu, C",New Orleans Pelicans,"$1,378,242",2022
+1150,"Vernon Carey Jr., C",Charlotte Hornets,"$1,350,000",2022
+1151,NAME,TEAM,SALARY,2022
+1152,"Jabari Bird, G",Atlanta Hawks,"$1,349,464",2022
+1153,"Ben Moore, F",San Antonio Spurs,"$1,349,383",2022
+1154,"James Nunnally, SF",New Orleans Pelicans,"$1,349,383",2022
+1155,"Xavier Tillman, F",Memphis Grizzlies,"$1,300,000",2022
+1156,"Tyrell Terry, PG",Dallas Mavericks,"$1,289,846",2022
+1157,"Alex Len, C",Washington Wizards,"$1,265,372",2022
+1158,"Noah Vonleh, PF",Brooklyn Nets,"$1,087,776",2022
+1159,"Nick Young, G",Denver Nuggets,"$1,042,584",2022
+1160,"Nick Richards, C",Charlotte Hornets,"$1,000,000",2022
+1161,"Jahmi'us Ramsey, PG",Sacramento Kings,"$1,000,000",2022
+1162,NAME,TEAM,SALARY,2022
+1163,"Gorgui Dieng, C",San Antonio Spurs,"$1,000,000",2022
+1164,"Paul Millsap, PF",Denver Nuggets,"$1,000,000",2022
+1165,"Ron Baker, G",Washington Wizards,"$948,580",2022
+1166,"Daniel Oturu, C",LA Clippers,"$898,310",2022
+1167,"Jordan Nwora, SF",Milwaukee Bucks,"$898,310",2022
+1168,"Anthony Gill, F",Washington Wizards,"$898,310",2022
+1169,"Stanton Kidd, SF",Utah Jazz,"$898,310",2022
+1170,"Isaiah Joe, G",Philadelphia 76ers,"$898,310",2022
+1171,"Tre Jones, G",San Antonio Spurs,"$898,310",2022
+1172,"Elijah Hughes, F",Utah Jazz,"$898,310",2022
+1173,NAME,TEAM,SALARY,2022
+1174,"KJ Martin, F",Houston Rockets,"$898,310",2022
+1175,"CJ Elleby, SG",Portland Trail Blazers,"$898,310",2022
+1176,"Deividas Sirvydis, F",Detroit Pistons,"$898,310",2022
+1177,"Sam Merrill, G",Milwaukee Bucks,"$898,310",2022
+1178,"Max Strus, G",Miami Heat,"$898,310",2022
+1179,"Isaiah Briscoe, G",Orlando Magic,"$838,464",2022
+1180,"Andre Drummond, C",Los Angeles Lakers,"$794,536",2022
+1181,"Blake Griffin, PF",Brooklyn Nets,"$776,983",2022
+1182,"Oshae Brissett, SF",Indiana Pacers,"$757,453",2022
+1183,"Ersan Ilyasova, PF",Utah Jazz,"$754,783",2022
+1184,NAME,TEAM,SALARY,2022
+1185,"Chimezie Metu, PF",Sacramento Kings,"$700,000",2022
+1186,"Timothe Luwawu-Cabarrot, SG",Brooklyn Nets,"$654,469",2022
+1187,"Lamar Stevens, F",Cleveland Cavaliers,"$652,366",2022
+1188,"Paul Reed, F",Philadelphia 76ers,"$609,128",2022
+1189,"Jeff Teague, PG",Milwaukee Bucks,"$510,589",2022
+1190,"Norvel Pelle, PF",New York Knicks,"$500,000",2022
+1191,"Dewayne Dedmon, C",Miami Heat,"$432,890",2022
+1192,"Nemanja Bjelica, PF",Miami Heat,"$432,890",2022
+1193,"Jabari Parker, PF",Boston Celtics,"$430,729",2022
+1194,"Alize Johnson, F",Brooklyn Nets,"$399,591",2022
+1195,NAME,TEAM,SALARY,2022
+1196,"Tyler Cook, F",Brooklyn Nets,"$396,081",2022
+1197,"Dion Waiters, G",Los Angeles Lakers,"$375,385",2022
+1198,"Juan Toscano-Anderson, F",Golden State Warriors,"$358,295",2022
+1199,"Yuta Watanabe, SF",Toronto Raptors,"$321,893",2022
+1200,"Anthony Tolliver, PF",Philadelphia 76ers,"$263,501",2022
+1201,"Tim Frazier, PG",Memphis Grizzlies,"$255,294",2022
+1202,"Khyri Thomas, SG",Houston Rockets,"$250,000",2022
+1203,"Damian Jones, C",Sacramento Kings,"$237,965",2022
+1204,"DeMarcus Cousins, C",LA Clippers,"$233,095",2022
+1205,"Moritz Wagner, F",Orlando Magic,"$221,995",2022
+1206,NAME,TEAM,SALARY,2022
+1207,"Yogi Ferrell, PG",LA Clippers,"$214,169",2022
+1208,"Rondae Hollis Jefferson, SF",Portland Trail Blazers,"$210,895",2022
+1209,"Jimmer Fredette, G",Phoenix Suns,"$208,509",2022
+1210,"Austin Rivers, SG",Denver Nuggets,"$188,696",2022
+1211,"Devonte' Graham, PG",Charlotte Hornets,"$163,861",2022
+1212,"Mamadi Diakite, F",Milwaukee Bucks,"$160,173",2022
+1213,"Mfiondu Kabengele, C",Cleveland Cavaliers,"$154,433",2022
+1214,"Naji Marshall, F",New Orleans Pelicans,"$120,000",2022
+1215,"Freddie Gillespie, SF",Toronto Raptors,"$116,903",2022
+1216,"Ignas Brazdeikis, SF",Orlando Magic,"$49,510",2022
+1217,NAME,TEAM,SALARY,2022
+1218,"Mike James, PG",Brooklyn Nets,"$39,608",2022
+1219,"Elijah Bryant, SG",Milwaukee Bucks,"$24,611",2022
+1220,"Caleb Homesley, SG",Washington Wizards,"$20,000",2022
+1221,"Charlie Brown Jr., G",Oklahoma City Thunder,"$19,804",2022
+1222,"Omer Yurtseven, C",Utah Jazz,"$18,458",2022
+1223,"Gary Payton II, G",Golden State Warriors,"$11,898",2022
+1224,NAME,TEAM,SALARY,2023
+1225,"Stephen Curry, G",Golden State Warriors,"$43,006,362",2023
+1226,"Russell Westbrook, G",Washington Wizards,"$41,358,814",2023
+1227,"Chris Paul, G",Phoenix Suns,"$41,358,814",2023
+1228,"James Harden, G",Brooklyn Nets,"$41,254,920",2023
+1229,"John Wall, PG",Houston Rockets,"$41,254,920",2023
+1230,"Kevin Durant, F",Brooklyn Nets,"$40,108,950",2023
+1231,"LeBron James, F",Los Angeles Lakers,"$39,219,565",2023
+1232,"Paul George, F",LA Clippers,"$35,450,412",2023
+1233,"Klay Thompson, G",Dallas Mavericks,"$35,361,360",2023
+1234,"Mike Conley, G",Utah Jazz,"$34,502,130",2023
+1235,NAME,TEAM,SALARY,2023
+1236,"Jimmy Butler III, F",Miami Heat,"$34,379,100",2023
+1237,"Kawhi Leonard, F",LA Clippers,"$34,379,100",2023
+1238,"Kemba Walker, PG",Boston Celtics,"$34,379,100",2023
+1239,"Tobias Harris, F",Philadelphia 76ers,"$34,358,850",2023
+1240,"Khris Middleton, F",Milwaukee Bucks,"$33,051,724",2023
+1241,"Anthony Davis, F",Los Angeles Lakers,"$32,742,000",2023
+1242,"Kyrie Irving, G",Brooklyn Nets,"$31,742,000",2023
+1243,"Damian Lillard, G",Portland Trail Blazers,"$31,626,953",2023
+1244,"Kevin Love, F",Cleveland Cavaliers,"$31,258,256",2023
+1245,"Ben Simmons, PG",Philadelphia 76ers,"$30,559,200",2023
+1246,NAME,TEAM,SALARY,2023
+1247,"Pascal Siakam, F",Toronto Raptors,"$30,559,200",2023
+1248,"Kyle Lowry, G",Toronto Raptors,"$30,500,000",2023
+1249,"Steven Adams, C",New Orleans Pelicans,"$29,592,696",2023
+1250,"Joel Embiid, C",Philadelphia 76ers,"$29,542,010",2023
+1251,"Andrew Wiggins, F",Golden State Warriors,"$29,542,010",2023
+1252,"Nikola Jokic, C",Denver Nuggets,"$29,542,010",2023
+1253,"Devin Booker, G",Phoenix Suns,"$29,467,800",2023
+1254,"Karl-Anthony Towns, C",Minnesota Timberwolves,"$29,467,800",2023
+1255,"Kristaps Porzingis, C",Dallas Mavericks,"$29,467,800",2023
+1256,"CJ McCollum, G",Portland Trail Blazers,"$29,354,152",2023
+1257,NAME,TEAM,SALARY,2023
+1258,"Bradley Beal, G",Washington Wizards,"$28,751,775",2023
+1259,"D'Angelo Russell, G",Minnesota Timberwolves,"$28,649,250",2023
+1260,"Gordon Hayward, SF",Charlotte Hornets,"$28,500,000",2023
+1261,"Otto Porter Jr., SF",Orlando Magic,"$28,489,237",2023
+1262,"DeMar DeRozan, G",San Antonio Spurs,"$27,739,975",2023
+1263,"Giannis Antetokounmpo, F",Milwaukee Bucks,"$27,528,090",2023
+1264,"Rudy Gobert, C",Utah Jazz,"$27,525,281",2023
+1265,"Al Horford, C",Oklahoma City Thunder,"$27,500,000",2023
+1266,"Jamal Murray, G",Denver Nuggets,"$27,285,000",2023
+1267,"Brandon Ingram, F",New Orleans Pelicans,"$27,285,000",2023
+1268,NAME,TEAM,SALARY,2023
+1269,"Jrue Holiday, G",Milwaukee Bucks,"$26,231,111",2023
+1270,"Nikola Vucevic, C",Chicago Bulls,"$26,000,000",2023
+1271,"Chandler Parsons, SF",Atlanta Hawks,"$25,102,511",2023
+1272,"Buddy Hield, G",Sacramento Kings,"$24,701,834",2023
+1273,"LaMarcus Aldridge, C",Brooklyn Nets,"$24,000,000",2023
+1274,"Jaylen Brown, G",Boston Celtics,"$23,735,118",2023
+1275,"Draymond Green, F",Golden State Warriors,"$22,246,956",2023
+1276,"Harrison Barnes, F",Sacramento Kings,"$22,215,909",2023
+1277,"Fred VanVleet, G",Toronto Raptors,"$21,250,000",2023
+1278,"Victor Oladipo, SG",Miami Heat,"$21,000,000",2023
+1279,NAME,TEAM,SALARY,2023
+1280,"Malcolm Brogdon, G",Indiana Pacers,"$20,700,000",2023
+1281,"Domantas Sabonis, F",Indiana Pacers,"$19,800,000",2023
+1282,"Gary Harris, G",Orlando Magic,"$19,610,714",2023
+1283,"Danilo Gallinari, PF",Atlanta Hawks,"$19,500,000",2023
+1284,"Zach LaVine, G",Chicago Bulls,"$19,500,000",2023
+1285,"Jerami Grant, F",Detroit Pistons,"$19,050,000",2023
+1286,"Tim Hardaway Jr., G",Dallas Mavericks,"$18,975,000",2023
+1287,"Julius Randle, F",New York Knicks,"$18,900,000",2023
+1288,"Terry Rozier, G",Charlotte Hornets,"$18,900,000",2023
+1289,"Allen Crabbe, G",Minnesota Timberwolves,"$18,500,000",2023
+1290,NAME,TEAM,SALARY,2023
+1291,"Aaron Gordon, F",Denver Nuggets,"$18,136,364",2023
+1292,"Goran Dragic, PG",Miami Heat,"$18,000,000",2023
+1293,"Myles Turner, C",Indiana Pacers,"$18,000,000",2023
+1294,"Bogdan Bogdanovic, G",Atlanta Hawks,"$18,000,000",2023
+1295,"Bojan Bogdanovic, SF",Utah Jazz,"$17,850,000",2023
+1296,"Evan Fournier, SG",Boston Celtics,"$17,150,000",2023
+1297,"Ricky Rubio, PG",Minnesota Timberwolves,"$17,000,000",2023
+1298,"Eric Bledsoe, SG",New Orleans Pelicans,"$16,875,000",2023
+1299,"Eric Gordon, G",Houston Rockets,"$16,869,276",2023
+1300,"Timofey Mozgov, C",Orlando Magic,"$16,720,000",2023
+1301,NAME,TEAM,SALARY,2023
+1302,"Caris LeVert, G",Indiana Pacers,"$16,203,704",2023
+1303,"Joe Harris, SF",Brooklyn Nets,"$16,071,429",2023
+1304,"James Johnson, PF",New Orleans Pelicans,"$16,047,100",2023
+1305,"Dennis Schroder, G",Los Angeles Lakers,"$16,000,000",2023
+1306,"Clint Capela, C",Atlanta Hawks,"$16,000,000",2023
+1307,"Cody Zeller, C",Charlotte Hornets,"$15,415,730",2023
+1308,"Danny Green, F",Philadelphia 76ers,"$15,365,853",2023
+1309,"Davis Bertans, SF",Washington Wizards,"$15,000,000",2023
+1310,"Andre Iguodala, F",Miami Heat,"$15,000,000",2023
+1311,"Jonas Valanciunas, C",Memphis Grizzlies,"$15,000,000",2023
+1312,NAME,TEAM,SALARY,2023
+1313,"Marcus Morris Sr., F",LA Clippers,"$14,888,721",2023
+1314,"Luke Babbitt, F",Miami Heat,"$14,651,700",2023
+1315,"Rudy Gay, SF",San Antonio Spurs,"$14,500,000",2023
+1316,"Kelly Oubre Jr., G",Golden State Warriors,"$14,375,000",2023
+1317,"Dejounte Murray, G",San Antonio Spurs,"$14,286,000",2023
+1318,"Will Barton, G",Denver Nuggets,"$13,723,214",2023
+1319,"Marcin Gortat, C",LA Clippers,"$13,565,218",2023
+1320,"Thaddeus Young, F",Chicago Bulls,"$13,545,000",2023
+1321,"Patty Mills, PG",San Antonio Spurs,"$13,535,714",2023
+1322,"Terrence Ross, G",Orlando Magic,"$13,500,000",2023
+1323,NAME,TEAM,SALARY,2023
+1324,"Marcus Smart, G",Boston Celtics,"$13,446,428",2023
+1325,"Malik Beasley, SG",Minnesota Timberwolves,"$13,425,895",2023
+1326,"Patrick Beverley, PG",LA Clippers,"$13,333,333",2023
+1327,"Christian Wood, F",Houston Rockets,"$13,015,873",2023
+1328,"JJ Redick, SG",Dallas Mavericks,"$13,013,700",2023
+1329,"Justise Winslow, PF",Memphis Grizzlies,"$13,000,000",2023
+1330,"Jusuf Nurkic, C",Portland Trail Blazers,"$12,888,889",2023
+1331,"Trevor Ariza, SF",Miami Heat,"$12,800,000",2023
+1332,"Courtney Lee, G",Dallas Mavericks,"$12,759,670",2023
+1333,"Brook Lopez, C",Milwaukee Bucks,"$12,697,674",2023
+1334,NAME,TEAM,SALARY,2023
+1335,"Cory Joseph, PG",Detroit Pistons,"$12,600,000",2023
+1336,"Kelly Olynyk, F",Houston Rockets,"$12,598,243",2023
+1337,"Miles Plumlee, C",Memphis Grizzlies,"$12,500,000",2023
+1338,"T.J. Warren, SF",Indiana Pacers,"$12,500,000",2023
+1339,"Nikola Mirotic, F",Milwaukee Bucks,"$12,500,000",2023
+1340,"Tyreke Evans, G",Indiana Pacers,"$12,400,000",2023
+1341,"Markelle Fultz, PG",Orlando Magic,"$12,288,697",2023
+1342,"Taurean Prince, F",Cleveland Cavaliers,"$12,250,000",2023
+1343,"Tony Snell, SF",Atlanta Hawks,"$12,178,571",2023
+1344,"Robert Covington, PF",Portland Trail Blazers,"$12,138,345",2023
+1345,NAME,TEAM,SALARY,2023
+1346,"Kentavious Caldwell-Pope, G",Los Angeles Lakers,"$12,073,020",2023
+1347,"Larry Nance Jr., F",Cleveland Cavaliers,"$11,709,091",2023
+1348,"Zach Randolph, F",Dallas Mavericks,"$11,692,308",2023
+1349,"Jordan Clarkson, G",Utah Jazz,"$11,500,000",2023
+1350,"Spencer Dinwiddie, PG",Brooklyn Nets,"$11,454,048",2023
+1351,"Dillon Brooks, F",Memphis Grizzlies,"$11,400,000",2023
+1352,"Omer Asik, C",Chicago Bulls,"$11,286,516",2023
+1353,"Dwight Powell, F",Dallas Mavericks,"$11,080,125",2023
+1354,"Lonzo Ball, G",New Orleans Pelicans,"$11,003,782",2023
+1355,"Josh Richardson, SG",Dallas Mavericks,"$10,865,952",2023
+1356,NAME,TEAM,SALARY,2023
+1357,"Norman Powell, G",Portland Trail Blazers,"$10,865,952",2023
+1358,"Joe Ingles, F",Utah Jazz,"$10,863,637",2023
+1359,"Jeremy Lamb, SG",Indiana Pacers,"$10,500,000",2023
+1360,"DeAndre Jordan, C",Brooklyn Nets,"$10,375,678",2023
+1361,"Zion Williamson, F",New Orleans Pelicans,"$10,245,480",2023
+1362,"Rodney Hood, SG",Toronto Raptors,"$10,047,450",2023
+1363,"Tomas Satoransky, SG",Chicago Bulls,"$10,000,000",2023
+1364,"Darren Collison, PG",Los Angeles Lakers,"$10,000,000",2023
+1365,"Jayson Tatum, F",Boston Celtics,"$9,897,120",2023
+1366,"Anthony Edwards, G",Minnesota Timberwolves,"$9,757,440",2023
+1367,NAME,TEAM,SALARY,2023
+1368,"Al-Farouq Aminu, SF",Chicago Bulls,"$9,720,900",2023
+1369,"Dante Exum, G",Cleveland Cavaliers,"$9,600,000",2023
+1370,"George Hill, PG",Philadelphia 76ers,"$9,590,602",2023
+1371,"De'Anthony Melton, G",Memphis Grizzlies,"$9,571,712",2023
+1372,"Deandre Ayton, C",Phoenix Suns,"$9,562,920",2023
+1373,"Kyle Anderson, F",Memphis Grizzlies,"$9,505,100",2023
+1374,"Meyers Leonard, C",Miami Heat,"$9,400,000",2023
+1375,"Montrezl Harrell, C",Los Angeles Lakers,"$9,258,000",2023
+1376,"Jae Crowder, PF",Phoenix Suns,"$9,258,000",2023
+1377,"Serge Ibaka, F",LA Clippers,"$9,258,000",2023
+1378,NAME,TEAM,SALARY,2023
+1379,"Derrick Jones Jr., F",Portland Trail Blazers,"$9,258,000",2023
+1380,"Tristan Thompson, C",Boston Celtics,"$9,258,000",2023
+1381,"Derrick Favors, F",Utah Jazz,"$9,258,000",2023
+1382,"Dario Saric, F",Phoenix Suns,"$9,250,000",2023
+1383,"Ja Morant, G",Memphis Grizzlies,"$9,166,800",2023
+1384,"Delon Wright, G",Sacramento Kings,"$9,000,000",2023
+1385,"Marvin Bagley III, F",Sacramento Kings,"$8,963,640",2023
+1386,"Cedi Osman, SF",Cleveland Cavaliers,"$8,840,580",2023
+1387,"Tyus Jones, G",Memphis Grizzlies,"$8,817,143",2023
+1388,"James Wiseman, C",Golden State Warriors,"$8,730,240",2023
+1389,NAME,TEAM,SALARY,2023
+1390,"Royce O'Neale, F",Utah Jazz,"$8,500,000",2023
+1391,"Thomas Bryant, C",Washington Wizards,"$8,333,333",2023
+1392,"CJ Miles, G",Boston Celtics,"$8,333,333",2023
+1393,"Maxi Kleber, F",Dallas Mavericks,"$8,325,000",2023
+1394,"RJ Barrett, F",New York Knicks,"$8,231,760",2023
+1395,"Jakob Poeltl, C",San Antonio Spurs,"$8,101,852",2023
+1396,"De'Aaron Fox, G",Sacramento Kings,"$8,099,627",2023
+1397,"Luka Doncic, G",Dallas Mavericks,"$8,049,360",2023
+1398,"Mason Plumlee, C",Detroit Pistons,"$8,000,000",2023
+1399,"Lou Williams, SG",Atlanta Hawks,"$8,000,000",2023
+1400,NAME,TEAM,SALARY,2023
+1401,"P.J. Tucker, PF",Milwaukee Bucks,"$7,969,537",2023
+1402,"LaMelo Ball, G",Charlotte Hornets,"$7,839,960",2023
+1403,"Seth Curry, SG",Philadelphia 76ers,"$7,834,449",2023
+1404,"Derrick Rose, PG",New York Knicks,"$7,682,927",2023
+1405,"Cristiano Felicio, PF",Chicago Bulls,"$7,529,020",2023
+1406,"Rajon Rondo, PG",LA Clippers,"$7,500,000",2023
+1407,"Darrell Arthur, F",Phoenix Suns,"$7,464,912",2023
+1408,"De'Andre Hunter, F",Atlanta Hawks,"$7,422,000",2023
+1409,"Jonathan Isaac, F",Orlando Magic,"$7,362,566",2023
+1410,"Doug McDermott, F",Indiana Pacers,"$7,333,333",2023
+1411,NAME,TEAM,SALARY,2023
+1412,"Robin Lopez, C",Washington Wizards,"$7,300,000",2023
+1413,"Jaren Jackson Jr., F",Memphis Grizzlies,"$7,257,360",2023
+1414,"JaMychal Green, F",Denver Nuggets,"$7,199,760",2023
+1415,"Patrick Williams, F",Chicago Bulls,"$7,068,360",2023
+1416,"Aron Baynes, C",Toronto Raptors,"$7,000,000",2023
+1417,"Darius Miller, SF",Oklahoma City Thunder,"$7,000,000",2023
+1418,"Ivica Zubac, C",LA Clippers,"$7,000,000",2023
+1419,"Chris Boucher, F",Toronto Raptors,"$6,750,000",2023
+1420,"Lauri Markkanen, F",Chicago Bulls,"$6,731,508",2023
+1421,"Darius Garland, G",Cleveland Cavaliers,"$6,720,720",2023
+1422,NAME,TEAM,SALARY,2023
+1423,"D.J. Augustin, G",Houston Rockets,"$6,666,667",2023
+1424,"Trae Young, G",Atlanta Hawks,"$6,571,800",2023
+1425,"Juancho Hernangomez, PF",Minnesota Timberwolves,"$6,493,000",2023
+1426,"Isaac Okoro, F",Cleveland Cavaliers,"$6,400,920",2023
+1427,"Milos Teodosic, G",LA Clippers,"$6,300,000",2023
+1428,"Frank Ntilikina, PG",New York Knicks,"$6,176,578",2023
+1429,"Wesley Johnson, F",Washington Wizards,"$6,134,520",2023
+1430,"Jarrett Culver, G",Minnesota Timberwolves,"$6,104,280",2023
+1431,"Ish Smith, PG",Washington Wizards,"$6,000,000",2023
+1432,"Alec Burks, SG",New York Knicks,"$6,000,000",2023
+1433,NAME,TEAM,SALARY,2023
+1434,"Mo Bamba, C",Orlando Magic,"$5,969,040",2023
+1435,"Onyeka Okongwu, F",Atlanta Hawks,"$5,813,640",2023
+1436,"Justin Holiday, F",Indiana Pacers,"$5,720,000",2023
+1437,"Jonathon Simmons, G",Washington Wizards,"$5,700,000",2023
+1438,"Dennis Smith Jr., PG",Detroit Pistons,"$5,686,677",2023
+1439,"Avery Bradley, PG",Houston Rockets,"$5,635,000",2023
+1440,"Coby White, G",Chicago Bulls,"$5,572,680",2023
+1441,"Trey Lyles, PF",San Antonio Spurs,"$5,500,000",2023
+1442,"Alex Abrines, G",Oklahoma City Thunder,"$5,455,236",2023
+1443,"Jason Smith, F",New Orleans Pelicans,"$5,450,000",2023
+1444,NAME,TEAM,SALARY,2023
+1445,"Wendell Carter Jr., C",Orlando Magic,"$5,448,840",2023
+1446,"Zach Collins, F",Chicago Bulls,"$5,406,255",2023
+1447,"Malik Monk, G",Charlotte Hornets,"$5,345,687",2023
+1448,"Killian Hayes, G",Detroit Pistons,"$5,307,120",2023
+1449,"Alexis Ajinca, C",LA Clippers,"$5,285,394",2023
+1450,"Luke Kennard, G",LA Clippers,"$5,273,826",2023
+1451,"Donovan Mitchell, G",Utah Jazz,"$5,195,501",2023
+1452,"Rodney McGruder, G",Detroit Pistons,"$5,192,307",2023
+1453,"Bam Adebayo, C",Miami Heat,"$5,115,492",2023
+1454,"Jaxson Hayes, C",New Orleans Pelicans,"$5,105,160",2023
+1455,NAME,TEAM,SALARY,2023
+1456,"Richaun Holmes, F",Sacramento Kings,"$5,005,350",2023
+1457,"Mike Scott, PF",Philadelphia 76ers,"$5,005,350",2023
+1458,"Ed Davis, C",Minnesota Timberwolves,"$5,005,350",2023
+1459,"Enes Freedom, C",Portland Trail Blazers,"$5,005,350",2023
+1460,"Nerlens Noel, C",New York Knicks,"$5,000,000",2023
+1461,"Daniel Theis, C",Chicago Bulls,"$5,000,000",2023
+1462,"Dirk Nowitzki, F",Dallas Mavericks,"$5,000,000",2023
+1463,"Kyle Singler, F",Oklahoma City Thunder,"$4,996,000",2023
+1464,"Collin Sexton, G",Cleveland Cavaliers,"$4,991,880",2023
+1465,"Pat Connaughton, G",Milwaukee Bucks,"$4,938,272",2023
+1466,NAME,TEAM,SALARY,2023
+1467,"Obi Toppin, F",New York Knicks,"$4,862,040",2023
+1468,"Josh Jackson, SG",Detroit Pistons,"$4,767,000",2023
+1469,"Garrett Temple, G",Chicago Bulls,"$4,767,000",2023
+1470,"Kris Dunn, G",Atlanta Hawks,"$4,767,000",2023
+1471,"Rui Hachimura, F",Washington Wizards,"$4,692,840",2023
+1472,"Denzel Valentine, G",Chicago Bulls,"$4,642,800",2023
+1473,"Kevin Knox II, F",New York Knicks,"$4,588,680",2023
+1474,"D.J. Wilson, F",Houston Rockets,"$4,548,280",2023
+1475,"Deni Avdija, F",Washington Wizards,"$4,469,160",2023
+1476,"Kevon Looney, F",Golden State Warriors,"$4,464,226",2023
+1477,NAME,TEAM,SALARY,2023
+1478,"Cam Reddish, SF",Atlanta Hawks,"$4,458,000",2023
+1479,"T.J. Leaf, PF",Portland Trail Blazers,"$4,326,825",2023
+1480,"Jalen Smith, F",Phoenix Suns,"$4,245,720",2023
+1481,"JaVale McGee, C",Denver Nuggets,"$4,200,000",2023
+1482,"Reggie Bullock Jr., SF",New York Knicks,"$4,200,000",2023
+1483,"Mikal Bridges, G",Phoenix Suns,"$4,161,000",2023
+1484,"Shai Gilgeous-Alexander, G",Oklahoma City Thunder,"$4,141,320",2023
+1485,"John Collins, F",Atlanta Hawks,"$4,137,302",2023
+1486,"Nicolo Melli, PF",Dallas Mavericks,"$4,102,564",2023
+1487,"Willie Cauley-Stein, C",Dallas Mavericks,"$4,100,000",2023
+1488,NAME,TEAM,SALARY,2023
+1489,"Devin Vassell, G",San Antonio Spurs,"$4,033,440",2023
+1490,"Cameron Johnson, F",Phoenix Suns,"$4,033,440",2023
+1491,"P.J. Washington, F",Charlotte Hornets,"$4,023,600",2023
+1492,"Patrick McCaw, SF",Toronto Raptors,"$4,000,000",2023
+1493,"Dorian Finney-Smith, F",Dallas Mavericks,"$4,000,000",2023
+1494,"Terrance Ferguson, SF",Philadelphia 76ers,"$3,944,013",2023
+1495,"Miles Bridges, F",Charlotte Hornets,"$3,934,320",2023
+1496,"Jevon Carter, G",Phoenix Suns,"$3,925,000",2023
+1497,"Jarrett Allen, C",Cleveland Cavaliers,"$3,909,902",2023
+1498,"OG Anunoby, F",Toronto Raptors,"$3,872,215",2023
+1499,NAME,TEAM,SALARY,2023
+1500,"Gabriel Deck, SF",Oklahoma City Thunder,"$3,870,370",2023
+1501,"Tyrese Haliburton, G",Sacramento Kings,"$3,831,840",2023
+1502,"Stanley Johnson, SF",Toronto Raptors,"$3,804,150",2023
+1503,"Jake Layman, F",Minnesota Timberwolves,"$3,761,085",2023
+1504,"Jerome Robinson, SG",Washington Wizards,"$3,737,520",2023
+1505,"Danuel House Jr., SF",Houston Rockets,"$3,717,000",2023
+1506,"Kira Lewis Jr., G",New Orleans Pelicans,"$3,640,200",2023
+1507,"Romeo Langford, SG",Boston Celtics,"$3,631,200",2023
+1508,"Bobby Portis, F",Milwaukee Bucks,"$3,623,000",2023
+1509,"Maurice Harkless, SF",Sacramento Kings,"$3,623,000",2023
+1510,NAME,TEAM,SALARY,2023
+1511,"Wesley Matthews, SG",Los Angeles Lakers,"$3,623,000",2023
+1512,"Kyle Kuzma, F",Los Angeles Lakers,"$3,562,178",2023
+1513,"Allonzo Trier, G",New York Knicks,"$3,551,000",2023
+1514,"Michael Porter Jr., F",Denver Nuggets,"$3,550,800",2023
+1515,"Tony Bradley, C",Oklahoma City Thunder,"$3,542,060",2023
+1516,"Derrick White, G",San Antonio Spurs,"$3,516,284",2023
+1517,"Bismack Biyombo, C",Charlotte Hornets,"$3,500,000",2023
+1518,"Michael Beasley, F",Brooklyn Nets,"$3,500,000",2023
+1519,"Luca Vildoza, G",Milwaukee Bucks,"$3,500,000",2023
+1520,"T.J. McConnell, G",Indiana Pacers,"$3,500,000",2023
+1521,NAME,TEAM,SALARY,2023
+1522,"Boban Marjanovic, C",Dallas Mavericks,"$3,500,000",2023
+1523,"Josh Hart, G",New Orleans Pelicans,"$3,491,159",2023
+1524,"Aaron Nesmith, G",Boston Celtics,"$3,458,400",2023
+1525,"Sekou Doumbouya, SF",Detroit Pistons,"$3,449,400",2023
+1526,"Michael Carter-Williams, G",Orlando Magic,"$3,300,000",2023
+1527,"James Ennis III, F",Orlando Magic,"$3,300,000",2023
+1528,"Cole Anthony, G",Orlando Magic,"$3,285,120",2023
+1529,"Troy Brown Jr., F",Chicago Bulls,"$3,219,480",2023
+1530,"Chuma Okeke, F",Orlando Magic,"$3,121,080",2023
+1531,"Isaiah Stewart, F",Detroit Pistons,"$3,121,080",2023
+1532,NAME,TEAM,SALARY,2023
+1533,"Nickeil Alexander-Walker, G",New Orleans Pelicans,"$3,113,160",2023
+1534,"Patrick Patterson, PF",LA Clippers,"$3,077,704",2023
+1535,"Donte DiVincenzo, G",Milwaukee Bucks,"$3,044,160",2023
+1536,"Trey Burke, PG",Dallas Mavericks,"$3,000,000",2023
+1537,"Khem Birch, C",Toronto Raptors,"$3,000,000",2023
+1538,"Ryan Arcidiacono, G",Chicago Bulls,"$3,000,000",2023
+1539,"Aleksej Pokusevski, F",Oklahoma City Thunder,"$2,964,840",2023
+1540,"Goga Bitadze, C",Indiana Pacers,"$2,957,520",2023
+1541,"Luka Samanic, F",San Antonio Spurs,"$2,892,000",2023
+1542,"Lonnie Walker IV, G",San Antonio Spurs,"$2,892,000",2023
+1543,NAME,TEAM,SALARY,2023
+1544,"Josh Green, G",Dallas Mavericks,"$2,816,760",2023
+1545,"Kevin Huerter, G",Atlanta Hawks,"$2,761,920",2023
+1546,"Alex Caruso, G",Los Angeles Lakers,"$2,750,000",2023
+1547,"Matisse Thybulle, G",Philadelphia 76ers,"$2,711,280",2023
+1548,"Saddiq Bey, G",Detroit Pistons,"$2,689,920",2023
+1549,"Josh Okogie, G",Minnesota Timberwolves,"$2,651,040",2023
+1550,"Marko Guduric, G",Memphis Grizzlies,"$2,625,000",2023
+1551,"Brandon Clarke, F",Memphis Grizzlies,"$2,602,920",2023
+1552,"Precious Achiuwa, PF",Miami Heat,"$2,582,160",2023
+1553,"Tyler Herro, G",Miami Heat,"$2,582,160",2023
+1554,NAME,TEAM,SALARY,2023
+1555,"Marc Gasol, C",Los Angeles Lakers,"$2,564,753",2023
+1556,"Nene Hilario, C",Atlanta Hawks,"$2,564,753",2023
+1557,"Grayson Allen, G",Memphis Grizzlies,"$2,545,320",2023
+1558,"Manu Ginobili, G",San Antonio Spurs,"$2,500,000",2023
+1559,"Grant Williams, F",Boston Celtics,"$2,498,760",2023
+1560,"Tyrese Maxey, G",Philadelphia 76ers,"$2,478,840",2023
+1561,"Emeka Okafor, C",Philadelphia 76ers,"$2,445,085",2023
+1562,"Kendrick Perkins, C",Cleveland Cavaliers,"$2,445,085",2023
+1563,"Chandler Hutchison, SF",Washington Wizards,"$2,443,440",2023
+1564,"Tyler Zeller, C",Atlanta Hawks,"$2,436,046",2023
+1565,NAME,TEAM,SALARY,2023
+1566,"Aaron Holiday, G",Indiana Pacers,"$2,345,640",2023
+1567,"Darius Bazley, F",Oklahoma City Thunder,"$2,339,160",2023
+1568,"Bryn Forbes, SG",Milwaukee Bucks,"$2,337,145",2023
+1569,"Ty Jerome, G",Oklahoma City Thunder,"$2,303,040",2023
+1570,"Zeke Nnaji, F",Denver Nuggets,"$2,284,800",2023
+1571,"Mike Muscala, C",Oklahoma City Thunder,"$2,283,034",2023
+1572,"Ben McLemore, SG",Los Angeles Lakers,"$2,283,034",2023
+1573,"Anfernee Simons, G",Portland Trail Blazers,"$2,252,040",2023
+1574,"Brad Wanamaker, PG",Charlotte Hornets,"$2,250,000",2023
+1575,"Luke Kornet, C",Boston Celtics,"$2,250,000",2023
+1576,NAME,TEAM,SALARY,2023
+1577,"Brandon Jennings, G",Milwaukee Bucks,"$2,222,803",2023
+1578,"Nassir Little, SF",Portland Trail Blazers,"$2,210,640",2023
+1579,"Payton Pritchard, G",Boston Celtics,"$2,193,480",2023
+1580,"R.J. Hampton, G",Orlando Magic,"$2,193,040",2023
+1581,"Edmond Sumner, PG",Indiana Pacers,"$2,160,000",2023
+1582,"Dylan Windler, G",Cleveland Cavaliers,"$2,137,440",2023
+1583,"Immanuel Quickley, G",New York Knicks,"$2,105,520",2023
+1584,"John Konchar, G",Memphis Grizzlies,"$2,100,000",2023
+1585,"Landry Shamet, G",Brooklyn Nets,"$2,090,040",2023
+1586,"Jordan Poole, G",Golden State Warriors,"$2,063,280",2023
+1587,NAME,TEAM,SALARY,2023
+1588,"Bol Bol, C",Denver Nuggets,"$2,058,240",2023
+1589,"Sean Kilpatrick, G",Chicago Bulls,"$2,054,856",2023
+1590,"Keldon Johnson, F",San Antonio Spurs,"$2,048,040",2023
+1591,"Robert Williams III, C",Boston Celtics,"$2,029,920",2023
+1592,"Jacob Evans, G",New York Knicks,"$2,017,320",2023
+1593,"Kenrich Williams, G",Oklahoma City Thunder,"$2,000,000",2023
+1594,"Theo Maledon, PG",Oklahoma City Thunder,"$2,000,000",2023
+1595,"Damyean Dotson, SG",Cleveland Cavaliers,"$2,000,000",2023
+1596,"Gary Clark, F",Philadelphia 76ers,"$2,000,000",2023
+1597,"Omari Rasulala Spellman, F",New York Knicks,"$1,988,280",2023
+1598,NAME,TEAM,SALARY,2023
+1599,"Cameron Payne, PG",Phoenix Suns,"$1,977,011",2023
+1600,"Udoka Azubuike, C",Utah Jazz,"$1,977,000",2023
+1601,"Jaden McDaniels, F",Minnesota Timberwolves,"$1,964,760",2023
+1602,"Malachi Flynn, PG",Toronto Raptors,"$1,950,600",2023
+1603,"Desmond Bane, G",Memphis Grizzlies,"$1,936,440",2023
+1604,"Jontay Porter, C",Memphis Grizzlies,"$1,900,000",2023
+1605,"Jahlil Okafor, C",Detroit Pistons,"$1,882,867",2023
+1606,"Marquese Chriss, SF",Golden State Warriors,"$1,824,003",2023
+1607,"David Nwaba, SF",Houston Rockets,"$1,824,003",2023
+1608,"DeAndre Liggins, G",Miami Heat,"$1,795,015",2023
+1609,NAME,TEAM,SALARY,2023
+1610,"Georges Niang, F",Utah Jazz,"$1,783,557",2023
+1611,"PJ Dozier, G",Denver Nuggets,"$1,762,796",2023
+1612,"Damion Lee, SG",Golden State Warriors,"$1,762,796",2023
+1613,"Furkan Korkmaz, SG",Philadelphia 76ers,"$1,762,796",2023
+1614,"Alfonzo McKinnie, F",Los Angeles Lakers,"$1,762,796",2023
+1615,"Abdel Nader, F",Phoenix Suns,"$1,752,950",2023
+1616,"Semi Ojeleye, PF",Boston Celtics,"$1,752,950",2023
+1617,"DeAndre' Bembry, SG",Toronto Raptors,"$1,737,145",2023
+1618,"Kevin Porter Jr., G",Houston Rockets,"$1,717,981",2023
+1619,"Shake Milton, SG",Philadelphia 76ers,"$1,701,593",2023
+1620,NAME,TEAM,SALARY,2023
+1621,"Thanasis Antetokounmpo, F",Milwaukee Bucks,"$1,701,593",2023
+1622,"Brandon Goodwin, G",Atlanta Hawks,"$1,701,593",2023
+1623,"Jonah Bolden, PF",Phoenix Suns,"$1,698,450",2023
+1624,"Wes Iwundu, F",New Orleans Pelicans,"$1,678,854",2023
+1625,"Dragan Bender, F",Golden State Warriors,"$1,678,854",2023
+1626,"Isaac Bonga, G",Washington Wizards,"$1,663,861",2023
+1627,"Gary Trent Jr., G",Toronto Raptors,"$1,663,861",2023
+1628,"Bruce Brown, G",Brooklyn Nets,"$1,663,861",2023
+1629,"Hamidou Diallo, G",Detroit Pistons,"$1,663,861",2023
+1630,"Kendrick Nunn, G",Miami Heat,"$1,663,861",2023
+1631,NAME,TEAM,SALARY,2023
+1632,"Mitchell Robinson, C",New York Knicks,"$1,663,861",2023
+1633,"Jalen Brunson, G",Dallas Mavericks,"$1,663,861",2023
+1634,"Keita Bates-Diop, SF",San Antonio Spurs,"$1,663,861",2023
+1635,"Duncan Robinson, F",Miami Heat,"$1,663,861",2023
+1636,"Svi Mykhailiuk, G",Oklahoma City Thunder,"$1,663,861",2023
+1637,"Jarred Vanderbilt, F",Minnesota Timberwolves,"$1,663,361",2023
+1638,"Julyan Stone, G",Chicago Bulls,"$1,656,092",2023
+1639,"MarShon Brooks, G",Chicago Bulls,"$1,656,092",2023
+1640,"Wenyen Gabriel, F",New Orleans Pelicans,"$1,620,564",2023
+1641,"Shaquille Harrison, G",Denver Nuggets,"$1,620,564",2023
+1642,NAME,TEAM,SALARY,2023
+1643,"Isaiah Taylor, G",Toronto Raptors,"$1,620,564",2023
+1644,"Hassan Whiteside, C",Sacramento Kings,"$1,620,564",2023
+1645,"Tyler Johnson, G",Brooklyn Nets,"$1,620,564",2023
+1646,"Tyler Lydon, F",Sacramento Kings,"$1,620,564",2023
+1647,"Quinn Cook, PG",Cleveland Cavaliers,"$1,620,564",2023
+1648,"Matthew Dellavedova, G",Cleveland Cavaliers,"$1,620,564",2023
+1649,"Kent Bazemore, SF",Golden State Warriors,"$1,620,564",2023
+1650,"Drew Eubanks, F",San Antonio Spurs,"$1,620,564",2023
+1651,"Isaiah Thomas, G",New Orleans Pelicans,"$1,620,564",2023
+1652,"Nicolas Batum, F",LA Clippers,"$1,620,564",2023
+1653,NAME,TEAM,SALARY,2023
+1654,"E'Twaun Moore, G",Phoenix Suns,"$1,620,564",2023
+1655,"Isaiah Hartenstein, C",Cleveland Cavaliers,"$1,620,564",2023
+1656,"Solomon Hill, SF",Atlanta Hawks,"$1,620,564",2023
+1657,"Josh Gray, G",Brooklyn Nets,"$1,620,564",2023
+1658,"Wilson Chandler, F",Brooklyn Nets,"$1,620,564",2023
+1659,"Glenn Robinson III, F",Sacramento Kings,"$1,620,564",2023
+1660,"Udonis Haslem, PF",Miami Heat,"$1,620,564",2023
+1661,"Harry Giles III, PF",Portland Trail Blazers,"$1,620,564",2023
+1662,"Sterling Brown, SF",Houston Rockets,"$1,620,564",2023
+1663,"Wayne Ellington, SG",Detroit Pistons,"$1,620,564",2023
+1664,NAME,TEAM,SALARY,2023
+1665,"Jared Dudley, SF",Los Angeles Lakers,"$1,620,564",2023
+1666,"Dwight Howard, C",Philadelphia 76ers,"$1,620,564",2023
+1667,"Carmelo Anthony, PF",Portland Trail Blazers,"$1,620,564",2023
+1668,"JaKarr Sampson, SF",Indiana Pacers,"$1,620,564",2023
+1669,"Langston Galloway, SG",Phoenix Suns,"$1,620,564",2023
+1670,"Frank Kaminsky, F",Phoenix Suns,"$1,620,564",2023
+1671,"Ryan Anderson, PF",Houston Rockets,"$1,620,564",2023
+1672,"Jeff Green, F",Brooklyn Nets,"$1,620,564",2023
+1673,"Gerald Green, G",Houston Rockets,"$1,620,564",2023
+1674,"Reggie Jackson, PG",LA Clippers,"$1,620,564",2023
+1675,NAME,TEAM,SALARY,2023
+1676,"Markieff Morris, PF",Los Angeles Lakers,"$1,620,564",2023
+1677,"J.J. Barea, G",Dallas Mavericks,"$1,620,564",2023
+1678,"Thon Maker, F",Cleveland Cavaliers,"$1,620,564",2023
+1679,"Jarell Martin, F",Cleveland Cavaliers,"$1,620,564",2023
+1680,"Raul Neto, PG",Washington Wizards,"$1,620,564",2023
+1681,"Torrey Craig, SF",Phoenix Suns,"$1,620,564",2023
+1682,"Willy Hernangomez, C",New Orleans Pelicans,"$1,620,564",2023
+1683,"Joe Johnson, G",Boston Celtics,"$1,620,564",2023
+1684,"Vince Carter, G",Atlanta Hawks,"$1,620,564",2023
+1685,"Dwight Buycks, G",Detroit Pistons,"$1,600,520",2023
+1686,NAME,TEAM,SALARY,2023
+1687,"Monte Morris, PG",Denver Nuggets,"$1,588,231",2023
+1688,"Antonio Blakeney, G",Chicago Bulls,"$1,588,231",2023
+1689,"Tyrone Wallace, G",New Orleans Pelicans,"$1,588,231",2023
+1690,"Malachi Richardson, G",Philadelphia 76ers,"$1,569,360",2023
+1691,"Georgios Papagiannis, C",Portland Trail Blazers,"$1,544,951",2023
+1692,"Chinanu Onuaku, C",Portland Trail Blazers,"$1,544,951",2023
+1693,"Wade Baldwin IV, G",Indiana Pacers,"$1,544,951",2023
+1694,"Isaiah Whitehead, G",Detroit Pistons,"$1,544,951",2023
+1695,"Paul Zipser, F",Chicago Bulls,"$1,544,951",2023
+1696,"Cody Martin, SF",Charlotte Hornets,"$1,517,981",2023
+1697,NAME,TEAM,SALARY,2023
+1698,"Mychal Mulder, G",Golden State Warriors,"$1,517,981",2023
+1699,"Jalen McDaniels, F",Charlotte Hornets,"$1,517,981",2023
+1700,"Dewan Hernandez, F",Toronto Raptors,"$1,517,981",2023
+1701,"Anzejs Pasecniks, C",Washington Wizards,"$1,517,981",2023
+1702,"Talen Horton-Tucker, SF",Los Angeles Lakers,"$1,517,981",2023
+1703,"Nigel Williams-Goss, G",Utah Jazz,"$1,517,981",2023
+1704,"Luguentz Dort, G",Oklahoma City Thunder,"$1,517,981",2023
+1705,"KZ Okpala, SF",Miami Heat,"$1,517,981",2023
+1706,"Terence Davis, G",Sacramento Kings,"$1,517,981",2023
+1707,"Miye Oni, SF",Utah Jazz,"$1,517,981",2023
+1708,NAME,TEAM,SALARY,2023
+1709,"Admiral Schofield, SF",Orlando Magic,"$1,517,981",2023
+1710,"Isaiah Roby, PF",Oklahoma City Thunder,"$1,517,981",2023
+1711,"Nic Claxton, C",Brooklyn Nets,"$1,517,981",2023
+1712,"Naz Reid, C",Minnesota Timberwolves,"$1,517,981",2023
+1713,"Eric Paschall, F",Golden State Warriors,"$1,517,981",2023
+1714,"Jalen Lecque, G",Indiana Pacers,"$1,517,981",2023
+1715,"Rayjon Tucker, G",Philadelphia 76ers,"$1,517,981",2023
+1716,"Caleb Martin, F",Charlotte Hornets,"$1,517,981",2023
+1717,"Ky Bowman, G",LA Clippers,"$1,517,981",2023
+1718,"Juwan Morgan, F",Utah Jazz,"$1,517,981",2023
+1719,NAME,TEAM,SALARY,2023
+1720,"Terance Mann, G",LA Clippers,"$1,517,981",2023
+1721,"Alen Smailagic, PF",Golden State Warriors,"$1,517,981",2023
+1722,"Jaylen Nowell, G",Minnesota Timberwolves,"$1,517,981",2023
+1723,"Carsen Edwards, PG",Boston Celtics,"$1,517,981",2023
+1724,"Vlatko Cancar, SF",Denver Nuggets,"$1,517,981",2023
+1725,"Daniel Gafford, F",Washington Wizards,"$1,517,981",2023
+1726,"Dean Wade, F",Cleveland Cavaliers,"$1,517,981",2023
+1727,"Matt Thomas, SG",Utah Jazz,"$1,517,981",2023
+1728,"Javonte Green, G",Chicago Bulls,"$1,517,981",2023
+1729,"Justin James, G",Sacramento Kings,"$1,517,981",2023
+1730,NAME,TEAM,SALARY,2023
+1731,"Bruno Fernando, F",Atlanta Hawks,"$1,517,981",2023
+1732,"Chris Silva, F",Sacramento Kings,"$1,517,981",2023
+1733,"Chris Clemons, G",Atlanta Hawks,"$1,517,981",2023
+1734,"Omri Casspi, F",Memphis Grizzlies,"$1,512,601",2023
+1735,"Isaiah Canaan, G",Milwaukee Bucks,"$1,512,601",2023
+1736,"Dwyane Wade, G",Miami Heat,"$1,512,601",2023
+1737,"Robert Woodard II, F",Sacramento Kings,"$1,500,000",2023
+1738,"Paul Watson, SG",Toronto Raptors,"$1,445,697",2023
+1739,"DaQuan Jeffries, SG",Houston Rockets,"$1,445,697",2023
+1740,"Jae'Sean Tate, F",Houston Rockets,"$1,445,697",2023
+1741,NAME,TEAM,SALARY,2023
+1742,"Theo Pinson, G",New York Knicks,"$1,445,697",2023
+1743,"Zylan Cheatham, F",ADELAIDE 36ers,"$1,445,697",2023
+1744,"Kelan Martin, SG",Indiana Pacers,"$1,445,697",2023
+1745,"Taj Gibson, F",New York Knicks,"$1,442,968",2023
+1746,"Elie Okobo, G",Brooklyn Nets,"$1,416,852",2023
+1747,"Jaylen Adams, G",Milwaukee Bucks,"$1,416,852",2023
+1748,"Jemerrio Jones, F",Los Angeles Lakers,"$1,416,852",2023
+1749,"Dairis Bertans, G",New Orleans Pelicans,"$1,416,852",2023
+1750,"Yante Maten, F",Boston Celtics,"$1,416,852",2023
+1751,"Tarik Phillip, G",Washington Wizards,"$1,416,842",2023
+1752,NAME,TEAM,SALARY,2023
+1753,"Dakari Johnson, C",Memphis Grizzlies,"$1,378,242",2023
+1754,"Kyle Collinsworth, G",Utah Jazz,"$1,378,242",2023
+1755,"Jaylen Morris, F",San Antonio Spurs,"$1,378,242",2023
+1756,"Brandon Paul, G",San Antonio Spurs,"$1,378,242",2023
+1757,"Rodney Purvis, G",Miami Heat,"$1,378,242",2023
+1758,"David Stockton, G",Los Angeles Lakers,"$1,378,242",2023
+1759,"Zhou Qi, C",Houston Rockets,"$1,378,242",2023
+1760,"Aaron Jackson, F",Houston Rockets,"$1,378,242",2023
+1761,"Ike Anigbogu, C",New Orleans Pelicans,"$1,378,242",2023
+1762,"Vernon Carey Jr., C",Charlotte Hornets,"$1,350,000",2023
+1763,NAME,TEAM,SALARY,2023
+1764,"Jabari Bird, G",Atlanta Hawks,"$1,349,464",2023
+1765,"Ben Moore, F",San Antonio Spurs,"$1,349,383",2023
+1766,"James Nunnally, SF",New Orleans Pelicans,"$1,349,383",2023
+1767,"Xavier Tillman, F",Memphis Grizzlies,"$1,300,000",2023
+1768,"Tyrell Terry, PG",Dallas Mavericks,"$1,289,846",2023
+1769,"Alex Len, C",Washington Wizards,"$1,265,372",2023
+1770,"Noah Vonleh, PF",Brooklyn Nets,"$1,087,776",2023
+1771,"Nick Young, G",Denver Nuggets,"$1,042,584",2023
+1772,"Nick Richards, C",Charlotte Hornets,"$1,000,000",2023
+1773,"Jahmi'us Ramsey, PG",Sacramento Kings,"$1,000,000",2023
+1774,NAME,TEAM,SALARY,2023
+1775,"Gorgui Dieng, C",San Antonio Spurs,"$1,000,000",2023
+1776,"Paul Millsap, PF",Denver Nuggets,"$1,000,000",2023
+1777,"Ron Baker, G",Washington Wizards,"$948,580",2023
+1778,"Daniel Oturu, C",LA Clippers,"$898,310",2023
+1779,"Jordan Nwora, SF",Milwaukee Bucks,"$898,310",2023
+1780,"Anthony Gill, F",Washington Wizards,"$898,310",2023
+1781,"Stanton Kidd, SF",Utah Jazz,"$898,310",2023
+1782,"Isaiah Joe, G",Philadelphia 76ers,"$898,310",2023
+1783,"Tre Jones, G",San Antonio Spurs,"$898,310",2023
+1784,"Elijah Hughes, F",Utah Jazz,"$898,310",2023
+1785,NAME,TEAM,SALARY,2023
+1786,"KJ Martin, F",Houston Rockets,"$898,310",2023
+1787,"CJ Elleby, SG",Portland Trail Blazers,"$898,310",2023
+1788,"Deividas Sirvydis, F",Detroit Pistons,"$898,310",2023
+1789,"Sam Merrill, G",Milwaukee Bucks,"$898,310",2023
+1790,"Max Strus, G",Miami Heat,"$898,310",2023
+1791,"Isaiah Briscoe, G",Orlando Magic,"$838,464",2023
+1792,"Andre Drummond, C",Los Angeles Lakers,"$794,536",2023
+1793,"Blake Griffin, PF",Brooklyn Nets,"$776,983",2023
+1794,"Oshae Brissett, SF",Indiana Pacers,"$757,453",2023
+1795,"Ersan Ilyasova, PF",Utah Jazz,"$754,783",2023
+1796,NAME,TEAM,SALARY,2023
+1797,"Chimezie Metu, PF",Sacramento Kings,"$700,000",2023
+1798,"Timothe Luwawu-Cabarrot, SG",Brooklyn Nets,"$654,469",2023
+1799,"Lamar Stevens, F",Cleveland Cavaliers,"$652,366",2023
+1800,"Paul Reed, F",Philadelphia 76ers,"$609,128",2023
+1801,"Jeff Teague, PG",Milwaukee Bucks,"$510,589",2023
+1802,"Norvel Pelle, PF",New York Knicks,"$500,000",2023
+1803,"Dewayne Dedmon, C",Miami Heat,"$432,890",2023
+1804,"Nemanja Bjelica, PF",Miami Heat,"$432,890",2023
+1805,"Jabari Parker, PF",Boston Celtics,"$430,729",2023
+1806,"Alize Johnson, F",Brooklyn Nets,"$399,591",2023
+1807,NAME,TEAM,SALARY,2023
+1808,"Tyler Cook, F",Brooklyn Nets,"$396,081",2023
+1809,"Dion Waiters, G",Los Angeles Lakers,"$375,385",2023
+1810,"Juan Toscano-Anderson, F",Golden State Warriors,"$358,295",2023
+1811,"Yuta Watanabe, SF",Toronto Raptors,"$321,893",2023
+1812,"Anthony Tolliver, PF",Philadelphia 76ers,"$263,501",2023
+1813,"Tim Frazier, PG",Memphis Grizzlies,"$255,294",2023
+1814,"Khyri Thomas, SG",Houston Rockets,"$250,000",2023
+1815,"Damian Jones, C",Sacramento Kings,"$237,965",2023
+1816,"DeMarcus Cousins, C",LA Clippers,"$233,095",2023
+1817,"Moritz Wagner, F",Orlando Magic,"$221,995",2023
+1818,NAME,TEAM,SALARY,2023
+1819,"Yogi Ferrell, PG",LA Clippers,"$214,169",2023
+1820,"Rondae Hollis Jefferson, SF",Portland Trail Blazers,"$210,895",2023
+1821,"Jimmer Fredette, G",Phoenix Suns,"$208,509",2023
+1822,"Austin Rivers, SG",Denver Nuggets,"$188,696",2023
+1823,"Devonte' Graham, PG",Charlotte Hornets,"$163,861",2023
+1824,"Mamadi Diakite, F",Milwaukee Bucks,"$160,173",2023
+1825,"Mfiondu Kabengele, C",Cleveland Cavaliers,"$154,433",2023
+1826,"Naji Marshall, F",New Orleans Pelicans,"$120,000",2023
+1827,"Freddie Gillespie, SF",Toronto Raptors,"$116,903",2023
+1828,"Ignas Brazdeikis, SF",Orlando Magic,"$49,510",2023
+1829,NAME,TEAM,SALARY,2023
+1830,"Mike James, PG",Brooklyn Nets,"$39,608",2023
+1831,"Elijah Bryant, SG",Milwaukee Bucks,"$24,611",2023
+1832,"Caleb Homesley, SG",Washington Wizards,"$20,000",2023
+1833,"Charlie Brown Jr., G",Oklahoma City Thunder,"$19,804",2023
+1834,"Omer Yurtseven, C",Utah Jazz,"$18,458",2023
+1835,"Gary Payton II, G",Golden State Warriors,"$11,898",2023
+1836,NAME,TEAM,SALARY,2024
+1837,"Stephen Curry, G",Golden State Warriors,"$43,006,362",2024
+1838,"Russell Westbrook, G",Washington Wizards,"$41,358,814",2024
+1839,"Chris Paul, G",Phoenix Suns,"$41,358,814",2024
+1840,"James Harden, G",Brooklyn Nets,"$41,254,920",2024
+1841,"John Wall, PG",Houston Rockets,"$41,254,920",2024
+1842,"Kevin Durant, F",Brooklyn Nets,"$40,108,950",2024
+1843,"LeBron James, F",Los Angeles Lakers,"$39,219,565",2024
+1844,"Paul George, F",LA Clippers,"$35,450,412",2024
+1845,"Klay Thompson, G",Dallas Mavericks,"$35,361,360",2024
+1846,"Mike Conley, G",Utah Jazz,"$34,502,130",2024
+1847,NAME,TEAM,SALARY,2024
+1848,"Jimmy Butler III, F",Miami Heat,"$34,379,100",2024
+1849,"Kawhi Leonard, F",LA Clippers,"$34,379,100",2024
+1850,"Kemba Walker, PG",Boston Celtics,"$34,379,100",2024
+1851,"Tobias Harris, F",Philadelphia 76ers,"$34,358,850",2024
+1852,"Khris Middleton, F",Milwaukee Bucks,"$33,051,724",2024
+1853,"Anthony Davis, F",Los Angeles Lakers,"$32,742,000",2024
+1854,"Kyrie Irving, G",Brooklyn Nets,"$31,742,000",2024
+1855,"Damian Lillard, G",Portland Trail Blazers,"$31,626,953",2024
+1856,"Kevin Love, F",Cleveland Cavaliers,"$31,258,256",2024
+1857,"Ben Simmons, PG",Philadelphia 76ers,"$30,559,200",2024
+1858,NAME,TEAM,SALARY,2024
+1859,"Pascal Siakam, F",Toronto Raptors,"$30,559,200",2024
+1860,"Kyle Lowry, G",Toronto Raptors,"$30,500,000",2024
+1861,"Steven Adams, C",New Orleans Pelicans,"$29,592,696",2024
+1862,"Joel Embiid, C",Philadelphia 76ers,"$29,542,010",2024
+1863,"Andrew Wiggins, F",Golden State Warriors,"$29,542,010",2024
+1864,"Nikola Jokic, C",Denver Nuggets,"$29,542,010",2024
+1865,"Devin Booker, G",Phoenix Suns,"$29,467,800",2024
+1866,"Karl-Anthony Towns, C",Minnesota Timberwolves,"$29,467,800",2024
+1867,"Kristaps Porzingis, C",Dallas Mavericks,"$29,467,800",2024
+1868,"CJ McCollum, G",Portland Trail Blazers,"$29,354,152",2024
+1869,NAME,TEAM,SALARY,2024
+1870,"Bradley Beal, G",Washington Wizards,"$28,751,775",2024
+1871,"D'Angelo Russell, G",Minnesota Timberwolves,"$28,649,250",2024
+1872,"Gordon Hayward, SF",Charlotte Hornets,"$28,500,000",2024
+1873,"Otto Porter Jr., SF",Orlando Magic,"$28,489,237",2024
+1874,"DeMar DeRozan, G",San Antonio Spurs,"$27,739,975",2024
+1875,"Giannis Antetokounmpo, F",Milwaukee Bucks,"$27,528,090",2024
+1876,"Rudy Gobert, C",Utah Jazz,"$27,525,281",2024
+1877,"Al Horford, C",Oklahoma City Thunder,"$27,500,000",2024
+1878,"Jamal Murray, G",Denver Nuggets,"$27,285,000",2024
+1879,"Brandon Ingram, F",New Orleans Pelicans,"$27,285,000",2024
+1880,NAME,TEAM,SALARY,2024
+1881,"Jrue Holiday, G",Milwaukee Bucks,"$26,231,111",2024
+1882,"Nikola Vucevic, C",Chicago Bulls,"$26,000,000",2024
+1883,"Chandler Parsons, SF",Atlanta Hawks,"$25,102,511",2024
+1884,"Buddy Hield, G",Sacramento Kings,"$24,701,834",2024
+1885,"LaMarcus Aldridge, C",Brooklyn Nets,"$24,000,000",2024
+1886,"Jaylen Brown, G",Boston Celtics,"$23,735,118",2024
+1887,"Draymond Green, F",Golden State Warriors,"$22,246,956",2024
+1888,"Harrison Barnes, F",Sacramento Kings,"$22,215,909",2024
+1889,"Fred VanVleet, G",Toronto Raptors,"$21,250,000",2024
+1890,"Victor Oladipo, SG",Miami Heat,"$21,000,000",2024
+1891,NAME,TEAM,SALARY,2024
+1892,"Malcolm Brogdon, G",Indiana Pacers,"$20,700,000",2024
+1893,"Domantas Sabonis, F",Indiana Pacers,"$19,800,000",2024
+1894,"Gary Harris, G",Orlando Magic,"$19,610,714",2024
+1895,"Danilo Gallinari, PF",Atlanta Hawks,"$19,500,000",2024
+1896,"Zach LaVine, G",Chicago Bulls,"$19,500,000",2024
+1897,"Jerami Grant, F",Detroit Pistons,"$19,050,000",2024
+1898,"Tim Hardaway Jr., G",Dallas Mavericks,"$18,975,000",2024
+1899,"Julius Randle, F",New York Knicks,"$18,900,000",2024
+1900,"Terry Rozier, G",Charlotte Hornets,"$18,900,000",2024
+1901,"Allen Crabbe, G",Minnesota Timberwolves,"$18,500,000",2024
+1902,NAME,TEAM,SALARY,2024
+1903,"Aaron Gordon, F",Denver Nuggets,"$18,136,364",2024
+1904,"Goran Dragic, PG",Miami Heat,"$18,000,000",2024
+1905,"Myles Turner, C",Indiana Pacers,"$18,000,000",2024
+1906,"Bogdan Bogdanovic, G",Atlanta Hawks,"$18,000,000",2024
+1907,"Bojan Bogdanovic, SF",Utah Jazz,"$17,850,000",2024
+1908,"Evan Fournier, SG",Boston Celtics,"$17,150,000",2024
+1909,"Ricky Rubio, PG",Minnesota Timberwolves,"$17,000,000",2024
+1910,"Eric Bledsoe, SG",New Orleans Pelicans,"$16,875,000",2024
+1911,"Eric Gordon, G",Houston Rockets,"$16,869,276",2024
+1912,"Timofey Mozgov, C",Orlando Magic,"$16,720,000",2024
+1913,NAME,TEAM,SALARY,2024
+1914,"Caris LeVert, G",Indiana Pacers,"$16,203,704",2024
+1915,"Joe Harris, SF",Brooklyn Nets,"$16,071,429",2024
+1916,"James Johnson, PF",New Orleans Pelicans,"$16,047,100",2024
+1917,"Dennis Schroder, G",Los Angeles Lakers,"$16,000,000",2024
+1918,"Clint Capela, C",Atlanta Hawks,"$16,000,000",2024
+1919,"Cody Zeller, C",Charlotte Hornets,"$15,415,730",2024
+1920,"Danny Green, F",Philadelphia 76ers,"$15,365,853",2024
+1921,"Davis Bertans, SF",Washington Wizards,"$15,000,000",2024
+1922,"Andre Iguodala, F",Miami Heat,"$15,000,000",2024
+1923,"Jonas Valanciunas, C",Memphis Grizzlies,"$15,000,000",2024
+1924,NAME,TEAM,SALARY,2024
+1925,"Marcus Morris Sr., F",LA Clippers,"$14,888,721",2024
+1926,"Luke Babbitt, F",Miami Heat,"$14,651,700",2024
+1927,"Rudy Gay, SF",San Antonio Spurs,"$14,500,000",2024
+1928,"Kelly Oubre Jr., G",Golden State Warriors,"$14,375,000",2024
+1929,"Dejounte Murray, G",San Antonio Spurs,"$14,286,000",2024
+1930,"Will Barton, G",Denver Nuggets,"$13,723,214",2024
+1931,"Marcin Gortat, C",LA Clippers,"$13,565,218",2024
+1932,"Thaddeus Young, F",Chicago Bulls,"$13,545,000",2024
+1933,"Patty Mills, PG",San Antonio Spurs,"$13,535,714",2024
+1934,"Terrence Ross, G",Orlando Magic,"$13,500,000",2024
+1935,NAME,TEAM,SALARY,2024
+1936,"Marcus Smart, G",Boston Celtics,"$13,446,428",2024
+1937,"Malik Beasley, SG",Minnesota Timberwolves,"$13,425,895",2024
+1938,"Patrick Beverley, PG",LA Clippers,"$13,333,333",2024
+1939,"Christian Wood, F",Houston Rockets,"$13,015,873",2024
+1940,"JJ Redick, SG",Dallas Mavericks,"$13,013,700",2024
+1941,"Justise Winslow, PF",Memphis Grizzlies,"$13,000,000",2024
+1942,"Jusuf Nurkic, C",Portland Trail Blazers,"$12,888,889",2024
+1943,"Trevor Ariza, SF",Miami Heat,"$12,800,000",2024
+1944,"Courtney Lee, G",Dallas Mavericks,"$12,759,670",2024
+1945,"Brook Lopez, C",Milwaukee Bucks,"$12,697,674",2024
+1946,NAME,TEAM,SALARY,2024
+1947,"Cory Joseph, PG",Detroit Pistons,"$12,600,000",2024
+1948,"Kelly Olynyk, F",Houston Rockets,"$12,598,243",2024
+1949,"Miles Plumlee, C",Memphis Grizzlies,"$12,500,000",2024
+1950,"T.J. Warren, SF",Indiana Pacers,"$12,500,000",2024
+1951,"Nikola Mirotic, F",Milwaukee Bucks,"$12,500,000",2024
+1952,"Tyreke Evans, G",Indiana Pacers,"$12,400,000",2024
+1953,"Markelle Fultz, PG",Orlando Magic,"$12,288,697",2024
+1954,"Taurean Prince, F",Cleveland Cavaliers,"$12,250,000",2024
+1955,"Tony Snell, SF",Atlanta Hawks,"$12,178,571",2024
+1956,"Robert Covington, PF",Portland Trail Blazers,"$12,138,345",2024
+1957,NAME,TEAM,SALARY,2024
+1958,"Kentavious Caldwell-Pope, G",Los Angeles Lakers,"$12,073,020",2024
+1959,"Larry Nance Jr., F",Cleveland Cavaliers,"$11,709,091",2024
+1960,"Zach Randolph, F",Dallas Mavericks,"$11,692,308",2024
+1961,"Jordan Clarkson, G",Utah Jazz,"$11,500,000",2024
+1962,"Spencer Dinwiddie, PG",Brooklyn Nets,"$11,454,048",2024
+1963,"Dillon Brooks, F",Memphis Grizzlies,"$11,400,000",2024
+1964,"Omer Asik, C",Chicago Bulls,"$11,286,516",2024
+1965,"Dwight Powell, F",Dallas Mavericks,"$11,080,125",2024
+1966,"Lonzo Ball, G",New Orleans Pelicans,"$11,003,782",2024
+1967,"Josh Richardson, SG",Dallas Mavericks,"$10,865,952",2024
+1968,NAME,TEAM,SALARY,2024
+1969,"Norman Powell, G",Portland Trail Blazers,"$10,865,952",2024
+1970,"Joe Ingles, F",Utah Jazz,"$10,863,637",2024
+1971,"Jeremy Lamb, SG",Indiana Pacers,"$10,500,000",2024
+1972,"DeAndre Jordan, C",Brooklyn Nets,"$10,375,678",2024
+1973,"Zion Williamson, F",New Orleans Pelicans,"$10,245,480",2024
+1974,"Rodney Hood, SG",Toronto Raptors,"$10,047,450",2024
+1975,"Tomas Satoransky, SG",Chicago Bulls,"$10,000,000",2024
+1976,"Darren Collison, PG",Los Angeles Lakers,"$10,000,000",2024
+1977,"Jayson Tatum, F",Boston Celtics,"$9,897,120",2024
+1978,"Anthony Edwards, G",Minnesota Timberwolves,"$9,757,440",2024
+1979,NAME,TEAM,SALARY,2024
+1980,"Al-Farouq Aminu, SF",Chicago Bulls,"$9,720,900",2024
+1981,"Dante Exum, G",Cleveland Cavaliers,"$9,600,000",2024
+1982,"George Hill, PG",Philadelphia 76ers,"$9,590,602",2024
+1983,"De'Anthony Melton, G",Memphis Grizzlies,"$9,571,712",2024
+1984,"Deandre Ayton, C",Phoenix Suns,"$9,562,920",2024
+1985,"Kyle Anderson, F",Memphis Grizzlies,"$9,505,100",2024
+1986,"Meyers Leonard, C",Miami Heat,"$9,400,000",2024
+1987,"Montrezl Harrell, C",Los Angeles Lakers,"$9,258,000",2024
+1988,"Jae Crowder, PF",Phoenix Suns,"$9,258,000",2024
+1989,"Serge Ibaka, F",LA Clippers,"$9,258,000",2024
+1990,NAME,TEAM,SALARY,2024
+1991,"Derrick Jones Jr., F",Portland Trail Blazers,"$9,258,000",2024
+1992,"Tristan Thompson, C",Boston Celtics,"$9,258,000",2024
+1993,"Derrick Favors, F",Utah Jazz,"$9,258,000",2024
+1994,"Dario Saric, F",Phoenix Suns,"$9,250,000",2024
+1995,"Ja Morant, G",Memphis Grizzlies,"$9,166,800",2024
+1996,"Delon Wright, G",Sacramento Kings,"$9,000,000",2024
+1997,"Marvin Bagley III, F",Sacramento Kings,"$8,963,640",2024
+1998,"Cedi Osman, SF",Cleveland Cavaliers,"$8,840,580",2024
+1999,"Tyus Jones, G",Memphis Grizzlies,"$8,817,143",2024
+2000,"James Wiseman, C",Golden State Warriors,"$8,730,240",2024
+2001,NAME,TEAM,SALARY,2024
+2002,"Royce O'Neale, F",Utah Jazz,"$8,500,000",2024
+2003,"Thomas Bryant, C",Washington Wizards,"$8,333,333",2024
+2004,"CJ Miles, G",Boston Celtics,"$8,333,333",2024
+2005,"Maxi Kleber, F",Dallas Mavericks,"$8,325,000",2024
+2006,"RJ Barrett, F",New York Knicks,"$8,231,760",2024
+2007,"Jakob Poeltl, C",San Antonio Spurs,"$8,101,852",2024
+2008,"De'Aaron Fox, G",Sacramento Kings,"$8,099,627",2024
+2009,"Luka Doncic, G",Dallas Mavericks,"$8,049,360",2024
+2010,"Mason Plumlee, C",Detroit Pistons,"$8,000,000",2024
+2011,"Lou Williams, SG",Atlanta Hawks,"$8,000,000",2024
+2012,NAME,TEAM,SALARY,2024
+2013,"P.J. Tucker, PF",Milwaukee Bucks,"$7,969,537",2024
+2014,"LaMelo Ball, G",Charlotte Hornets,"$7,839,960",2024
+2015,"Seth Curry, SG",Philadelphia 76ers,"$7,834,449",2024
+2016,"Derrick Rose, PG",New York Knicks,"$7,682,927",2024
+2017,"Cristiano Felicio, PF",Chicago Bulls,"$7,529,020",2024
+2018,"Rajon Rondo, PG",LA Clippers,"$7,500,000",2024
+2019,"Darrell Arthur, F",Phoenix Suns,"$7,464,912",2024
+2020,"De'Andre Hunter, F",Atlanta Hawks,"$7,422,000",2024
+2021,"Jonathan Isaac, F",Orlando Magic,"$7,362,566",2024
+2022,"Doug McDermott, F",Indiana Pacers,"$7,333,333",2024
+2023,NAME,TEAM,SALARY,2024
+2024,"Robin Lopez, C",Washington Wizards,"$7,300,000",2024
+2025,"Jaren Jackson Jr., F",Memphis Grizzlies,"$7,257,360",2024
+2026,"JaMychal Green, F",Denver Nuggets,"$7,199,760",2024
+2027,"Patrick Williams, F",Chicago Bulls,"$7,068,360",2024
+2028,"Aron Baynes, C",Toronto Raptors,"$7,000,000",2024
+2029,"Darius Miller, SF",Oklahoma City Thunder,"$7,000,000",2024
+2030,"Ivica Zubac, C",LA Clippers,"$7,000,000",2024
+2031,"Chris Boucher, F",Toronto Raptors,"$6,750,000",2024
+2032,"Lauri Markkanen, F",Chicago Bulls,"$6,731,508",2024
+2033,"Darius Garland, G",Cleveland Cavaliers,"$6,720,720",2024
+2034,NAME,TEAM,SALARY,2024
+2035,"D.J. Augustin, G",Houston Rockets,"$6,666,667",2024
+2036,"Trae Young, G",Atlanta Hawks,"$6,571,800",2024
+2037,"Juancho Hernangomez, PF",Minnesota Timberwolves,"$6,493,000",2024
+2038,"Isaac Okoro, F",Cleveland Cavaliers,"$6,400,920",2024
+2039,"Milos Teodosic, G",LA Clippers,"$6,300,000",2024
+2040,"Frank Ntilikina, PG",New York Knicks,"$6,176,578",2024
+2041,"Wesley Johnson, F",Washington Wizards,"$6,134,520",2024
+2042,"Jarrett Culver, G",Minnesota Timberwolves,"$6,104,280",2024
+2043,"Ish Smith, PG",Washington Wizards,"$6,000,000",2024
+2044,"Alec Burks, SG",New York Knicks,"$6,000,000",2024
+2045,NAME,TEAM,SALARY,2024
+2046,"Mo Bamba, C",Orlando Magic,"$5,969,040",2024
+2047,"Onyeka Okongwu, F",Atlanta Hawks,"$5,813,640",2024
+2048,"Justin Holiday, F",Indiana Pacers,"$5,720,000",2024
+2049,"Jonathon Simmons, G",Washington Wizards,"$5,700,000",2024
+2050,"Dennis Smith Jr., PG",Detroit Pistons,"$5,686,677",2024
+2051,"Avery Bradley, PG",Houston Rockets,"$5,635,000",2024
+2052,"Coby White, G",Chicago Bulls,"$5,572,680",2024
+2053,"Trey Lyles, PF",San Antonio Spurs,"$5,500,000",2024
+2054,"Alex Abrines, G",Oklahoma City Thunder,"$5,455,236",2024
+2055,"Jason Smith, F",New Orleans Pelicans,"$5,450,000",2024
+2056,NAME,TEAM,SALARY,2024
+2057,"Wendell Carter Jr., C",Orlando Magic,"$5,448,840",2024
+2058,"Zach Collins, F",Chicago Bulls,"$5,406,255",2024
+2059,"Malik Monk, G",Charlotte Hornets,"$5,345,687",2024
+2060,"Killian Hayes, G",Detroit Pistons,"$5,307,120",2024
+2061,"Alexis Ajinca, C",LA Clippers,"$5,285,394",2024
+2062,"Luke Kennard, G",LA Clippers,"$5,273,826",2024
+2063,"Donovan Mitchell, G",Utah Jazz,"$5,195,501",2024
+2064,"Rodney McGruder, G",Detroit Pistons,"$5,192,307",2024
+2065,"Bam Adebayo, C",Miami Heat,"$5,115,492",2024
+2066,"Jaxson Hayes, C",New Orleans Pelicans,"$5,105,160",2024
+2067,NAME,TEAM,SALARY,2024
+2068,"Richaun Holmes, F",Sacramento Kings,"$5,005,350",2024
+2069,"Mike Scott, PF",Philadelphia 76ers,"$5,005,350",2024
+2070,"Ed Davis, C",Minnesota Timberwolves,"$5,005,350",2024
+2071,"Enes Freedom, C",Portland Trail Blazers,"$5,005,350",2024
+2072,"Nerlens Noel, C",New York Knicks,"$5,000,000",2024
+2073,"Daniel Theis, C",Chicago Bulls,"$5,000,000",2024
+2074,"Dirk Nowitzki, F",Dallas Mavericks,"$5,000,000",2024
+2075,"Kyle Singler, F",Oklahoma City Thunder,"$4,996,000",2024
+2076,"Collin Sexton, G",Cleveland Cavaliers,"$4,991,880",2024
+2077,"Pat Connaughton, G",Milwaukee Bucks,"$4,938,272",2024
+2078,NAME,TEAM,SALARY,2024
+2079,"Obi Toppin, F",New York Knicks,"$4,862,040",2024
+2080,"Josh Jackson, SG",Detroit Pistons,"$4,767,000",2024
+2081,"Garrett Temple, G",Chicago Bulls,"$4,767,000",2024
+2082,"Kris Dunn, G",Atlanta Hawks,"$4,767,000",2024
+2083,"Rui Hachimura, F",Washington Wizards,"$4,692,840",2024
+2084,"Denzel Valentine, G",Chicago Bulls,"$4,642,800",2024
+2085,"Kevin Knox II, F",New York Knicks,"$4,588,680",2024
+2086,"D.J. Wilson, F",Houston Rockets,"$4,548,280",2024
+2087,"Deni Avdija, F",Washington Wizards,"$4,469,160",2024
+2088,"Kevon Looney, F",Golden State Warriors,"$4,464,226",2024
+2089,NAME,TEAM,SALARY,2024
+2090,"Cam Reddish, SF",Atlanta Hawks,"$4,458,000",2024
+2091,"T.J. Leaf, PF",Portland Trail Blazers,"$4,326,825",2024
+2092,"Jalen Smith, F",Phoenix Suns,"$4,245,720",2024
+2093,"JaVale McGee, C",Denver Nuggets,"$4,200,000",2024
+2094,"Reggie Bullock Jr., SF",New York Knicks,"$4,200,000",2024
+2095,"Mikal Bridges, G",Phoenix Suns,"$4,161,000",2024
+2096,"Shai Gilgeous-Alexander, G",Oklahoma City Thunder,"$4,141,320",2024
+2097,"John Collins, F",Atlanta Hawks,"$4,137,302",2024
+2098,"Nicolo Melli, PF",Dallas Mavericks,"$4,102,564",2024
+2099,"Willie Cauley-Stein, C",Dallas Mavericks,"$4,100,000",2024
+2100,NAME,TEAM,SALARY,2024
+2101,"Devin Vassell, G",San Antonio Spurs,"$4,033,440",2024
+2102,"Cameron Johnson, F",Phoenix Suns,"$4,033,440",2024
+2103,"P.J. Washington, F",Charlotte Hornets,"$4,023,600",2024
+2104,"Patrick McCaw, SF",Toronto Raptors,"$4,000,000",2024
+2105,"Dorian Finney-Smith, F",Dallas Mavericks,"$4,000,000",2024
+2106,"Terrance Ferguson, SF",Philadelphia 76ers,"$3,944,013",2024
+2107,"Miles Bridges, F",Charlotte Hornets,"$3,934,320",2024
+2108,"Jevon Carter, G",Phoenix Suns,"$3,925,000",2024
+2109,"Jarrett Allen, C",Cleveland Cavaliers,"$3,909,902",2024
+2110,"OG Anunoby, F",Toronto Raptors,"$3,872,215",2024
+2111,NAME,TEAM,SALARY,2024
+2112,"Gabriel Deck, SF",Oklahoma City Thunder,"$3,870,370",2024
+2113,"Tyrese Haliburton, G",Sacramento Kings,"$3,831,840",2024
+2114,"Stanley Johnson, SF",Toronto Raptors,"$3,804,150",2024
+2115,"Jake Layman, F",Minnesota Timberwolves,"$3,761,085",2024
+2116,"Jerome Robinson, SG",Washington Wizards,"$3,737,520",2024
+2117,"Danuel House Jr., SF",Houston Rockets,"$3,717,000",2024
+2118,"Kira Lewis Jr., G",New Orleans Pelicans,"$3,640,200",2024
+2119,"Romeo Langford, SG",Boston Celtics,"$3,631,200",2024
+2120,"Bobby Portis, F",Milwaukee Bucks,"$3,623,000",2024
+2121,"Maurice Harkless, SF",Sacramento Kings,"$3,623,000",2024
+2122,NAME,TEAM,SALARY,2024
+2123,"Wesley Matthews, SG",Los Angeles Lakers,"$3,623,000",2024
+2124,"Kyle Kuzma, F",Los Angeles Lakers,"$3,562,178",2024
+2125,"Allonzo Trier, G",New York Knicks,"$3,551,000",2024
+2126,"Michael Porter Jr., F",Denver Nuggets,"$3,550,800",2024
+2127,"Tony Bradley, C",Oklahoma City Thunder,"$3,542,060",2024
+2128,"Derrick White, G",San Antonio Spurs,"$3,516,284",2024
+2129,"Bismack Biyombo, C",Charlotte Hornets,"$3,500,000",2024
+2130,"Michael Beasley, F",Brooklyn Nets,"$3,500,000",2024
+2131,"Luca Vildoza, G",Milwaukee Bucks,"$3,500,000",2024
+2132,"T.J. McConnell, G",Indiana Pacers,"$3,500,000",2024
+2133,NAME,TEAM,SALARY,2024
+2134,"Boban Marjanovic, C",Dallas Mavericks,"$3,500,000",2024
+2135,"Josh Hart, G",New Orleans Pelicans,"$3,491,159",2024
+2136,"Aaron Nesmith, G",Boston Celtics,"$3,458,400",2024
+2137,"Sekou Doumbouya, SF",Detroit Pistons,"$3,449,400",2024
+2138,"Michael Carter-Williams, G",Orlando Magic,"$3,300,000",2024
+2139,"James Ennis III, F",Orlando Magic,"$3,300,000",2024
+2140,"Cole Anthony, G",Orlando Magic,"$3,285,120",2024
+2141,"Troy Brown Jr., F",Chicago Bulls,"$3,219,480",2024
+2142,"Chuma Okeke, F",Orlando Magic,"$3,121,080",2024
+2143,"Isaiah Stewart, F",Detroit Pistons,"$3,121,080",2024
+2144,NAME,TEAM,SALARY,2024
+2145,"Nickeil Alexander-Walker, G",New Orleans Pelicans,"$3,113,160",2024
+2146,"Patrick Patterson, PF",LA Clippers,"$3,077,704",2024
+2147,"Donte DiVincenzo, G",Milwaukee Bucks,"$3,044,160",2024
+2148,"Trey Burke, PG",Dallas Mavericks,"$3,000,000",2024
+2149,"Khem Birch, C",Toronto Raptors,"$3,000,000",2024
+2150,"Ryan Arcidiacono, G",Chicago Bulls,"$3,000,000",2024
+2151,"Aleksej Pokusevski, F",Oklahoma City Thunder,"$2,964,840",2024
+2152,"Goga Bitadze, C",Indiana Pacers,"$2,957,520",2024
+2153,"Luka Samanic, F",San Antonio Spurs,"$2,892,000",2024
+2154,"Lonnie Walker IV, G",San Antonio Spurs,"$2,892,000",2024
+2155,NAME,TEAM,SALARY,2024
+2156,"Josh Green, G",Dallas Mavericks,"$2,816,760",2024
+2157,"Kevin Huerter, G",Atlanta Hawks,"$2,761,920",2024
+2158,"Alex Caruso, G",Los Angeles Lakers,"$2,750,000",2024
+2159,"Matisse Thybulle, G",Philadelphia 76ers,"$2,711,280",2024
+2160,"Saddiq Bey, G",Detroit Pistons,"$2,689,920",2024
+2161,"Josh Okogie, G",Minnesota Timberwolves,"$2,651,040",2024
+2162,"Marko Guduric, G",Memphis Grizzlies,"$2,625,000",2024
+2163,"Brandon Clarke, F",Memphis Grizzlies,"$2,602,920",2024
+2164,"Precious Achiuwa, PF",Miami Heat,"$2,582,160",2024
+2165,"Tyler Herro, G",Miami Heat,"$2,582,160",2024
+2166,NAME,TEAM,SALARY,2024
+2167,"Marc Gasol, C",Los Angeles Lakers,"$2,564,753",2024
+2168,"Nene Hilario, C",Atlanta Hawks,"$2,564,753",2024
+2169,"Grayson Allen, G",Memphis Grizzlies,"$2,545,320",2024
+2170,"Manu Ginobili, G",San Antonio Spurs,"$2,500,000",2024
+2171,"Grant Williams, F",Boston Celtics,"$2,498,760",2024
+2172,"Tyrese Maxey, G",Philadelphia 76ers,"$2,478,840",2024
+2173,"Emeka Okafor, C",Philadelphia 76ers,"$2,445,085",2024
+2174,"Kendrick Perkins, C",Cleveland Cavaliers,"$2,445,085",2024
+2175,"Chandler Hutchison, SF",Washington Wizards,"$2,443,440",2024
+2176,"Tyler Zeller, C",Atlanta Hawks,"$2,436,046",2024
+2177,NAME,TEAM,SALARY,2024
+2178,"Aaron Holiday, G",Indiana Pacers,"$2,345,640",2024
+2179,"Darius Bazley, F",Oklahoma City Thunder,"$2,339,160",2024
+2180,"Bryn Forbes, SG",Milwaukee Bucks,"$2,337,145",2024
+2181,"Ty Jerome, G",Oklahoma City Thunder,"$2,303,040",2024
+2182,"Zeke Nnaji, F",Denver Nuggets,"$2,284,800",2024
+2183,"Mike Muscala, C",Oklahoma City Thunder,"$2,283,034",2024
+2184,"Ben McLemore, SG",Los Angeles Lakers,"$2,283,034",2024
+2185,"Anfernee Simons, G",Portland Trail Blazers,"$2,252,040",2024
+2186,"Brad Wanamaker, PG",Charlotte Hornets,"$2,250,000",2024
+2187,"Luke Kornet, C",Boston Celtics,"$2,250,000",2024
+2188,NAME,TEAM,SALARY,2024
+2189,"Brandon Jennings, G",Milwaukee Bucks,"$2,222,803",2024
+2190,"Nassir Little, SF",Portland Trail Blazers,"$2,210,640",2024
+2191,"Payton Pritchard, G",Boston Celtics,"$2,193,480",2024
+2192,"R.J. Hampton, G",Orlando Magic,"$2,193,040",2024
+2193,"Edmond Sumner, PG",Indiana Pacers,"$2,160,000",2024
+2194,"Dylan Windler, G",Cleveland Cavaliers,"$2,137,440",2024
+2195,"Immanuel Quickley, G",New York Knicks,"$2,105,520",2024
+2196,"John Konchar, G",Memphis Grizzlies,"$2,100,000",2024
+2197,"Landry Shamet, G",Brooklyn Nets,"$2,090,040",2024
+2198,"Jordan Poole, G",Golden State Warriors,"$2,063,280",2024
+2199,NAME,TEAM,SALARY,2024
+2200,"Bol Bol, C",Denver Nuggets,"$2,058,240",2024
+2201,"Sean Kilpatrick, G",Chicago Bulls,"$2,054,856",2024
+2202,"Keldon Johnson, F",San Antonio Spurs,"$2,048,040",2024
+2203,"Robert Williams III, C",Boston Celtics,"$2,029,920",2024
+2204,"Jacob Evans, G",New York Knicks,"$2,017,320",2024
+2205,"Kenrich Williams, G",Oklahoma City Thunder,"$2,000,000",2024
+2206,"Theo Maledon, PG",Oklahoma City Thunder,"$2,000,000",2024
+2207,"Damyean Dotson, SG",Cleveland Cavaliers,"$2,000,000",2024
+2208,"Gary Clark, F",Philadelphia 76ers,"$2,000,000",2024
+2209,"Omari Rasulala Spellman, F",New York Knicks,"$1,988,280",2024
+2210,NAME,TEAM,SALARY,2024
+2211,"Cameron Payne, PG",Phoenix Suns,"$1,977,011",2024
+2212,"Udoka Azubuike, C",Utah Jazz,"$1,977,000",2024
+2213,"Jaden McDaniels, F",Minnesota Timberwolves,"$1,964,760",2024
+2214,"Malachi Flynn, PG",Toronto Raptors,"$1,950,600",2024
+2215,"Desmond Bane, G",Memphis Grizzlies,"$1,936,440",2024
+2216,"Jontay Porter, C",Memphis Grizzlies,"$1,900,000",2024
+2217,"Jahlil Okafor, C",Detroit Pistons,"$1,882,867",2024
+2218,"Marquese Chriss, SF",Golden State Warriors,"$1,824,003",2024
+2219,"David Nwaba, SF",Houston Rockets,"$1,824,003",2024
+2220,"DeAndre Liggins, G",Miami Heat,"$1,795,015",2024
+2221,NAME,TEAM,SALARY,2024
+2222,"Georges Niang, F",Utah Jazz,"$1,783,557",2024
+2223,"PJ Dozier, G",Denver Nuggets,"$1,762,796",2024
+2224,"Damion Lee, SG",Golden State Warriors,"$1,762,796",2024
+2225,"Furkan Korkmaz, SG",Philadelphia 76ers,"$1,762,796",2024
+2226,"Alfonzo McKinnie, F",Los Angeles Lakers,"$1,762,796",2024
+2227,"Abdel Nader, F",Phoenix Suns,"$1,752,950",2024
+2228,"Semi Ojeleye, PF",Boston Celtics,"$1,752,950",2024
+2229,"DeAndre' Bembry, SG",Toronto Raptors,"$1,737,145",2024
+2230,"Kevin Porter Jr., G",Houston Rockets,"$1,717,981",2024
+2231,"Shake Milton, SG",Philadelphia 76ers,"$1,701,593",2024
+2232,NAME,TEAM,SALARY,2024
+2233,"Thanasis Antetokounmpo, F",Milwaukee Bucks,"$1,701,593",2024
+2234,"Brandon Goodwin, G",Atlanta Hawks,"$1,701,593",2024
+2235,"Jonah Bolden, PF",Phoenix Suns,"$1,698,450",2024
+2236,"Wes Iwundu, F",New Orleans Pelicans,"$1,678,854",2024
+2237,"Dragan Bender, F",Golden State Warriors,"$1,678,854",2024
+2238,"Isaac Bonga, G",Washington Wizards,"$1,663,861",2024
+2239,"Gary Trent Jr., G",Toronto Raptors,"$1,663,861",2024
+2240,"Bruce Brown, G",Brooklyn Nets,"$1,663,861",2024
+2241,"Hamidou Diallo, G",Detroit Pistons,"$1,663,861",2024
+2242,"Kendrick Nunn, G",Miami Heat,"$1,663,861",2024
+2243,NAME,TEAM,SALARY,2024
+2244,"Mitchell Robinson, C",New York Knicks,"$1,663,861",2024
+2245,"Jalen Brunson, G",Dallas Mavericks,"$1,663,861",2024
+2246,"Keita Bates-Diop, SF",San Antonio Spurs,"$1,663,861",2024
+2247,"Duncan Robinson, F",Miami Heat,"$1,663,861",2024
+2248,"Svi Mykhailiuk, G",Oklahoma City Thunder,"$1,663,861",2024
+2249,"Jarred Vanderbilt, F",Minnesota Timberwolves,"$1,663,361",2024
+2250,"Julyan Stone, G",Chicago Bulls,"$1,656,092",2024
+2251,"MarShon Brooks, G",Chicago Bulls,"$1,656,092",2024
+2252,"Wenyen Gabriel, F",New Orleans Pelicans,"$1,620,564",2024
+2253,"Shaquille Harrison, G",Denver Nuggets,"$1,620,564",2024
+2254,NAME,TEAM,SALARY,2024
+2255,"Isaiah Taylor, G",Toronto Raptors,"$1,620,564",2024
+2256,"Hassan Whiteside, C",Sacramento Kings,"$1,620,564",2024
+2257,"Tyler Johnson, G",Brooklyn Nets,"$1,620,564",2024
+2258,"Tyler Lydon, F",Sacramento Kings,"$1,620,564",2024
+2259,"Quinn Cook, PG",Cleveland Cavaliers,"$1,620,564",2024
+2260,"Matthew Dellavedova, G",Cleveland Cavaliers,"$1,620,564",2024
+2261,"Kent Bazemore, SF",Golden State Warriors,"$1,620,564",2024
+2262,"Drew Eubanks, F",San Antonio Spurs,"$1,620,564",2024
+2263,"Isaiah Thomas, G",New Orleans Pelicans,"$1,620,564",2024
+2264,"Nicolas Batum, F",LA Clippers,"$1,620,564",2024
+2265,NAME,TEAM,SALARY,2024
+2266,"E'Twaun Moore, G",Phoenix Suns,"$1,620,564",2024
+2267,"Isaiah Hartenstein, C",Cleveland Cavaliers,"$1,620,564",2024
+2268,"Solomon Hill, SF",Atlanta Hawks,"$1,620,564",2024
+2269,"Josh Gray, G",Brooklyn Nets,"$1,620,564",2024
+2270,"Wilson Chandler, F",Brooklyn Nets,"$1,620,564",2024
+2271,"Glenn Robinson III, F",Sacramento Kings,"$1,620,564",2024
+2272,"Udonis Haslem, PF",Miami Heat,"$1,620,564",2024
+2273,"Harry Giles III, PF",Portland Trail Blazers,"$1,620,564",2024
+2274,"Sterling Brown, SF",Houston Rockets,"$1,620,564",2024
+2275,"Wayne Ellington, SG",Detroit Pistons,"$1,620,564",2024
+2276,NAME,TEAM,SALARY,2024
+2277,"Jared Dudley, SF",Los Angeles Lakers,"$1,620,564",2024
+2278,"Dwight Howard, C",Philadelphia 76ers,"$1,620,564",2024
+2279,"Carmelo Anthony, PF",Portland Trail Blazers,"$1,620,564",2024
+2280,"JaKarr Sampson, SF",Indiana Pacers,"$1,620,564",2024
+2281,"Langston Galloway, SG",Phoenix Suns,"$1,620,564",2024
+2282,"Frank Kaminsky, F",Phoenix Suns,"$1,620,564",2024
+2283,"Ryan Anderson, PF",Houston Rockets,"$1,620,564",2024
+2284,"Jeff Green, F",Brooklyn Nets,"$1,620,564",2024
+2285,"Gerald Green, G",Houston Rockets,"$1,620,564",2024
+2286,"Reggie Jackson, PG",LA Clippers,"$1,620,564",2024
+2287,NAME,TEAM,SALARY,2024
+2288,"Markieff Morris, PF",Los Angeles Lakers,"$1,620,564",2024
+2289,"J.J. Barea, G",Dallas Mavericks,"$1,620,564",2024
+2290,"Thon Maker, F",Cleveland Cavaliers,"$1,620,564",2024
+2291,"Jarell Martin, F",Cleveland Cavaliers,"$1,620,564",2024
+2292,"Raul Neto, PG",Washington Wizards,"$1,620,564",2024
+2293,"Torrey Craig, SF",Phoenix Suns,"$1,620,564",2024
+2294,"Willy Hernangomez, C",New Orleans Pelicans,"$1,620,564",2024
+2295,"Joe Johnson, G",Boston Celtics,"$1,620,564",2024
+2296,"Vince Carter, G",Atlanta Hawks,"$1,620,564",2024
+2297,"Dwight Buycks, G",Detroit Pistons,"$1,600,520",2024
+2298,NAME,TEAM,SALARY,2024
+2299,"Monte Morris, PG",Denver Nuggets,"$1,588,231",2024
+2300,"Antonio Blakeney, G",Chicago Bulls,"$1,588,231",2024
+2301,"Tyrone Wallace, G",New Orleans Pelicans,"$1,588,231",2024
+2302,"Malachi Richardson, G",Philadelphia 76ers,"$1,569,360",2024
+2303,"Georgios Papagiannis, C",Portland Trail Blazers,"$1,544,951",2024
+2304,"Chinanu Onuaku, C",Portland Trail Blazers,"$1,544,951",2024
+2305,"Wade Baldwin IV, G",Indiana Pacers,"$1,544,951",2024
+2306,"Isaiah Whitehead, G",Detroit Pistons,"$1,544,951",2024
+2307,"Paul Zipser, F",Chicago Bulls,"$1,544,951",2024
+2308,"Cody Martin, SF",Charlotte Hornets,"$1,517,981",2024
+2309,NAME,TEAM,SALARY,2024
+2310,"Mychal Mulder, G",Golden State Warriors,"$1,517,981",2024
+2311,"Jalen McDaniels, F",Charlotte Hornets,"$1,517,981",2024
+2312,"Dewan Hernandez, F",Toronto Raptors,"$1,517,981",2024
+2313,"Anzejs Pasecniks, C",Washington Wizards,"$1,517,981",2024
+2314,"Talen Horton-Tucker, SF",Los Angeles Lakers,"$1,517,981",2024
+2315,"Nigel Williams-Goss, G",Utah Jazz,"$1,517,981",2024
+2316,"Luguentz Dort, G",Oklahoma City Thunder,"$1,517,981",2024
+2317,"KZ Okpala, SF",Miami Heat,"$1,517,981",2024
+2318,"Terence Davis, G",Sacramento Kings,"$1,517,981",2024
+2319,"Miye Oni, SF",Utah Jazz,"$1,517,981",2024
+2320,NAME,TEAM,SALARY,2024
+2321,"Admiral Schofield, SF",Orlando Magic,"$1,517,981",2024
+2322,"Isaiah Roby, PF",Oklahoma City Thunder,"$1,517,981",2024
+2323,"Nic Claxton, C",Brooklyn Nets,"$1,517,981",2024
+2324,"Naz Reid, C",Minnesota Timberwolves,"$1,517,981",2024
+2325,"Eric Paschall, F",Golden State Warriors,"$1,517,981",2024
+2326,"Jalen Lecque, G",Indiana Pacers,"$1,517,981",2024
+2327,"Rayjon Tucker, G",Philadelphia 76ers,"$1,517,981",2024
+2328,"Caleb Martin, F",Charlotte Hornets,"$1,517,981",2024
+2329,"Ky Bowman, G",LA Clippers,"$1,517,981",2024
+2330,"Juwan Morgan, F",Utah Jazz,"$1,517,981",2024
+2331,NAME,TEAM,SALARY,2024
+2332,"Terance Mann, G",LA Clippers,"$1,517,981",2024
+2333,"Alen Smailagic, PF",Golden State Warriors,"$1,517,981",2024
+2334,"Jaylen Nowell, G",Minnesota Timberwolves,"$1,517,981",2024
+2335,"Carsen Edwards, PG",Boston Celtics,"$1,517,981",2024
+2336,"Vlatko Cancar, SF",Denver Nuggets,"$1,517,981",2024
+2337,"Daniel Gafford, F",Washington Wizards,"$1,517,981",2024
+2338,"Dean Wade, F",Cleveland Cavaliers,"$1,517,981",2024
+2339,"Matt Thomas, SG",Utah Jazz,"$1,517,981",2024
+2340,"Javonte Green, G",Chicago Bulls,"$1,517,981",2024
+2341,"Justin James, G",Sacramento Kings,"$1,517,981",2024
+2342,NAME,TEAM,SALARY,2024
+2343,"Bruno Fernando, F",Atlanta Hawks,"$1,517,981",2024
+2344,"Chris Silva, F",Sacramento Kings,"$1,517,981",2024
+2345,"Chris Clemons, G",Atlanta Hawks,"$1,517,981",2024
+2346,"Omri Casspi, F",Memphis Grizzlies,"$1,512,601",2024
+2347,"Isaiah Canaan, G",Milwaukee Bucks,"$1,512,601",2024
+2348,"Dwyane Wade, G",Miami Heat,"$1,512,601",2024
+2349,"Robert Woodard II, F",Sacramento Kings,"$1,500,000",2024
+2350,"Paul Watson, SG",Toronto Raptors,"$1,445,697",2024
+2351,"DaQuan Jeffries, SG",Houston Rockets,"$1,445,697",2024
+2352,"Jae'Sean Tate, F",Houston Rockets,"$1,445,697",2024
+2353,NAME,TEAM,SALARY,2024
+2354,"Theo Pinson, G",New York Knicks,"$1,445,697",2024
+2355,"Zylan Cheatham, F",ADELAIDE 36ers,"$1,445,697",2024
+2356,"Kelan Martin, SG",Indiana Pacers,"$1,445,697",2024
+2357,"Taj Gibson, F",New York Knicks,"$1,442,968",2024
+2358,"Elie Okobo, G",Brooklyn Nets,"$1,416,852",2024
+2359,"Jaylen Adams, G",Milwaukee Bucks,"$1,416,852",2024
+2360,"Jemerrio Jones, F",Los Angeles Lakers,"$1,416,852",2024
+2361,"Dairis Bertans, G",New Orleans Pelicans,"$1,416,852",2024
+2362,"Yante Maten, F",Boston Celtics,"$1,416,852",2024
+2363,"Tarik Phillip, G",Washington Wizards,"$1,416,842",2024
+2364,NAME,TEAM,SALARY,2024
+2365,"Dakari Johnson, C",Memphis Grizzlies,"$1,378,242",2024
+2366,"Kyle Collinsworth, G",Utah Jazz,"$1,378,242",2024
+2367,"Jaylen Morris, F",San Antonio Spurs,"$1,378,242",2024
+2368,"Brandon Paul, G",San Antonio Spurs,"$1,378,242",2024
+2369,"Rodney Purvis, G",Miami Heat,"$1,378,242",2024
+2370,"David Stockton, G",Los Angeles Lakers,"$1,378,242",2024
+2371,"Zhou Qi, C",Houston Rockets,"$1,378,242",2024
+2372,"Aaron Jackson, F",Houston Rockets,"$1,378,242",2024
+2373,"Ike Anigbogu, C",New Orleans Pelicans,"$1,378,242",2024
+2374,"Vernon Carey Jr., C",Charlotte Hornets,"$1,350,000",2024
+2375,NAME,TEAM,SALARY,2024
+2376,"Jabari Bird, G",Atlanta Hawks,"$1,349,464",2024
+2377,"Ben Moore, F",San Antonio Spurs,"$1,349,383",2024
+2378,"James Nunnally, SF",New Orleans Pelicans,"$1,349,383",2024
+2379,"Xavier Tillman, F",Memphis Grizzlies,"$1,300,000",2024
+2380,"Tyrell Terry, PG",Dallas Mavericks,"$1,289,846",2024
+2381,"Alex Len, C",Washington Wizards,"$1,265,372",2024
+2382,"Noah Vonleh, PF",Brooklyn Nets,"$1,087,776",2024
+2383,"Nick Young, G",Denver Nuggets,"$1,042,584",2024
+2384,"Nick Richards, C",Charlotte Hornets,"$1,000,000",2024
+2385,"Jahmi'us Ramsey, PG",Sacramento Kings,"$1,000,000",2024
+2386,NAME,TEAM,SALARY,2024
+2387,"Gorgui Dieng, C",San Antonio Spurs,"$1,000,000",2024
+2388,"Paul Millsap, PF",Denver Nuggets,"$1,000,000",2024
+2389,"Ron Baker, G",Washington Wizards,"$948,580",2024
+2390,"Daniel Oturu, C",LA Clippers,"$898,310",2024
+2391,"Jordan Nwora, SF",Milwaukee Bucks,"$898,310",2024
+2392,"Anthony Gill, F",Washington Wizards,"$898,310",2024
+2393,"Stanton Kidd, SF",Utah Jazz,"$898,310",2024
+2394,"Isaiah Joe, G",Philadelphia 76ers,"$898,310",2024
+2395,"Tre Jones, G",San Antonio Spurs,"$898,310",2024
+2396,"Elijah Hughes, F",Utah Jazz,"$898,310",2024
+2397,NAME,TEAM,SALARY,2024
+2398,"KJ Martin, F",Houston Rockets,"$898,310",2024
+2399,"CJ Elleby, SG",Portland Trail Blazers,"$898,310",2024
+2400,"Deividas Sirvydis, F",Detroit Pistons,"$898,310",2024
+2401,"Sam Merrill, G",Milwaukee Bucks,"$898,310",2024
+2402,"Max Strus, G",Miami Heat,"$898,310",2024
+2403,"Isaiah Briscoe, G",Orlando Magic,"$838,464",2024
+2404,"Andre Drummond, C",Los Angeles Lakers,"$794,536",2024
+2405,"Blake Griffin, PF",Brooklyn Nets,"$776,983",2024
+2406,"Oshae Brissett, SF",Indiana Pacers,"$757,453",2024
+2407,"Ersan Ilyasova, PF",Utah Jazz,"$754,783",2024
+2408,NAME,TEAM,SALARY,2024
+2409,"Chimezie Metu, PF",Sacramento Kings,"$700,000",2024
+2410,"Timothe Luwawu-Cabarrot, SG",Brooklyn Nets,"$654,469",2024
+2411,"Lamar Stevens, F",Cleveland Cavaliers,"$652,366",2024
+2412,"Paul Reed, F",Philadelphia 76ers,"$609,128",2024
+2413,"Jeff Teague, PG",Milwaukee Bucks,"$510,589",2024
+2414,"Norvel Pelle, PF",New York Knicks,"$500,000",2024
+2415,"Dewayne Dedmon, C",Miami Heat,"$432,890",2024
+2416,"Nemanja Bjelica, PF",Miami Heat,"$432,890",2024
+2417,"Jabari Parker, PF",Boston Celtics,"$430,729",2024
+2418,"Alize Johnson, F",Brooklyn Nets,"$399,591",2024
+2419,NAME,TEAM,SALARY,2024
+2420,"Tyler Cook, F",Brooklyn Nets,"$396,081",2024
+2421,"Dion Waiters, G",Los Angeles Lakers,"$375,385",2024
+2422,"Juan Toscano-Anderson, F",Golden State Warriors,"$358,295",2024
+2423,"Yuta Watanabe, SF",Toronto Raptors,"$321,893",2024
+2424,"Anthony Tolliver, PF",Philadelphia 76ers,"$263,501",2024
+2425,"Tim Frazier, PG",Memphis Grizzlies,"$255,294",2024
+2426,"Khyri Thomas, SG",Houston Rockets,"$250,000",2024
+2427,"Damian Jones, C",Sacramento Kings,"$237,965",2024
+2428,"DeMarcus Cousins, C",LA Clippers,"$233,095",2024
+2429,"Moritz Wagner, F",Orlando Magic,"$221,995",2024
+2430,NAME,TEAM,SALARY,2024
+2431,"Yogi Ferrell, PG",LA Clippers,"$214,169",2024
+2432,"Rondae Hollis Jefferson, SF",Portland Trail Blazers,"$210,895",2024
+2433,"Jimmer Fredette, G",Phoenix Suns,"$208,509",2024
+2434,"Austin Rivers, SG",Denver Nuggets,"$188,696",2024
+2435,"Devonte' Graham, PG",Charlotte Hornets,"$163,861",2024
+2436,"Mamadi Diakite, F",Milwaukee Bucks,"$160,173",2024
+2437,"Mfiondu Kabengele, C",Cleveland Cavaliers,"$154,433",2024
+2438,"Naji Marshall, F",New Orleans Pelicans,"$120,000",2024
+2439,"Freddie Gillespie, SF",Toronto Raptors,"$116,903",2024
+2440,"Ignas Brazdeikis, SF",Orlando Magic,"$49,510",2024
+2441,NAME,TEAM,SALARY,2024
+2442,"Mike James, PG",Brooklyn Nets,"$39,608",2024
+2443,"Elijah Bryant, SG",Milwaukee Bucks,"$24,611",2024
+2444,"Caleb Homesley, SG",Washington Wizards,"$20,000",2024
+2445,"Charlie Brown Jr., G",Oklahoma City Thunder,"$19,804",2024
+2446,"Omer Yurtseven, C",Utah Jazz,"$18,458",2024
+2447,"Gary Payton II, G",Golden State Warriors,"$11,898",2024
+2448,NAME,TEAM,SALARY,2025
+2449,"Stephen Curry, G",Golden State Warriors,"$43,006,362",2025
+2450,"Russell Westbrook, G",Washington Wizards,"$41,358,814",2025
+2451,"Chris Paul, G",Phoenix Suns,"$41,358,814",2025
+2452,"James Harden, G",Brooklyn Nets,"$41,254,920",2025
+2453,"John Wall, PG",Houston Rockets,"$41,254,920",2025
+2454,"Kevin Durant, F",Brooklyn Nets,"$40,108,950",2025
+2455,"LeBron James, F",Los Angeles Lakers,"$39,219,565",2025
+2456,"Paul George, F",LA Clippers,"$35,450,412",2025
+2457,"Klay Thompson, G",Dallas Mavericks,"$35,361,360",2025
+2458,"Mike Conley, G",Utah Jazz,"$34,502,130",2025
+2459,NAME,TEAM,SALARY,2025
+2460,"Jimmy Butler III, F",Miami Heat,"$34,379,100",2025
+2461,"Kawhi Leonard, F",LA Clippers,"$34,379,100",2025
+2462,"Kemba Walker, PG",Boston Celtics,"$34,379,100",2025
+2463,"Tobias Harris, F",Philadelphia 76ers,"$34,358,850",2025
+2464,"Khris Middleton, F",Milwaukee Bucks,"$33,051,724",2025
+2465,"Anthony Davis, F",Los Angeles Lakers,"$32,742,000",2025
+2466,"Kyrie Irving, G",Brooklyn Nets,"$31,742,000",2025
+2467,"Damian Lillard, G",Portland Trail Blazers,"$31,626,953",2025
+2468,"Kevin Love, F",Cleveland Cavaliers,"$31,258,256",2025
+2469,"Ben Simmons, PG",Philadelphia 76ers,"$30,559,200",2025
+2470,NAME,TEAM,SALARY,2025
+2471,"Pascal Siakam, F",Toronto Raptors,"$30,559,200",2025
+2472,"Kyle Lowry, G",Toronto Raptors,"$30,500,000",2025
+2473,"Steven Adams, C",New Orleans Pelicans,"$29,592,696",2025
+2474,"Joel Embiid, C",Philadelphia 76ers,"$29,542,010",2025
+2475,"Andrew Wiggins, F",Golden State Warriors,"$29,542,010",2025
+2476,"Nikola Jokic, C",Denver Nuggets,"$29,542,010",2025
+2477,"Devin Booker, G",Phoenix Suns,"$29,467,800",2025
+2478,"Karl-Anthony Towns, C",Minnesota Timberwolves,"$29,467,800",2025
+2479,"Kristaps Porzingis, C",Dallas Mavericks,"$29,467,800",2025
+2480,"CJ McCollum, G",Portland Trail Blazers,"$29,354,152",2025
+2481,NAME,TEAM,SALARY,2025
+2482,"Bradley Beal, G",Washington Wizards,"$28,751,775",2025
+2483,"D'Angelo Russell, G",Minnesota Timberwolves,"$28,649,250",2025
+2484,"Gordon Hayward, SF",Charlotte Hornets,"$28,500,000",2025
+2485,"Otto Porter Jr., SF",Orlando Magic,"$28,489,237",2025
+2486,"DeMar DeRozan, G",San Antonio Spurs,"$27,739,975",2025
+2487,"Giannis Antetokounmpo, F",Milwaukee Bucks,"$27,528,090",2025
+2488,"Rudy Gobert, C",Utah Jazz,"$27,525,281",2025
+2489,"Al Horford, C",Oklahoma City Thunder,"$27,500,000",2025
+2490,"Jamal Murray, G",Denver Nuggets,"$27,285,000",2025
+2491,"Brandon Ingram, F",New Orleans Pelicans,"$27,285,000",2025
+2492,NAME,TEAM,SALARY,2025
+2493,"Jrue Holiday, G",Milwaukee Bucks,"$26,231,111",2025
+2494,"Nikola Vucevic, C",Chicago Bulls,"$26,000,000",2025
+2495,"Chandler Parsons, SF",Atlanta Hawks,"$25,102,511",2025
+2496,"Buddy Hield, G",Sacramento Kings,"$24,701,834",2025
+2497,"LaMarcus Aldridge, C",Brooklyn Nets,"$24,000,000",2025
+2498,"Jaylen Brown, G",Boston Celtics,"$23,735,118",2025
+2499,"Draymond Green, F",Golden State Warriors,"$22,246,956",2025
+2500,"Harrison Barnes, F",Sacramento Kings,"$22,215,909",2025
+2501,"Fred VanVleet, G",Toronto Raptors,"$21,250,000",2025
+2502,"Victor Oladipo, SG",Miami Heat,"$21,000,000",2025
+2503,NAME,TEAM,SALARY,2025
+2504,"Malcolm Brogdon, G",Indiana Pacers,"$20,700,000",2025
+2505,"Domantas Sabonis, F",Indiana Pacers,"$19,800,000",2025
+2506,"Gary Harris, G",Orlando Magic,"$19,610,714",2025
+2507,"Danilo Gallinari, PF",Atlanta Hawks,"$19,500,000",2025
+2508,"Zach LaVine, G",Chicago Bulls,"$19,500,000",2025
+2509,"Jerami Grant, F",Detroit Pistons,"$19,050,000",2025
+2510,"Tim Hardaway Jr., G",Dallas Mavericks,"$18,975,000",2025
+2511,"Julius Randle, F",New York Knicks,"$18,900,000",2025
+2512,"Terry Rozier, G",Charlotte Hornets,"$18,900,000",2025
+2513,"Allen Crabbe, G",Minnesota Timberwolves,"$18,500,000",2025
+2514,NAME,TEAM,SALARY,2025
+2515,"Aaron Gordon, F",Denver Nuggets,"$18,136,364",2025
+2516,"Goran Dragic, PG",Miami Heat,"$18,000,000",2025
+2517,"Myles Turner, C",Indiana Pacers,"$18,000,000",2025
+2518,"Bogdan Bogdanovic, G",Atlanta Hawks,"$18,000,000",2025
+2519,"Bojan Bogdanovic, SF",Utah Jazz,"$17,850,000",2025
+2520,"Evan Fournier, SG",Boston Celtics,"$17,150,000",2025
+2521,"Ricky Rubio, PG",Minnesota Timberwolves,"$17,000,000",2025
+2522,"Eric Bledsoe, SG",New Orleans Pelicans,"$16,875,000",2025
+2523,"Eric Gordon, G",Houston Rockets,"$16,869,276",2025
+2524,"Timofey Mozgov, C",Orlando Magic,"$16,720,000",2025
+2525,NAME,TEAM,SALARY,2025
+2526,"Caris LeVert, G",Indiana Pacers,"$16,203,704",2025
+2527,"Joe Harris, SF",Brooklyn Nets,"$16,071,429",2025
+2528,"James Johnson, PF",New Orleans Pelicans,"$16,047,100",2025
+2529,"Dennis Schroder, G",Los Angeles Lakers,"$16,000,000",2025
+2530,"Clint Capela, C",Atlanta Hawks,"$16,000,000",2025
+2531,"Cody Zeller, C",Charlotte Hornets,"$15,415,730",2025
+2532,"Danny Green, F",Philadelphia 76ers,"$15,365,853",2025
+2533,"Davis Bertans, SF",Washington Wizards,"$15,000,000",2025
+2534,"Andre Iguodala, F",Miami Heat,"$15,000,000",2025
+2535,"Jonas Valanciunas, C",Memphis Grizzlies,"$15,000,000",2025
+2536,NAME,TEAM,SALARY,2025
+2537,"Marcus Morris Sr., F",LA Clippers,"$14,888,721",2025
+2538,"Luke Babbitt, F",Miami Heat,"$14,651,700",2025
+2539,"Rudy Gay, SF",San Antonio Spurs,"$14,500,000",2025
+2540,"Kelly Oubre Jr., G",Golden State Warriors,"$14,375,000",2025
+2541,"Dejounte Murray, G",San Antonio Spurs,"$14,286,000",2025
+2542,"Will Barton, G",Denver Nuggets,"$13,723,214",2025
+2543,"Marcin Gortat, C",LA Clippers,"$13,565,218",2025
+2544,"Thaddeus Young, F",Chicago Bulls,"$13,545,000",2025
+2545,"Patty Mills, PG",San Antonio Spurs,"$13,535,714",2025
+2546,"Terrence Ross, G",Orlando Magic,"$13,500,000",2025
+2547,NAME,TEAM,SALARY,2025
+2548,"Marcus Smart, G",Boston Celtics,"$13,446,428",2025
+2549,"Malik Beasley, SG",Minnesota Timberwolves,"$13,425,895",2025
+2550,"Patrick Beverley, PG",LA Clippers,"$13,333,333",2025
+2551,"Christian Wood, F",Houston Rockets,"$13,015,873",2025
+2552,"JJ Redick, SG",Dallas Mavericks,"$13,013,700",2025
+2553,"Justise Winslow, PF",Memphis Grizzlies,"$13,000,000",2025
+2554,"Jusuf Nurkic, C",Portland Trail Blazers,"$12,888,889",2025
+2555,"Trevor Ariza, SF",Miami Heat,"$12,800,000",2025
+2556,"Courtney Lee, G",Dallas Mavericks,"$12,759,670",2025
+2557,"Brook Lopez, C",Milwaukee Bucks,"$12,697,674",2025
+2558,NAME,TEAM,SALARY,2025
+2559,"Cory Joseph, PG",Detroit Pistons,"$12,600,000",2025
+2560,"Kelly Olynyk, F",Houston Rockets,"$12,598,243",2025
+2561,"Miles Plumlee, C",Memphis Grizzlies,"$12,500,000",2025
+2562,"T.J. Warren, SF",Indiana Pacers,"$12,500,000",2025
+2563,"Nikola Mirotic, F",Milwaukee Bucks,"$12,500,000",2025
+2564,"Tyreke Evans, G",Indiana Pacers,"$12,400,000",2025
+2565,"Markelle Fultz, PG",Orlando Magic,"$12,288,697",2025
+2566,"Taurean Prince, F",Cleveland Cavaliers,"$12,250,000",2025
+2567,"Tony Snell, SF",Atlanta Hawks,"$12,178,571",2025
+2568,"Robert Covington, PF",Portland Trail Blazers,"$12,138,345",2025
+2569,NAME,TEAM,SALARY,2025
+2570,"Kentavious Caldwell-Pope, G",Los Angeles Lakers,"$12,073,020",2025
+2571,"Larry Nance Jr., F",Cleveland Cavaliers,"$11,709,091",2025
+2572,"Zach Randolph, F",Dallas Mavericks,"$11,692,308",2025
+2573,"Jordan Clarkson, G",Utah Jazz,"$11,500,000",2025
+2574,"Spencer Dinwiddie, PG",Brooklyn Nets,"$11,454,048",2025
+2575,"Dillon Brooks, F",Memphis Grizzlies,"$11,400,000",2025
+2576,"Omer Asik, C",Chicago Bulls,"$11,286,516",2025
+2577,"Dwight Powell, F",Dallas Mavericks,"$11,080,125",2025
+2578,"Lonzo Ball, G",New Orleans Pelicans,"$11,003,782",2025
+2579,"Josh Richardson, SG",Dallas Mavericks,"$10,865,952",2025
+2580,NAME,TEAM,SALARY,2025
+2581,"Norman Powell, G",Portland Trail Blazers,"$10,865,952",2025
+2582,"Joe Ingles, F",Utah Jazz,"$10,863,637",2025
+2583,"Jeremy Lamb, SG",Indiana Pacers,"$10,500,000",2025
+2584,"DeAndre Jordan, C",Brooklyn Nets,"$10,375,678",2025
+2585,"Zion Williamson, F",New Orleans Pelicans,"$10,245,480",2025
+2586,"Rodney Hood, SG",Toronto Raptors,"$10,047,450",2025
+2587,"Tomas Satoransky, SG",Chicago Bulls,"$10,000,000",2025
+2588,"Darren Collison, PG",Los Angeles Lakers,"$10,000,000",2025
+2589,"Jayson Tatum, F",Boston Celtics,"$9,897,120",2025
+2590,"Anthony Edwards, G",Minnesota Timberwolves,"$9,757,440",2025
+2591,NAME,TEAM,SALARY,2025
+2592,"Al-Farouq Aminu, SF",Chicago Bulls,"$9,720,900",2025
+2593,"Dante Exum, G",Cleveland Cavaliers,"$9,600,000",2025
+2594,"George Hill, PG",Philadelphia 76ers,"$9,590,602",2025
+2595,"De'Anthony Melton, G",Memphis Grizzlies,"$9,571,712",2025
+2596,"Deandre Ayton, C",Phoenix Suns,"$9,562,920",2025
+2597,"Kyle Anderson, F",Memphis Grizzlies,"$9,505,100",2025
+2598,"Meyers Leonard, C",Miami Heat,"$9,400,000",2025
+2599,"Montrezl Harrell, C",Los Angeles Lakers,"$9,258,000",2025
+2600,"Jae Crowder, PF",Phoenix Suns,"$9,258,000",2025
+2601,"Serge Ibaka, F",LA Clippers,"$9,258,000",2025
+2602,NAME,TEAM,SALARY,2025
+2603,"Derrick Jones Jr., F",Portland Trail Blazers,"$9,258,000",2025
+2604,"Tristan Thompson, C",Boston Celtics,"$9,258,000",2025
+2605,"Derrick Favors, F",Utah Jazz,"$9,258,000",2025
+2606,"Dario Saric, F",Phoenix Suns,"$9,250,000",2025
+2607,"Ja Morant, G",Memphis Grizzlies,"$9,166,800",2025
+2608,"Delon Wright, G",Sacramento Kings,"$9,000,000",2025
+2609,"Marvin Bagley III, F",Sacramento Kings,"$8,963,640",2025
+2610,"Cedi Osman, SF",Cleveland Cavaliers,"$8,840,580",2025
+2611,"Tyus Jones, G",Memphis Grizzlies,"$8,817,143",2025
+2612,"James Wiseman, C",Golden State Warriors,"$8,730,240",2025
+2613,NAME,TEAM,SALARY,2025
+2614,"Royce O'Neale, F",Utah Jazz,"$8,500,000",2025
+2615,"Thomas Bryant, C",Washington Wizards,"$8,333,333",2025
+2616,"CJ Miles, G",Boston Celtics,"$8,333,333",2025
+2617,"Maxi Kleber, F",Dallas Mavericks,"$8,325,000",2025
+2618,"RJ Barrett, F",New York Knicks,"$8,231,760",2025
+2619,"Jakob Poeltl, C",San Antonio Spurs,"$8,101,852",2025
+2620,"De'Aaron Fox, G",Sacramento Kings,"$8,099,627",2025
+2621,"Luka Doncic, G",Dallas Mavericks,"$8,049,360",2025
+2622,"Mason Plumlee, C",Detroit Pistons,"$8,000,000",2025
+2623,"Lou Williams, SG",Atlanta Hawks,"$8,000,000",2025
+2624,NAME,TEAM,SALARY,2025
+2625,"P.J. Tucker, PF",Milwaukee Bucks,"$7,969,537",2025
+2626,"LaMelo Ball, G",Charlotte Hornets,"$7,839,960",2025
+2627,"Seth Curry, SG",Philadelphia 76ers,"$7,834,449",2025
+2628,"Derrick Rose, PG",New York Knicks,"$7,682,927",2025
+2629,"Cristiano Felicio, PF",Chicago Bulls,"$7,529,020",2025
+2630,"Rajon Rondo, PG",LA Clippers,"$7,500,000",2025
+2631,"Darrell Arthur, F",Phoenix Suns,"$7,464,912",2025
+2632,"De'Andre Hunter, F",Atlanta Hawks,"$7,422,000",2025
+2633,"Jonathan Isaac, F",Orlando Magic,"$7,362,566",2025
+2634,"Doug McDermott, F",Indiana Pacers,"$7,333,333",2025
+2635,NAME,TEAM,SALARY,2025
+2636,"Robin Lopez, C",Washington Wizards,"$7,300,000",2025
+2637,"Jaren Jackson Jr., F",Memphis Grizzlies,"$7,257,360",2025
+2638,"JaMychal Green, F",Denver Nuggets,"$7,199,760",2025
+2639,"Patrick Williams, F",Chicago Bulls,"$7,068,360",2025
+2640,"Aron Baynes, C",Toronto Raptors,"$7,000,000",2025
+2641,"Darius Miller, SF",Oklahoma City Thunder,"$7,000,000",2025
+2642,"Ivica Zubac, C",LA Clippers,"$7,000,000",2025
+2643,"Chris Boucher, F",Toronto Raptors,"$6,750,000",2025
+2644,"Lauri Markkanen, F",Chicago Bulls,"$6,731,508",2025
+2645,"Darius Garland, G",Cleveland Cavaliers,"$6,720,720",2025
+2646,NAME,TEAM,SALARY,2025
+2647,"D.J. Augustin, G",Houston Rockets,"$6,666,667",2025
+2648,"Trae Young, G",Atlanta Hawks,"$6,571,800",2025
+2649,"Juancho Hernangomez, PF",Minnesota Timberwolves,"$6,493,000",2025
+2650,"Isaac Okoro, F",Cleveland Cavaliers,"$6,400,920",2025
+2651,"Milos Teodosic, G",LA Clippers,"$6,300,000",2025
+2652,"Frank Ntilikina, PG",New York Knicks,"$6,176,578",2025
+2653,"Wesley Johnson, F",Washington Wizards,"$6,134,520",2025
+2654,"Jarrett Culver, G",Minnesota Timberwolves,"$6,104,280",2025
+2655,"Ish Smith, PG",Washington Wizards,"$6,000,000",2025
+2656,"Alec Burks, SG",New York Knicks,"$6,000,000",2025
+2657,NAME,TEAM,SALARY,2025
+2658,"Mo Bamba, C",Orlando Magic,"$5,969,040",2025
+2659,"Onyeka Okongwu, F",Atlanta Hawks,"$5,813,640",2025
+2660,"Justin Holiday, F",Indiana Pacers,"$5,720,000",2025
+2661,"Jonathon Simmons, G",Washington Wizards,"$5,700,000",2025
+2662,"Dennis Smith Jr., PG",Detroit Pistons,"$5,686,677",2025
+2663,"Avery Bradley, PG",Houston Rockets,"$5,635,000",2025
+2664,"Coby White, G",Chicago Bulls,"$5,572,680",2025
+2665,"Trey Lyles, PF",San Antonio Spurs,"$5,500,000",2025
+2666,"Alex Abrines, G",Oklahoma City Thunder,"$5,455,236",2025
+2667,"Jason Smith, F",New Orleans Pelicans,"$5,450,000",2025
+2668,NAME,TEAM,SALARY,2025
+2669,"Wendell Carter Jr., C",Orlando Magic,"$5,448,840",2025
+2670,"Zach Collins, F",Chicago Bulls,"$5,406,255",2025
+2671,"Malik Monk, G",Charlotte Hornets,"$5,345,687",2025
+2672,"Killian Hayes, G",Detroit Pistons,"$5,307,120",2025
+2673,"Alexis Ajinca, C",LA Clippers,"$5,285,394",2025
+2674,"Luke Kennard, G",LA Clippers,"$5,273,826",2025
+2675,"Donovan Mitchell, G",Utah Jazz,"$5,195,501",2025
+2676,"Rodney McGruder, G",Detroit Pistons,"$5,192,307",2025
+2677,"Bam Adebayo, C",Miami Heat,"$5,115,492",2025
+2678,"Jaxson Hayes, C",New Orleans Pelicans,"$5,105,160",2025
+2679,NAME,TEAM,SALARY,2025
+2680,"Richaun Holmes, F",Sacramento Kings,"$5,005,350",2025
+2681,"Mike Scott, PF",Philadelphia 76ers,"$5,005,350",2025
+2682,"Ed Davis, C",Minnesota Timberwolves,"$5,005,350",2025
+2683,"Enes Freedom, C",Portland Trail Blazers,"$5,005,350",2025
+2684,"Nerlens Noel, C",New York Knicks,"$5,000,000",2025
+2685,"Daniel Theis, C",Chicago Bulls,"$5,000,000",2025
+2686,"Dirk Nowitzki, F",Dallas Mavericks,"$5,000,000",2025
+2687,"Kyle Singler, F",Oklahoma City Thunder,"$4,996,000",2025
+2688,"Collin Sexton, G",Cleveland Cavaliers,"$4,991,880",2025
+2689,"Pat Connaughton, G",Milwaukee Bucks,"$4,938,272",2025
+2690,NAME,TEAM,SALARY,2025
+2691,"Obi Toppin, F",New York Knicks,"$4,862,040",2025
+2692,"Josh Jackson, SG",Detroit Pistons,"$4,767,000",2025
+2693,"Garrett Temple, G",Chicago Bulls,"$4,767,000",2025
+2694,"Kris Dunn, G",Atlanta Hawks,"$4,767,000",2025
+2695,"Rui Hachimura, F",Washington Wizards,"$4,692,840",2025
+2696,"Denzel Valentine, G",Chicago Bulls,"$4,642,800",2025
+2697,"Kevin Knox II, F",New York Knicks,"$4,588,680",2025
+2698,"D.J. Wilson, F",Houston Rockets,"$4,548,280",2025
+2699,"Deni Avdija, F",Washington Wizards,"$4,469,160",2025
+2700,"Kevon Looney, F",Golden State Warriors,"$4,464,226",2025
+2701,NAME,TEAM,SALARY,2025
+2702,"Cam Reddish, SF",Atlanta Hawks,"$4,458,000",2025
+2703,"T.J. Leaf, PF",Portland Trail Blazers,"$4,326,825",2025
+2704,"Jalen Smith, F",Phoenix Suns,"$4,245,720",2025
+2705,"JaVale McGee, C",Denver Nuggets,"$4,200,000",2025
+2706,"Reggie Bullock Jr., SF",New York Knicks,"$4,200,000",2025
+2707,"Mikal Bridges, G",Phoenix Suns,"$4,161,000",2025
+2708,"Shai Gilgeous-Alexander, G",Oklahoma City Thunder,"$4,141,320",2025
+2709,"John Collins, F",Atlanta Hawks,"$4,137,302",2025
+2710,"Nicolo Melli, PF",Dallas Mavericks,"$4,102,564",2025
+2711,"Willie Cauley-Stein, C",Dallas Mavericks,"$4,100,000",2025
+2712,NAME,TEAM,SALARY,2025
+2713,"Devin Vassell, G",San Antonio Spurs,"$4,033,440",2025
+2714,"Cameron Johnson, F",Phoenix Suns,"$4,033,440",2025
+2715,"P.J. Washington, F",Charlotte Hornets,"$4,023,600",2025
+2716,"Patrick McCaw, SF",Toronto Raptors,"$4,000,000",2025
+2717,"Dorian Finney-Smith, F",Dallas Mavericks,"$4,000,000",2025
+2718,"Terrance Ferguson, SF",Philadelphia 76ers,"$3,944,013",2025
+2719,"Miles Bridges, F",Charlotte Hornets,"$3,934,320",2025
+2720,"Jevon Carter, G",Phoenix Suns,"$3,925,000",2025
+2721,"Jarrett Allen, C",Cleveland Cavaliers,"$3,909,902",2025
+2722,"OG Anunoby, F",Toronto Raptors,"$3,872,215",2025
+2723,NAME,TEAM,SALARY,2025
+2724,"Gabriel Deck, SF",Oklahoma City Thunder,"$3,870,370",2025
+2725,"Tyrese Haliburton, G",Sacramento Kings,"$3,831,840",2025
+2726,"Stanley Johnson, SF",Toronto Raptors,"$3,804,150",2025
+2727,"Jake Layman, F",Minnesota Timberwolves,"$3,761,085",2025
+2728,"Jerome Robinson, SG",Washington Wizards,"$3,737,520",2025
+2729,"Danuel House Jr., SF",Houston Rockets,"$3,717,000",2025
+2730,"Kira Lewis Jr., G",New Orleans Pelicans,"$3,640,200",2025
+2731,"Romeo Langford, SG",Boston Celtics,"$3,631,200",2025
+2732,"Bobby Portis, F",Milwaukee Bucks,"$3,623,000",2025
+2733,"Maurice Harkless, SF",Sacramento Kings,"$3,623,000",2025
+2734,NAME,TEAM,SALARY,2025
+2735,"Wesley Matthews, SG",Los Angeles Lakers,"$3,623,000",2025
+2736,"Kyle Kuzma, F",Los Angeles Lakers,"$3,562,178",2025
+2737,"Allonzo Trier, G",New York Knicks,"$3,551,000",2025
+2738,"Michael Porter Jr., F",Denver Nuggets,"$3,550,800",2025
+2739,"Tony Bradley, C",Oklahoma City Thunder,"$3,542,060",2025
+2740,"Derrick White, G",San Antonio Spurs,"$3,516,284",2025
+2741,"Bismack Biyombo, C",Charlotte Hornets,"$3,500,000",2025
+2742,"Michael Beasley, F",Brooklyn Nets,"$3,500,000",2025
+2743,"Luca Vildoza, G",Milwaukee Bucks,"$3,500,000",2025
+2744,"T.J. McConnell, G",Indiana Pacers,"$3,500,000",2025
+2745,NAME,TEAM,SALARY,2025
+2746,"Boban Marjanovic, C",Dallas Mavericks,"$3,500,000",2025
+2747,"Josh Hart, G",New Orleans Pelicans,"$3,491,159",2025
+2748,"Aaron Nesmith, G",Boston Celtics,"$3,458,400",2025
+2749,"Sekou Doumbouya, SF",Detroit Pistons,"$3,449,400",2025
+2750,"Michael Carter-Williams, G",Orlando Magic,"$3,300,000",2025
+2751,"James Ennis III, F",Orlando Magic,"$3,300,000",2025
+2752,"Cole Anthony, G",Orlando Magic,"$3,285,120",2025
+2753,"Troy Brown Jr., F",Chicago Bulls,"$3,219,480",2025
+2754,"Chuma Okeke, F",Orlando Magic,"$3,121,080",2025
+2755,"Isaiah Stewart, F",Detroit Pistons,"$3,121,080",2025
+2756,NAME,TEAM,SALARY,2025
+2757,"Nickeil Alexander-Walker, G",New Orleans Pelicans,"$3,113,160",2025
+2758,"Patrick Patterson, PF",LA Clippers,"$3,077,704",2025
+2759,"Donte DiVincenzo, G",Milwaukee Bucks,"$3,044,160",2025
+2760,"Trey Burke, PG",Dallas Mavericks,"$3,000,000",2025
+2761,"Khem Birch, C",Toronto Raptors,"$3,000,000",2025
+2762,"Ryan Arcidiacono, G",Chicago Bulls,"$3,000,000",2025
+2763,"Aleksej Pokusevski, F",Oklahoma City Thunder,"$2,964,840",2025
+2764,"Goga Bitadze, C",Indiana Pacers,"$2,957,520",2025
+2765,"Luka Samanic, F",San Antonio Spurs,"$2,892,000",2025
+2766,"Lonnie Walker IV, G",San Antonio Spurs,"$2,892,000",2025
+2767,NAME,TEAM,SALARY,2025
+2768,"Josh Green, G",Dallas Mavericks,"$2,816,760",2025
+2769,"Kevin Huerter, G",Atlanta Hawks,"$2,761,920",2025
+2770,"Alex Caruso, G",Los Angeles Lakers,"$2,750,000",2025
+2771,"Matisse Thybulle, G",Philadelphia 76ers,"$2,711,280",2025
+2772,"Saddiq Bey, G",Detroit Pistons,"$2,689,920",2025
+2773,"Josh Okogie, G",Minnesota Timberwolves,"$2,651,040",2025
+2774,"Marko Guduric, G",Memphis Grizzlies,"$2,625,000",2025
+2775,"Brandon Clarke, F",Memphis Grizzlies,"$2,602,920",2025
+2776,"Precious Achiuwa, PF",Miami Heat,"$2,582,160",2025
+2777,"Tyler Herro, G",Miami Heat,"$2,582,160",2025
+2778,NAME,TEAM,SALARY,2025
+2779,"Marc Gasol, C",Los Angeles Lakers,"$2,564,753",2025
+2780,"Nene Hilario, C",Atlanta Hawks,"$2,564,753",2025
+2781,"Grayson Allen, G",Memphis Grizzlies,"$2,545,320",2025
+2782,"Manu Ginobili, G",San Antonio Spurs,"$2,500,000",2025
+2783,"Grant Williams, F",Boston Celtics,"$2,498,760",2025
+2784,"Tyrese Maxey, G",Philadelphia 76ers,"$2,478,840",2025
+2785,"Emeka Okafor, C",Philadelphia 76ers,"$2,445,085",2025
+2786,"Kendrick Perkins, C",Cleveland Cavaliers,"$2,445,085",2025
+2787,"Chandler Hutchison, SF",Washington Wizards,"$2,443,440",2025
+2788,"Tyler Zeller, C",Atlanta Hawks,"$2,436,046",2025
+2789,NAME,TEAM,SALARY,2025
+2790,"Aaron Holiday, G",Indiana Pacers,"$2,345,640",2025
+2791,"Darius Bazley, F",Oklahoma City Thunder,"$2,339,160",2025
+2792,"Bryn Forbes, SG",Milwaukee Bucks,"$2,337,145",2025
+2793,"Ty Jerome, G",Oklahoma City Thunder,"$2,303,040",2025
+2794,"Zeke Nnaji, F",Denver Nuggets,"$2,284,800",2025
+2795,"Mike Muscala, C",Oklahoma City Thunder,"$2,283,034",2025
+2796,"Ben McLemore, SG",Los Angeles Lakers,"$2,283,034",2025
+2797,"Anfernee Simons, G",Portland Trail Blazers,"$2,252,040",2025
+2798,"Brad Wanamaker, PG",Charlotte Hornets,"$2,250,000",2025
+2799,"Luke Kornet, C",Boston Celtics,"$2,250,000",2025
+2800,NAME,TEAM,SALARY,2025
+2801,"Brandon Jennings, G",Milwaukee Bucks,"$2,222,803",2025
+2802,"Nassir Little, SF",Portland Trail Blazers,"$2,210,640",2025
+2803,"Payton Pritchard, G",Boston Celtics,"$2,193,480",2025
+2804,"R.J. Hampton, G",Orlando Magic,"$2,193,040",2025
+2805,"Edmond Sumner, PG",Indiana Pacers,"$2,160,000",2025
+2806,"Dylan Windler, G",Cleveland Cavaliers,"$2,137,440",2025
+2807,"Immanuel Quickley, G",New York Knicks,"$2,105,520",2025
+2808,"John Konchar, G",Memphis Grizzlies,"$2,100,000",2025
+2809,"Landry Shamet, G",Brooklyn Nets,"$2,090,040",2025
+2810,"Jordan Poole, G",Golden State Warriors,"$2,063,280",2025
+2811,NAME,TEAM,SALARY,2025
+2812,"Bol Bol, C",Denver Nuggets,"$2,058,240",2025
+2813,"Sean Kilpatrick, G",Chicago Bulls,"$2,054,856",2025
+2814,"Keldon Johnson, F",San Antonio Spurs,"$2,048,040",2025
+2815,"Robert Williams III, C",Boston Celtics,"$2,029,920",2025
+2816,"Jacob Evans, G",New York Knicks,"$2,017,320",2025
+2817,"Kenrich Williams, G",Oklahoma City Thunder,"$2,000,000",2025
+2818,"Theo Maledon, PG",Oklahoma City Thunder,"$2,000,000",2025
+2819,"Damyean Dotson, SG",Cleveland Cavaliers,"$2,000,000",2025
+2820,"Gary Clark, F",Philadelphia 76ers,"$2,000,000",2025
+2821,"Omari Rasulala Spellman, F",New York Knicks,"$1,988,280",2025
+2822,NAME,TEAM,SALARY,2025
+2823,"Cameron Payne, PG",Phoenix Suns,"$1,977,011",2025
+2824,"Udoka Azubuike, C",Utah Jazz,"$1,977,000",2025
+2825,"Jaden McDaniels, F",Minnesota Timberwolves,"$1,964,760",2025
+2826,"Malachi Flynn, PG",Toronto Raptors,"$1,950,600",2025
+2827,"Desmond Bane, G",Memphis Grizzlies,"$1,936,440",2025
+2828,"Jontay Porter, C",Memphis Grizzlies,"$1,900,000",2025
+2829,"Jahlil Okafor, C",Detroit Pistons,"$1,882,867",2025
+2830,"Marquese Chriss, SF",Golden State Warriors,"$1,824,003",2025
+2831,"David Nwaba, SF",Houston Rockets,"$1,824,003",2025
+2832,"DeAndre Liggins, G",Miami Heat,"$1,795,015",2025
+2833,NAME,TEAM,SALARY,2025
+2834,"Georges Niang, F",Utah Jazz,"$1,783,557",2025
+2835,"PJ Dozier, G",Denver Nuggets,"$1,762,796",2025
+2836,"Damion Lee, SG",Golden State Warriors,"$1,762,796",2025
+2837,"Furkan Korkmaz, SG",Philadelphia 76ers,"$1,762,796",2025
+2838,"Alfonzo McKinnie, F",Los Angeles Lakers,"$1,762,796",2025
+2839,"Abdel Nader, F",Phoenix Suns,"$1,752,950",2025
+2840,"Semi Ojeleye, PF",Boston Celtics,"$1,752,950",2025
+2841,"DeAndre' Bembry, SG",Toronto Raptors,"$1,737,145",2025
+2842,"Kevin Porter Jr., G",Houston Rockets,"$1,717,981",2025
+2843,"Shake Milton, SG",Philadelphia 76ers,"$1,701,593",2025
+2844,NAME,TEAM,SALARY,2025
+2845,"Thanasis Antetokounmpo, F",Milwaukee Bucks,"$1,701,593",2025
+2846,"Brandon Goodwin, G",Atlanta Hawks,"$1,701,593",2025
+2847,"Jonah Bolden, PF",Phoenix Suns,"$1,698,450",2025
+2848,"Wes Iwundu, F",New Orleans Pelicans,"$1,678,854",2025
+2849,"Dragan Bender, F",Golden State Warriors,"$1,678,854",2025
+2850,"Isaac Bonga, G",Washington Wizards,"$1,663,861",2025
+2851,"Gary Trent Jr., G",Toronto Raptors,"$1,663,861",2025
+2852,"Bruce Brown, G",Brooklyn Nets,"$1,663,861",2025
+2853,"Hamidou Diallo, G",Detroit Pistons,"$1,663,861",2025
+2854,"Kendrick Nunn, G",Miami Heat,"$1,663,861",2025
+2855,NAME,TEAM,SALARY,2025
+2856,"Mitchell Robinson, C",New York Knicks,"$1,663,861",2025
+2857,"Jalen Brunson, G",Dallas Mavericks,"$1,663,861",2025
+2858,"Keita Bates-Diop, SF",San Antonio Spurs,"$1,663,861",2025
+2859,"Duncan Robinson, F",Miami Heat,"$1,663,861",2025
+2860,"Svi Mykhailiuk, G",Oklahoma City Thunder,"$1,663,861",2025
+2861,"Jarred Vanderbilt, F",Minnesota Timberwolves,"$1,663,361",2025
+2862,"Julyan Stone, G",Chicago Bulls,"$1,656,092",2025
+2863,"MarShon Brooks, G",Chicago Bulls,"$1,656,092",2025
+2864,"Wenyen Gabriel, F",New Orleans Pelicans,"$1,620,564",2025
+2865,"Shaquille Harrison, G",Denver Nuggets,"$1,620,564",2025
+2866,NAME,TEAM,SALARY,2025
+2867,"Isaiah Taylor, G",Toronto Raptors,"$1,620,564",2025
+2868,"Hassan Whiteside, C",Sacramento Kings,"$1,620,564",2025
+2869,"Tyler Johnson, G",Brooklyn Nets,"$1,620,564",2025
+2870,"Tyler Lydon, F",Sacramento Kings,"$1,620,564",2025
+2871,"Quinn Cook, PG",Cleveland Cavaliers,"$1,620,564",2025
+2872,"Matthew Dellavedova, G",Cleveland Cavaliers,"$1,620,564",2025
+2873,"Kent Bazemore, SF",Golden State Warriors,"$1,620,564",2025
+2874,"Drew Eubanks, F",San Antonio Spurs,"$1,620,564",2025
+2875,"Isaiah Thomas, G",New Orleans Pelicans,"$1,620,564",2025
+2876,"Nicolas Batum, F",LA Clippers,"$1,620,564",2025
+2877,NAME,TEAM,SALARY,2025
+2878,"E'Twaun Moore, G",Phoenix Suns,"$1,620,564",2025
+2879,"Isaiah Hartenstein, C",Cleveland Cavaliers,"$1,620,564",2025
+2880,"Solomon Hill, SF",Atlanta Hawks,"$1,620,564",2025
+2881,"Josh Gray, G",Brooklyn Nets,"$1,620,564",2025
+2882,"Wilson Chandler, F",Brooklyn Nets,"$1,620,564",2025
+2883,"Glenn Robinson III, F",Sacramento Kings,"$1,620,564",2025
+2884,"Udonis Haslem, PF",Miami Heat,"$1,620,564",2025
+2885,"Harry Giles III, PF",Portland Trail Blazers,"$1,620,564",2025
+2886,"Sterling Brown, SF",Houston Rockets,"$1,620,564",2025
+2887,"Wayne Ellington, SG",Detroit Pistons,"$1,620,564",2025
+2888,NAME,TEAM,SALARY,2025
+2889,"Jared Dudley, SF",Los Angeles Lakers,"$1,620,564",2025
+2890,"Dwight Howard, C",Philadelphia 76ers,"$1,620,564",2025
+2891,"Carmelo Anthony, PF",Portland Trail Blazers,"$1,620,564",2025
+2892,"JaKarr Sampson, SF",Indiana Pacers,"$1,620,564",2025
+2893,"Langston Galloway, SG",Phoenix Suns,"$1,620,564",2025
+2894,"Frank Kaminsky, F",Phoenix Suns,"$1,620,564",2025
+2895,"Ryan Anderson, PF",Houston Rockets,"$1,620,564",2025
+2896,"Jeff Green, F",Brooklyn Nets,"$1,620,564",2025
+2897,"Gerald Green, G",Houston Rockets,"$1,620,564",2025
+2898,"Reggie Jackson, PG",LA Clippers,"$1,620,564",2025
+2899,NAME,TEAM,SALARY,2025
+2900,"Markieff Morris, PF",Los Angeles Lakers,"$1,620,564",2025
+2901,"J.J. Barea, G",Dallas Mavericks,"$1,620,564",2025
+2902,"Thon Maker, F",Cleveland Cavaliers,"$1,620,564",2025
+2903,"Jarell Martin, F",Cleveland Cavaliers,"$1,620,564",2025
+2904,"Raul Neto, PG",Washington Wizards,"$1,620,564",2025
+2905,"Torrey Craig, SF",Phoenix Suns,"$1,620,564",2025
+2906,"Willy Hernangomez, C",New Orleans Pelicans,"$1,620,564",2025
+2907,"Joe Johnson, G",Boston Celtics,"$1,620,564",2025
+2908,"Vince Carter, G",Atlanta Hawks,"$1,620,564",2025
+2909,"Dwight Buycks, G",Detroit Pistons,"$1,600,520",2025
+2910,NAME,TEAM,SALARY,2025
+2911,"Monte Morris, PG",Denver Nuggets,"$1,588,231",2025
+2912,"Antonio Blakeney, G",Chicago Bulls,"$1,588,231",2025
+2913,"Tyrone Wallace, G",New Orleans Pelicans,"$1,588,231",2025
+2914,"Malachi Richardson, G",Philadelphia 76ers,"$1,569,360",2025
+2915,"Georgios Papagiannis, C",Portland Trail Blazers,"$1,544,951",2025
+2916,"Chinanu Onuaku, C",Portland Trail Blazers,"$1,544,951",2025
+2917,"Wade Baldwin IV, G",Indiana Pacers,"$1,544,951",2025
+2918,"Isaiah Whitehead, G",Detroit Pistons,"$1,544,951",2025
+2919,"Paul Zipser, F",Chicago Bulls,"$1,544,951",2025
+2920,"Cody Martin, SF",Charlotte Hornets,"$1,517,981",2025
+2921,NAME,TEAM,SALARY,2025
+2922,"Mychal Mulder, G",Golden State Warriors,"$1,517,981",2025
+2923,"Jalen McDaniels, F",Charlotte Hornets,"$1,517,981",2025
+2924,"Dewan Hernandez, F",Toronto Raptors,"$1,517,981",2025
+2925,"Anzejs Pasecniks, C",Washington Wizards,"$1,517,981",2025
+2926,"Talen Horton-Tucker, SF",Los Angeles Lakers,"$1,517,981",2025
+2927,"Nigel Williams-Goss, G",Utah Jazz,"$1,517,981",2025
+2928,"Luguentz Dort, G",Oklahoma City Thunder,"$1,517,981",2025
+2929,"KZ Okpala, SF",Miami Heat,"$1,517,981",2025
+2930,"Terence Davis, G",Sacramento Kings,"$1,517,981",2025
+2931,"Miye Oni, SF",Utah Jazz,"$1,517,981",2025
+2932,NAME,TEAM,SALARY,2025
+2933,"Admiral Schofield, SF",Orlando Magic,"$1,517,981",2025
+2934,"Isaiah Roby, PF",Oklahoma City Thunder,"$1,517,981",2025
+2935,"Nic Claxton, C",Brooklyn Nets,"$1,517,981",2025
+2936,"Naz Reid, C",Minnesota Timberwolves,"$1,517,981",2025
+2937,"Eric Paschall, F",Golden State Warriors,"$1,517,981",2025
+2938,"Jalen Lecque, G",Indiana Pacers,"$1,517,981",2025
+2939,"Rayjon Tucker, G",Philadelphia 76ers,"$1,517,981",2025
+2940,"Caleb Martin, F",Charlotte Hornets,"$1,517,981",2025
+2941,"Ky Bowman, G",LA Clippers,"$1,517,981",2025
+2942,"Juwan Morgan, F",Utah Jazz,"$1,517,981",2025
+2943,NAME,TEAM,SALARY,2025
+2944,"Terance Mann, G",LA Clippers,"$1,517,981",2025
+2945,"Alen Smailagic, PF",Golden State Warriors,"$1,517,981",2025
+2946,"Jaylen Nowell, G",Minnesota Timberwolves,"$1,517,981",2025
+2947,"Carsen Edwards, PG",Boston Celtics,"$1,517,981",2025
+2948,"Vlatko Cancar, SF",Denver Nuggets,"$1,517,981",2025
+2949,"Daniel Gafford, F",Washington Wizards,"$1,517,981",2025
+2950,"Dean Wade, F",Cleveland Cavaliers,"$1,517,981",2025
+2951,"Matt Thomas, SG",Utah Jazz,"$1,517,981",2025
+2952,"Javonte Green, G",Chicago Bulls,"$1,517,981",2025
+2953,"Justin James, G",Sacramento Kings,"$1,517,981",2025
+2954,NAME,TEAM,SALARY,2025
+2955,"Bruno Fernando, F",Atlanta Hawks,"$1,517,981",2025
+2956,"Chris Silva, F",Sacramento Kings,"$1,517,981",2025
+2957,"Chris Clemons, G",Atlanta Hawks,"$1,517,981",2025
+2958,"Omri Casspi, F",Memphis Grizzlies,"$1,512,601",2025
+2959,"Isaiah Canaan, G",Milwaukee Bucks,"$1,512,601",2025
+2960,"Dwyane Wade, G",Miami Heat,"$1,512,601",2025
+2961,"Robert Woodard II, F",Sacramento Kings,"$1,500,000",2025
+2962,"Paul Watson, SG",Toronto Raptors,"$1,445,697",2025
+2963,"DaQuan Jeffries, SG",Houston Rockets,"$1,445,697",2025
+2964,"Jae'Sean Tate, F",Houston Rockets,"$1,445,697",2025
+2965,NAME,TEAM,SALARY,2025
+2966,"Theo Pinson, G",New York Knicks,"$1,445,697",2025
+2967,"Zylan Cheatham, F",ADELAIDE 36ers,"$1,445,697",2025
+2968,"Kelan Martin, SG",Indiana Pacers,"$1,445,697",2025
+2969,"Taj Gibson, F",New York Knicks,"$1,442,968",2025
+2970,"Elie Okobo, G",Brooklyn Nets,"$1,416,852",2025
+2971,"Jaylen Adams, G",Milwaukee Bucks,"$1,416,852",2025
+2972,"Jemerrio Jones, F",Los Angeles Lakers,"$1,416,852",2025
+2973,"Dairis Bertans, G",New Orleans Pelicans,"$1,416,852",2025
+2974,"Yante Maten, F",Boston Celtics,"$1,416,852",2025
+2975,"Tarik Phillip, G",Washington Wizards,"$1,416,842",2025
+2976,NAME,TEAM,SALARY,2025
+2977,"Dakari Johnson, C",Memphis Grizzlies,"$1,378,242",2025
+2978,"Kyle Collinsworth, G",Utah Jazz,"$1,378,242",2025
+2979,"Jaylen Morris, F",San Antonio Spurs,"$1,378,242",2025
+2980,"Brandon Paul, G",San Antonio Spurs,"$1,378,242",2025
+2981,"Rodney Purvis, G",Miami Heat,"$1,378,242",2025
+2982,"David Stockton, G",Los Angeles Lakers,"$1,378,242",2025
+2983,"Zhou Qi, C",Houston Rockets,"$1,378,242",2025
+2984,"Aaron Jackson, F",Houston Rockets,"$1,378,242",2025
+2985,"Ike Anigbogu, C",New Orleans Pelicans,"$1,378,242",2025
+2986,"Vernon Carey Jr., C",Charlotte Hornets,"$1,350,000",2025
+2987,NAME,TEAM,SALARY,2025
+2988,"Jabari Bird, G",Atlanta Hawks,"$1,349,464",2025
+2989,"Ben Moore, F",San Antonio Spurs,"$1,349,383",2025
+2990,"James Nunnally, SF",New Orleans Pelicans,"$1,349,383",2025
+2991,"Xavier Tillman, F",Memphis Grizzlies,"$1,300,000",2025
+2992,"Tyrell Terry, PG",Dallas Mavericks,"$1,289,846",2025
+2993,"Alex Len, C",Washington Wizards,"$1,265,372",2025
+2994,"Noah Vonleh, PF",Brooklyn Nets,"$1,087,776",2025
+2995,"Nick Young, G",Denver Nuggets,"$1,042,584",2025
+2996,"Nick Richards, C",Charlotte Hornets,"$1,000,000",2025
+2997,"Jahmi'us Ramsey, PG",Sacramento Kings,"$1,000,000",2025
+2998,NAME,TEAM,SALARY,2025
+2999,"Gorgui Dieng, C",San Antonio Spurs,"$1,000,000",2025
+3000,"Paul Millsap, PF",Denver Nuggets,"$1,000,000",2025
+3001,"Ron Baker, G",Washington Wizards,"$948,580",2025
+3002,"Daniel Oturu, C",LA Clippers,"$898,310",2025
+3003,"Jordan Nwora, SF",Milwaukee Bucks,"$898,310",2025
+3004,"Anthony Gill, F",Washington Wizards,"$898,310",2025
+3005,"Stanton Kidd, SF",Utah Jazz,"$898,310",2025
+3006,"Isaiah Joe, G",Philadelphia 76ers,"$898,310",2025
+3007,"Tre Jones, G",San Antonio Spurs,"$898,310",2025
+3008,"Elijah Hughes, F",Utah Jazz,"$898,310",2025
+3009,NAME,TEAM,SALARY,2025
+3010,"KJ Martin, F",Houston Rockets,"$898,310",2025
+3011,"CJ Elleby, SG",Portland Trail Blazers,"$898,310",2025
+3012,"Deividas Sirvydis, F",Detroit Pistons,"$898,310",2025
+3013,"Sam Merrill, G",Milwaukee Bucks,"$898,310",2025
+3014,"Max Strus, G",Miami Heat,"$898,310",2025
+3015,"Isaiah Briscoe, G",Orlando Magic,"$838,464",2025
+3016,"Andre Drummond, C",Los Angeles Lakers,"$794,536",2025
+3017,"Blake Griffin, PF",Brooklyn Nets,"$776,983",2025
+3018,"Oshae Brissett, SF",Indiana Pacers,"$757,453",2025
+3019,"Ersan Ilyasova, PF",Utah Jazz,"$754,783",2025
+3020,NAME,TEAM,SALARY,2025
+3021,"Chimezie Metu, PF",Sacramento Kings,"$700,000",2025
+3022,"Timothe Luwawu-Cabarrot, SG",Brooklyn Nets,"$654,469",2025
+3023,"Lamar Stevens, F",Cleveland Cavaliers,"$652,366",2025
+3024,"Paul Reed, F",Philadelphia 76ers,"$609,128",2025
+3025,"Jeff Teague, PG",Milwaukee Bucks,"$510,589",2025
+3026,"Norvel Pelle, PF",New York Knicks,"$500,000",2025
+3027,"Dewayne Dedmon, C",Miami Heat,"$432,890",2025
+3028,"Nemanja Bjelica, PF",Miami Heat,"$432,890",2025
+3029,"Jabari Parker, PF",Boston Celtics,"$430,729",2025
+3030,"Alize Johnson, F",Brooklyn Nets,"$399,591",2025
+3031,NAME,TEAM,SALARY,2025
+3032,"Tyler Cook, F",Brooklyn Nets,"$396,081",2025
+3033,"Dion Waiters, G",Los Angeles Lakers,"$375,385",2025
+3034,"Juan Toscano-Anderson, F",Golden State Warriors,"$358,295",2025
+3035,"Yuta Watanabe, SF",Toronto Raptors,"$321,893",2025
+3036,"Anthony Tolliver, PF",Philadelphia 76ers,"$263,501",2025
+3037,"Tim Frazier, PG",Memphis Grizzlies,"$255,294",2025
+3038,"Khyri Thomas, SG",Houston Rockets,"$250,000",2025
+3039,"Damian Jones, C",Sacramento Kings,"$237,965",2025
+3040,"DeMarcus Cousins, C",LA Clippers,"$233,095",2025
+3041,"Moritz Wagner, F",Orlando Magic,"$221,995",2025
+3042,NAME,TEAM,SALARY,2025
+3043,"Yogi Ferrell, PG",LA Clippers,"$214,169",2025
+3044,"Rondae Hollis Jefferson, SF",Portland Trail Blazers,"$210,895",2025
+3045,"Jimmer Fredette, G",Phoenix Suns,"$208,509",2025
+3046,"Austin Rivers, SG",Denver Nuggets,"$188,696",2025
+3047,"Devonte' Graham, PG",Charlotte Hornets,"$163,861",2025
+3048,"Mamadi Diakite, F",Milwaukee Bucks,"$160,173",2025
+3049,"Mfiondu Kabengele, C",Cleveland Cavaliers,"$154,433",2025
+3050,"Naji Marshall, F",New Orleans Pelicans,"$120,000",2025
+3051,"Freddie Gillespie, SF",Toronto Raptors,"$116,903",2025
+3052,"Ignas Brazdeikis, SF",Orlando Magic,"$49,510",2025
+3053,NAME,TEAM,SALARY,2025
+3054,"Mike James, PG",Brooklyn Nets,"$39,608",2025
+3055,"Elijah Bryant, SG",Milwaukee Bucks,"$24,611",2025
+3056,"Caleb Homesley, SG",Washington Wizards,"$20,000",2025
+3057,"Charlie Brown Jr., G",Oklahoma City Thunder,"$19,804",2025
+3058,"Omer Yurtseven, C",Utah Jazz,"$18,458",2025
+3059,"Gary Payton II, G",Golden State Warriors,"$11,898",2025
