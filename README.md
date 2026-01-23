@@ -1,3 +1,5 @@
 # NBA-Salary-Minning
 
-RAW Data from https://www.basketball-reference.com/ 
+RAW Advanced Data from https://www.basketball-reference.com/ 
+
+Salary data https://www.espn.com/nba/salaries/_/
