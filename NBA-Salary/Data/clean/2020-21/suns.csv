@@ -1,18 +1,18 @@
-Player,MP,OBPM,DBPM,VORP,Player-additional,Team,year
-Mikal Bridges,2348,2.4,0.9,3.1,bridgmi01,PHO,2021
-Devin Booker,2270,1.7,-1.4,1.3,bookede01,PHO,2021
-Chris Paul,2199,3.5,1.1,3.6,paulch01,PHO,2021
-Deandre Ayton,2115,1.1,0.1,1.7,aytonde01,PHO,2021
-Jae Crowder,1648,0.3,0.8,1.3,crowdja01,PHO,2021
-Cameron Johnson,1437,0.0,-0.2,0.7,johnsca02,PHO,2021
-Cameron Payne,1079,2.1,1.0,1.4,payneca01,PHO,2021
-Dario Šarić,871,-1.4,-0.6,0.0,saricda01,PHO,2021
-Jevon Carter,717,-0.4,0.9,0.5,carteje01,PHO,2021
-Frank Kaminsky,715,0.4,0.8,0.6,kaminfr01,PHO,2021
-Torrey Craig,602,0.4,0.4,0.4,craigto01,PHO,2021
-Langston Galloway,438,-0.1,-0.8,0.1,gallola01,PHO,2021
-E'Twaun Moore,389,-3.1,0.2,-0.1,mooreet01,PHO,2021
-Abdel Nader,355,-1.0,1.0,0.2,naderab01,PHO,2021
-Jalen Smith,156,-4.8,-1.3,-0.2,smithja04,PHO,2021
-Damian Jones,94,-7.0,1.1,-0.1,jonesda03,PHO,2021
-Ty-Shon Alexander,47,-4.8,-1.7,-0.1,alexaty01,PHO,2021
+Player,Pos,MP,OBPM,DBPM,VORP,Player-additional,Team,Year
+Mikal Bridges,SF,2348,2.4,0.9,3.1,bridgmi01,PHO,2021
+Devin Booker,SG,2270,1.7,-1.4,1.3,bookede01,PHO,2021
+Chris Paul,PG,2199,3.5,1.1,3.6,paulch01,PHO,2021
+Deandre Ayton,C,2115,1.1,0.1,1.7,aytonde01,PHO,2021
+Jae Crowder,PF,1648,0.3,0.8,1.3,crowdja01,PHO,2021
+Cameron Johnson,PF,1437,0.0,-0.2,0.7,johnsca02,PHO,2021
+Cameron Payne,PG,1079,2.1,1.0,1.4,payneca01,PHO,2021
+Dario Šarić,C,871,-1.4,-0.6,0.0,saricda01,PHO,2021
+Jevon Carter,PG,717,-0.4,0.9,0.5,carteje01,PHO,2021
+Frank Kaminsky,C,715,0.4,0.8,0.6,kaminfr01,PHO,2021
+Torrey Craig,SF,602,0.4,0.4,0.4,craigto01,PHO,2021
+Langston Galloway,SG,438,-0.1,-0.8,0.1,gallola01,PHO,2021
+E'Twaun Moore,SG,389,-3.1,0.2,-0.1,mooreet01,PHO,2021
+Abdel Nader,SF,355,-1.0,1.0,0.2,naderab01,PHO,2021
+Jalen Smith,PF,156,-4.8,-1.3,-0.2,smithja04,PHO,2021
+Damian Jones,C,94,-7.0,1.1,-0.1,jonesda03,PHO,2021
+Ty-Shon Alexander,SG,47,-4.8,-1.7,-0.1,alexaty01,PHO,2021

@@ -1,23 +1,23 @@
-Player,MP,OBPM,DBPM,VORP,Player-additional,Team,year
-Pascal Siakam,2006,1.0,-0.3,1.4,siakapa01,TOR,2021
-Fred VanVleet,1899,2.2,0.2,2.2,vanvlfr01,TOR,2021
-Kyle Lowry,1601,2.0,-0.4,1.5,lowryky01,TOR,2021
-Chris Boucher,1453,2.7,0.6,2.0,bouchch01,TOR,2021
-OG Anunoby,1433,0.8,0.4,1.2,anunoog01,TOR,2021
-Norman Powell,1277,2.2,-0.7,1.1,powelno01,TOR,2021
-Stanley Johnson,1006,-3.8,1.2,-0.1,johnsst04,TOR,2021
-Aron Baynes,980,-3.4,-1.1,-0.6,baynear01,TOR,2021
-DeAndre' Bembry,972,-3.2,1.4,0.0,bembrde01,TOR,2021
-Malachi Flynn,928,-2.5,-0.2,-0.1,flynnma01,TOR,2021
-Yuta Watanabe,723,-1.1,0.5,0.2,watanyu01,TOR,2021
-Khem Birch,577,0.1,0.0,0.3,birchkh01,TOR,2021
-Gary Trent Jr.,540,-1.6,-1.5,-0.2,trentga02,TOR,2021
-Terence Davis,493,-1.8,-0.8,-0.1,daviste02,TOR,2021
-Freddie Gillespie,392,-3.1,-0.1,-0.1,gillefr01,TOR,2021
-Paul Watson,297,-0.8,-0.6,0.1,watsopa01,TOR,2021
-Rodney Hood,216,-3.6,-1.4,-0.2,hoodro01,TOR,2021
-Matt Thomas,192,-1.9,-2.0,-0.1,thomama02,TOR,2021
-Jalen Harris,172,0.5,-0.3,0.1,harrija01,TOR,2021
-Alex Len,76,-6.5,2.5,0.0,lenal01,TOR,2021
-Henry Ellenson,38,-1.7,-0.1,0.0,ellenhe01,TOR,2021
-Patrick McCaw,33,-2.7,3.6,0.0,mccawpa01,TOR,2021
+Player,Pos,MP,OBPM,DBPM,VORP,Player-additional,Team,Year
+Pascal Siakam,PF,2006,1.0,-0.3,1.4,siakapa01,TOR,2021
+Fred VanVleet,SG,1899,2.2,0.2,2.2,vanvlfr01,TOR,2021
+Kyle Lowry,PG,1601,2.0,-0.4,1.5,lowryky01,TOR,2021
+Chris Boucher,C,1453,2.7,0.6,2.0,bouchch01,TOR,2021
+OG Anunoby,SF,1433,0.8,0.4,1.2,anunoog01,TOR,2021
+Norman Powell,SG,1277,2.2,-0.7,1.1,powelno01,TOR,2021
+Stanley Johnson,PF,1006,-3.8,1.2,-0.1,johnsst04,TOR,2021
+Aron Baynes,C,980,-3.4,-1.1,-0.6,baynear01,TOR,2021
+DeAndre' Bembry,SF,972,-3.2,1.4,0.0,bembrde01,TOR,2021
+Malachi Flynn,PG,928,-2.5,-0.2,-0.1,flynnma01,TOR,2021
+Yuta Watanabe,SF,723,-1.1,0.5,0.2,watanyu01,TOR,2021
+Khem Birch,C,577,0.1,0.0,0.3,birchkh01,TOR,2021
+Gary Trent Jr.,SG,540,-1.6,-1.5,-0.2,trentga02,TOR,2021
+Terence Davis,SG,493,-1.8,-0.8,-0.1,daviste02,TOR,2021
+Freddie Gillespie,PF,392,-3.1,-0.1,-0.1,gillefr01,TOR,2021
+Paul Watson,SF,297,-0.8,-0.6,0.1,watsopa01,TOR,2021
+Rodney Hood,SF,216,-3.6,-1.4,-0.2,hoodro01,TOR,2021
+Matt Thomas,SG,192,-1.9,-2.0,-0.1,thomama02,TOR,2021
+Jalen Harris,SG,172,0.5,-0.3,0.1,harrija01,TOR,2021
+Alex Len,C,76,-6.5,2.5,0.0,lenal01,TOR,2021
+Henry Ellenson,PF,38,-1.7,-0.1,0.0,ellenhe01,TOR,2021
+Patrick McCaw,SF,33,-2.7,3.6,0.0,mccawpa01,TOR,2021

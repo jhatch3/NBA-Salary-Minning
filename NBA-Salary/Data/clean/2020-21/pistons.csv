@@ -1,22 +1,22 @@
-Player,MP,OBPM,DBPM,VORP,Player-additional,Team,year
-Saddiq Bey,1909,0.3,-0.8,0.7,beysa01,DET,2021
-Jerami Grant,1829,1.9,-0.8,1.4,grantje01,DET,2021
-Josh Jackson,1560,-2.5,-0.5,-0.4,jacksjo02,DET,2021
-Mason Plumlee,1499,0.2,2.0,1.6,plumlma01,DET,2021
-Isaiah Stewart,1455,-1.6,0.5,0.3,stewais01,DET,2021
-Delon Wright,1052,0.7,2.2,1.2,wrighde01,DET,2021
-Wayne Ellington,1012,1.1,-1.3,0.5,ellinwa01,DET,2021
-Sekou Doumbouya,869,-5.4,-1.3,-1.0,doumbse01,DET,2021
-Saben Lee,781,-2.1,0.2,0.0,leesa01,DET,2021
-Frank Jackson,738,-0.1,-1.6,0.1,jacksfr01,DET,2021
-Killian Hayes,670,-6.3,-0.9,-0.9,hayeski01,DET,2021
-Svi Mykhailiuk,634,-1.5,-0.2,0.0,mykhasv01,DET,2021
-Blake Griffin,626,-1.9,-0.3,-0.1,griffbl01,DET,2021
-Cory Joseph,502,0.5,0.4,0.4,josepco01,DET,2021
-Hamidou Diallo,465,-2.4,-0.8,-0.1,diallha01,DET,2021
-Tyler Cook,421,-2.0,-0.8,-0.1,cookty01,DET,2021
-Dennis Smith Jr.,392,-0.6,1.3,0.3,smithde03,DET,2021
-Jahlil Okafor,347,-2.5,-0.7,-0.1,okafoja01,DET,2021
-Derrick Rose,342,0.7,-0.2,0.2,rosede01,DET,2021
-Rodney McGruder,194,0.7,0.0,0.1,mcgruro01,DET,2021
-Deividas Sirvydis,133,-4.2,-1.2,-0.1,sirvyde01,DET,2021
+Player,Pos,MP,OBPM,DBPM,VORP,Player-additional,Team,Year
+Saddiq Bey,SF,1909,0.3,-0.8,0.7,beysa01,DET,2021
+Jerami Grant,SF,1829,1.9,-0.8,1.4,grantje01,DET,2021
+Josh Jackson,SG,1560,-2.5,-0.5,-0.4,jacksjo02,DET,2021
+Mason Plumlee,C,1499,0.2,2.0,1.6,plumlma01,DET,2021
+Isaiah Stewart,C,1455,-1.6,0.5,0.3,stewais01,DET,2021
+Delon Wright,PG,1052,0.7,2.2,1.2,wrighde01,DET,2021
+Wayne Ellington,SG,1012,1.1,-1.3,0.5,ellinwa01,DET,2021
+Sekou Doumbouya,PF,869,-5.4,-1.3,-1.0,doumbse01,DET,2021
+Saben Lee,PG,781,-2.1,0.2,0.0,leesa01,DET,2021
+Frank Jackson,PG,738,-0.1,-1.6,0.1,jacksfr01,DET,2021
+Killian Hayes,PG,670,-6.3,-0.9,-0.9,hayeski01,DET,2021
+Svi Mykhailiuk,SF,634,-1.5,-0.2,0.0,mykhasv01,DET,2021
+Blake Griffin,PF,626,-1.9,-0.3,-0.1,griffbl01,DET,2021
+Cory Joseph,PG,502,0.5,0.4,0.4,josepco01,DET,2021
+Hamidou Diallo,SF,465,-2.4,-0.8,-0.1,diallha01,DET,2021
+Tyler Cook,SF,421,-2.0,-0.8,-0.1,cookty01,DET,2021
+Dennis Smith Jr.,PG,392,-0.6,1.3,0.3,smithde03,DET,2021
+Jahlil Okafor,C,347,-2.5,-0.7,-0.1,okafoja01,DET,2021
+Derrick Rose,PG,342,0.7,-0.2,0.2,rosede01,DET,2021
+Rodney McGruder,SG,194,0.7,0.0,0.1,mcgruro01,DET,2021
+Deividas Sirvydis,SG,133,-4.2,-1.2,-0.1,sirvyde01,DET,2021

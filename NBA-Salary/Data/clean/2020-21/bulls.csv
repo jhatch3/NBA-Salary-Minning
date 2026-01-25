@@ -1,23 +1,23 @@
-Player,MP,OBPM,DBPM,VORP,Player-additional,Team,year
-Coby White,2156,-1.2,-1.2,-0.2,whiteco01,CHI,2021
-Zach LaVine,2034,4.9,-0.8,3.1,lavinza01,CHI,2021
-Patrick Williams,1983,-2.8,0.4,-0.2,willipa01,CHI,2021
-Thaddeus Young,1652,1.9,1.4,2.2,youngth01,CHI,2021
-Garrett Temple,1528,-3.3,0.3,-0.4,templga01,CHI,2021
-Lauri Markkanen,1317,1.0,-0.9,0.7,markkla01,CHI,2021
-Tomáš Satoranský,1307,-0.6,0.1,0.5,satorto01,CHI,2021
-Denzel Valentine,1036,-2.2,-0.4,-0.2,valende01,CHI,2021
-Nikola Vučević,848,3.9,0.5,1.4,vucevni01,CHI,2021
-Wendell Carter Jr.,792,-1.4,0.4,0.2,cartewe01,CHI,2021
-Daniel Theis,574,-1.0,0.3,0.2,theisda01,CHI,2021
-Otto Porter Jr.,540,0.4,-0.3,0.3,porteot01,CHI,2021
-Ryan Arcidiacono,450,-2.6,0.3,0.0,arcidry01,CHI,2021
-Daniel Gafford,383,-1.4,1.6,0.2,gaffoda01,CHI,2021
-Troy Brown Jr.,237,-2.3,0.2,0.0,browntr01,CHI,2021
-Javonte Green,128,-3.4,2.8,0.0,greenja02,CHI,2021
-Luke Kornet,94,-0.7,1.2,0.1,kornelu01,CHI,2021
-Cristiano Felício,84,-1.1,1.2,0.0,feliccr01,CHI,2021
-Al-Farouq Aminu,67,-7.5,0.2,-0.1,aminual01,CHI,2021
-Chandler Hutchison,64,-9.3,-0.7,-0.1,hutchch01,CHI,2021
-Adam Mokoka,56,-7.7,-1.6,-0.1,mokokad01,CHI,2021
-Devon Dotson,50,-0.1,2.2,0.1,dotsode01,CHI,2021
+Player,Pos,MP,OBPM,DBPM,VORP,Player-additional,Team,Year
+Coby White,PG,2156,-1.2,-1.2,-0.2,whiteco01,CHI,2021
+Zach LaVine,SG,2034,4.9,-0.8,3.1,lavinza01,CHI,2021
+Patrick Williams,PF,1983,-2.8,0.4,-0.2,willipa01,CHI,2021
+Thaddeus Young,PF,1652,1.9,1.4,2.2,youngth01,CHI,2021
+Garrett Temple,SG,1528,-3.3,0.3,-0.4,templga01,CHI,2021
+Lauri Markkanen,PF,1317,1.0,-0.9,0.7,markkla01,CHI,2021
+Tomáš Satoranský,SG,1307,-0.6,0.1,0.5,satorto01,CHI,2021
+Denzel Valentine,SG,1036,-2.2,-0.4,-0.2,valende01,CHI,2021
+Nikola Vučević,C,848,3.9,0.5,1.4,vucevni01,CHI,2021
+Wendell Carter Jr.,C,792,-1.4,0.4,0.2,cartewe01,CHI,2021
+Daniel Theis,C,574,-1.0,0.3,0.2,theisda01,CHI,2021
+Otto Porter Jr.,SF,540,0.4,-0.3,0.3,porteot01,CHI,2021
+Ryan Arcidiacono,PG,450,-2.6,0.3,0.0,arcidry01,CHI,2021
+Daniel Gafford,C,383,-1.4,1.6,0.2,gaffoda01,CHI,2021
+Troy Brown Jr.,SF,237,-2.3,0.2,0.0,browntr01,CHI,2021
+Javonte Green,SG,128,-3.4,2.8,0.0,greenja02,CHI,2021
+Luke Kornet,C,94,-0.7,1.2,0.1,kornelu01,CHI,2021
+Cristiano Felício,C,84,-1.1,1.2,0.0,feliccr01,CHI,2021
+Al-Farouq Aminu,PF,67,-7.5,0.2,-0.1,aminual01,CHI,2021
+Chandler Hutchison,SF,64,-9.3,-0.7,-0.1,hutchch01,CHI,2021
+Adam Mokoka,SG,56,-7.7,-1.6,-0.1,mokokad01,CHI,2021
+Devon Dotson,PG,50,-0.1,2.2,0.1,dotsode01,CHI,2021

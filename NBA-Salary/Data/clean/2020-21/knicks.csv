@@ -1,20 +1,20 @@
-Player,MP,OBPM,DBPM,VORP,Player-additional,Team,year
-Julius Randle,2667,2.9,0.9,3.9,randlju01,NYK,2021
-RJ Barrett,2511,-0.9,-0.3,0.5,barrerj01,NYK,2021
-Reggie Bullock,1949,-0.9,0.8,0.9,bullore01,NYK,2021
-Nerlens Noel,1547,-2.4,3.8,1.3,noelne01,NYK,2021
-Elfrid Payton,1484,-2.9,-0.1,-0.4,paytoel01,NYK,2021
-Alec Burks,1255,0.9,0.6,1.1,burksal01,NYK,2021
-Immanuel Quickley,1243,1.4,-0.5,0.9,quickim01,NYK,2021
-Derrick Rose,937,1.9,0.5,1.0,rosede01,NYK,2021
-Taj Gibson,936,-0.7,2.1,0.8,gibsota01,NYK,2021
-Mitchell Robinson,853,-0.3,1.5,0.7,robinmi01,NYK,2021
-Obi Toppin,683,-1.4,0.7,0.2,toppiob01,NYK,2021
-Kevin Knox,464,-1.7,0.4,0.1,knoxke01,NYK,2021
-Austin Rivers,442,-2.4,0.2,0.0,riverau01,NYK,2021
-Frank Ntilikina,322,-4.2,2.5,0.0,ntilila01,NYK,2021
-Norvel Pelle,52,-1.1,3.7,0.1,pelleno01,NYK,2021
-Theo Pinson,34,-13.2,-2.5,-0.1,pinsoth01,NYK,2021
-Dennis Smith Jr.,28,-8.5,4.7,0.0,smithde03,NYK,2021
-Jared Harper,16,-16.6,-5.5,-0.1,harpeja01,NYK,2021
-Ignas Brazdeikis,7,-2.9,-1.2,0.0,brazdig01,NYK,2021
+Player,Pos,MP,OBPM,DBPM,VORP,Player-additional,Team,Year
+Julius Randle,PF,2667,2.9,0.9,3.9,randlju01,NYK,2021
+RJ Barrett,SG,2511,-0.9,-0.3,0.5,barrerj01,NYK,2021
+Reggie Bullock,SF,1949,-0.9,0.8,0.9,bullore01,NYK,2021
+Nerlens Noel,C,1547,-2.4,3.8,1.3,noelne01,NYK,2021
+Elfrid Payton,PG,1484,-2.9,-0.1,-0.4,paytoel01,NYK,2021
+Alec Burks,SG,1255,0.9,0.6,1.1,burksal01,NYK,2021
+Immanuel Quickley,PG,1243,1.4,-0.5,0.9,quickim01,NYK,2021
+Derrick Rose,PG,937,1.9,0.5,1.0,rosede01,NYK,2021
+Taj Gibson,C,936,-0.7,2.1,0.8,gibsota01,NYK,2021
+Mitchell Robinson,C,853,-0.3,1.5,0.7,robinmi01,NYK,2021
+Obi Toppin,PF,683,-1.4,0.7,0.2,toppiob01,NYK,2021
+Kevin Knox,SF,464,-1.7,0.4,0.1,knoxke01,NYK,2021
+Austin Rivers,SG,442,-2.4,0.2,0.0,riverau01,NYK,2021
+Frank Ntilikina,PG,322,-4.2,2.5,0.0,ntilila01,NYK,2021
+Norvel Pelle,C,52,-1.1,3.7,0.1,pelleno01,NYK,2021
+Theo Pinson,SG,34,-13.2,-2.5,-0.1,pinsoth01,NYK,2021
+Dennis Smith Jr.,PG,28,-8.5,4.7,0.0,smithde03,NYK,2021
+Jared Harper,PG,16,-16.6,-5.5,-0.1,harpeja01,NYK,2021
+Ignas Brazdeikis,SF,7,-2.9,-1.2,0.0,brazdig01,NYK,2021

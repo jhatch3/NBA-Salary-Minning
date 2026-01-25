@@ -1,17 +1,17 @@
-Player,MP,OBPM,DBPM,VORP,Player-additional,Team,year
-Anthony Edwards,2314,-0.4,-1.7,-0.1,edwaran01,MIN,2021
-Ricky Rubio,1772,-1.9,0.0,0.0,rubiori01,MIN,2021
-Karl-Anthony Towns,1689,4.3,0.2,2.8,townska01,MIN,2021
-Jaden McDaniels,1511,-3.3,-0.2,-0.6,mcdanja02,MIN,2021
-Naz Reid,1347,-0.1,-0.2,0.6,reidna01,MIN,2021
-Malik Beasley,1214,1.6,-1.8,0.6,beaslma01,MIN,2021
-Josh Okogie,1197,-3.7,0.3,-0.4,okogijo01,MIN,2021
-D'Angelo Russell,1196,3.3,-1.7,1.1,russeda01,MIN,2021
-Jarred Vanderbilt,1139,-1.4,1.4,0.5,vandeja01,MIN,2021
-Jordan McLaughlin,938,-2.0,0.2,0.1,mclaujo01,MIN,2021
-Juancho Hernangómez,900,-1.1,-1.8,-0.2,hernaju01,MIN,2021
-Jaylen Nowell,759,-1.5,-1.4,-0.2,nowelja01,MIN,2021
-Jake Layman,627,-2.2,0.2,0.0,laymaja01,MIN,2021
-Jarrett Culver,499,-4.5,-1.1,-0.5,culveja01,MIN,2021
-Ed Davis,299,-3.3,1.1,0.0,davised01,MIN,2021
-Ashton Hagans,4,-13.7,-7.4,0.0,haganas01,MIN,2021
+Player,Pos,MP,OBPM,DBPM,VORP,Player-additional,Team,Year
+Anthony Edwards,SG,2314,-0.4,-1.7,-0.1,edwaran01,MIN,2021
+Ricky Rubio,PG,1772,-1.9,0.0,0.0,rubiori01,MIN,2021
+Karl-Anthony Towns,C,1689,4.3,0.2,2.8,townska01,MIN,2021
+Jaden McDaniels,PF,1511,-3.3,-0.2,-0.6,mcdanja02,MIN,2021
+Naz Reid,C,1347,-0.1,-0.2,0.6,reidna01,MIN,2021
+Malik Beasley,SG,1214,1.6,-1.8,0.6,beaslma01,MIN,2021
+Josh Okogie,SG,1197,-3.7,0.3,-0.4,okogijo01,MIN,2021
+D'Angelo Russell,PG,1196,3.3,-1.7,1.1,russeda01,MIN,2021
+Jarred Vanderbilt,PF,1139,-1.4,1.4,0.5,vandeja01,MIN,2021
+Jordan McLaughlin,PG,938,-2.0,0.2,0.1,mclaujo01,MIN,2021
+Juancho Hernangómez,PF,900,-1.1,-1.8,-0.2,hernaju01,MIN,2021
+Jaylen Nowell,SG,759,-1.5,-1.4,-0.2,nowelja01,MIN,2021
+Jake Layman,SF,627,-2.2,0.2,0.0,laymaja01,MIN,2021
+Jarrett Culver,SG,499,-4.5,-1.1,-0.5,culveja01,MIN,2021
+Ed Davis,C,299,-3.3,1.1,0.0,davised01,MIN,2021
+Ashton Hagans,PG,4,-13.7,-7.4,0.0,haganas01,MIN,2021

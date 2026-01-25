@@ -1,23 +1,23 @@
-Player,MP,OBPM,DBPM,VORP,Player-additional,Team,year
-Nikola Jokić,2488,9.1,3.0,8.8,jokicni01,DEN,2021
-Michael Porter Jr.,1912,4.0,-0.9,2.5,portemi01,DEN,2021
-Will Barton,1736,-1.0,-0.8,0.1,bartowi01,DEN,2021
-Jamal Murray,1704,2.7,-0.7,1.7,murraja01,DEN,2021
-Facundo Campazzo,1425,-1.7,1.2,0.5,campafa01,DEN,2021
-Monte Morris,1196,0.1,-0.5,0.5,morrimo01,DEN,2021
-Paul Millsap,1162,0.3,0.7,0.9,millspa01,DEN,2021
-JaMychal Green,1120,-0.5,-1.0,0.1,greenja01,DEN,2021
-PJ Dozier,1088,-2.3,-0.4,-0.2,doziepj01,DEN,2021
-Aaron Gordon,648,-0.1,-0.3,0.3,gordoaa01,DEN,2021
-Gary Harris,581,-2.2,-0.6,-0.1,harriga01,DEN,2021
-Austin Rivers,403,-2.1,0.4,0.0,riverau01,DEN,2021
-Zeke Nnaji,397,-0.6,-1.1,0.0,nnajize01,DEN,2021
-Vlatko Čančar,281,-2.6,0.0,0.0,cancavl01,DEN,2021
-Shaquille Harrison,277,-5.4,1.8,-0.1,harrish01,DEN,2021
-Isaiah Hartenstein,272,-4.3,0.6,-0.1,harteis01,DEN,2021
-R.J. Hampton,233,-4.4,-0.9,-0.2,hamptrj01,DEN,2021
-Markus Howard,205,-5.5,-3.2,-0.3,howarma02,DEN,2021
-JaVale McGee,175,-6.4,-0.3,-0.2,mcgeeja01,DEN,2021
-Bol Bol,160,-3.8,-0.3,-0.1,bolbo01,DEN,2021
-Greg Whittington,12,-11.4,-5.7,0.0,whittgr01,DEN,2021
-Gary Clark,4,-4.4,-2.0,0.0,clarkga01,DEN,2021
+Player,Pos,MP,OBPM,DBPM,VORP,Player-additional,Team,Year
+Nikola Jokić,C,2488,9.1,3.0,8.8,jokicni01,DEN,2021
+Michael Porter Jr.,SF,1912,4.0,-0.9,2.5,portemi01,DEN,2021
+Will Barton,SF,1736,-1.0,-0.8,0.1,bartowi01,DEN,2021
+Jamal Murray,PG,1704,2.7,-0.7,1.7,murraja01,DEN,2021
+Facundo Campazzo,PG,1425,-1.7,1.2,0.5,campafa01,DEN,2021
+Monte Morris,PG,1196,0.1,-0.5,0.5,morrimo01,DEN,2021
+Paul Millsap,PF,1162,0.3,0.7,0.9,millspa01,DEN,2021
+JaMychal Green,PF,1120,-0.5,-1.0,0.1,greenja01,DEN,2021
+PJ Dozier,SG,1088,-2.3,-0.4,-0.2,doziepj01,DEN,2021
+Aaron Gordon,PF,648,-0.1,-0.3,0.3,gordoaa01,DEN,2021
+Gary Harris,SG,581,-2.2,-0.6,-0.1,harriga01,DEN,2021
+Austin Rivers,SG,403,-2.1,0.4,0.0,riverau01,DEN,2021
+Zeke Nnaji,PF,397,-0.6,-1.1,0.0,nnajize01,DEN,2021
+Vlatko Čančar,PF,281,-2.6,0.0,0.0,cancavl01,DEN,2021
+Shaquille Harrison,SG,277,-5.4,1.8,-0.1,harrish01,DEN,2021
+Isaiah Hartenstein,C,272,-4.3,0.6,-0.1,harteis01,DEN,2021
+R.J. Hampton,SG,233,-4.4,-0.9,-0.2,hamptrj01,DEN,2021
+Markus Howard,SG,205,-5.5,-3.2,-0.3,howarma02,DEN,2021
+JaVale McGee,C,175,-6.4,-0.3,-0.2,mcgeeja01,DEN,2021
+Bol Bol,PF,160,-3.8,-0.3,-0.1,bolbo01,DEN,2021
+Greg Whittington,PF,12,-11.4,-5.7,0.0,whittgr01,DEN,2021
+Gary Clark,SF,4,-4.4,-2.0,0.0,clarkga01,DEN,2021

@@ -1,18 +1,18 @@
-Player,MP,OBPM,DBPM,VORP,Player-additional,Team,year
-Damian Lillard,2398,7.5,-1.3,5.0,lillada01,POR,2021
-Robert Covington,2243,-1.3,1.5,1.2,covinro01,POR,2021
-Enes Freedom,1758,2.1,-1.4,1.2,kanteen01,POR,2021
-Carmelo Anthony,1690,0.2,-1.3,0.4,anthoca01,POR,2021
-CJ McCollum,1600,5.0,-1.1,2.4,mccolcj01,POR,2021
-Derrick Jones Jr.,1318,-1.4,0.0,0.2,jonesde02,POR,2021
-Gary Trent Jr.,1262,-0.1,-1.8,0.0,trentga02,POR,2021
-Anfernee Simons,1104,0.6,-1.6,0.3,simonan01,POR,2021
-Norman Powell,928,-0.5,-0.7,0.2,powelno01,POR,2021
-Jusuf Nurkić,880,0.7,1.8,1.0,nurkiju01,POR,2021
-Rodney Hood,726,-5.3,-1.5,-0.9,hoodro01,POR,2021
-Nassir Little,640,-1.1,-1.6,-0.1,littlna01,POR,2021
-Harry Giles,348,-3.2,0.2,-0.1,gilesha01,POR,2021
-CJ Elleby,192,-4.0,-0.9,-0.1,ellebcj01,POR,2021
-Rondae Hollis-Jefferson,107,-1.1,1.2,0.1,holliro01,POR,2021
-Keljin Blevins,75,-8.3,-2.3,-0.2,blevike01,POR,2021
-T.J. Leaf,35,-3.9,0.9,0.0,leaftj01,POR,2021
+Player,Pos,MP,OBPM,DBPM,VORP,Player-additional,Team,Year
+Damian Lillard,PG,2398,7.5,-1.3,5.0,lillada01,POR,2021
+Robert Covington,PF,2243,-1.3,1.5,1.2,covinro01,POR,2021
+Enes Freedom,C,1758,2.1,-1.4,1.2,kanteen01,POR,2021
+Carmelo Anthony,PF,1690,0.2,-1.3,0.4,anthoca01,POR,2021
+CJ McCollum,SG,1600,5.0,-1.1,2.4,mccolcj01,POR,2021
+Derrick Jones Jr.,SF,1318,-1.4,0.0,0.2,jonesde02,POR,2021
+Gary Trent Jr.,SG,1262,-0.1,-1.8,0.0,trentga02,POR,2021
+Anfernee Simons,SG,1104,0.6,-1.6,0.3,simonan01,POR,2021
+Norman Powell,SF,928,-0.5,-0.7,0.2,powelno01,POR,2021
+Jusuf Nurkić,C,880,0.7,1.8,1.0,nurkiju01,POR,2021
+Rodney Hood,SF,726,-5.3,-1.5,-0.9,hoodro01,POR,2021
+Nassir Little,PF,640,-1.1,-1.6,-0.1,littlna01,POR,2021
+Harry Giles,C,348,-3.2,0.2,-0.1,gilesha01,POR,2021
+CJ Elleby,SF,192,-4.0,-0.9,-0.1,ellebcj01,POR,2021
+Rondae Hollis-Jefferson,PF,107,-1.1,1.2,0.1,holliro01,POR,2021
+Keljin Blevins,SF,75,-8.3,-2.3,-0.2,blevike01,POR,2021
+T.J. Leaf,PF,35,-3.9,0.9,0.0,leaftj01,POR,2021
