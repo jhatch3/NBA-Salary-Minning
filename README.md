@@ -1,9 +1,9 @@
 ## NBA-Salary-Minning
 
 
-## Data Preprossing 
+# Data Preprossing 
 
-# NBA Advanced Data
+- NBA Advanced Data
 
 1) Read data into drity csv based on season and team, see Data/dirty/ sub folders
 2) Drop columns we wont use
@@ -11,14 +11,14 @@
 4) Save data into Data/clean sub folder based on year and team
 5) Add df to a master running data frame of every team for every year
 
-# NBA Salary Data - ESPN stores all data in HTML So we can just loop through all years and pages. 
+- NBA Salary Data - ESPN stores all data in HTML So we can just loop through all years and pages. 
 
 1) Build url f"https://www.espn.com/nba/salaries/_/year/{year}/page/{i}"
 2) pd.read_html(url)[0]
 3) Add year to data
 4) Save master Salary df 
 
-# Combine
+- Combine
 
 1) use chatgpt to give me a key value pair that maps names from salary to names in nba advanced data frame, and Player-additional
 3) create new columns for salary df and join based on Player-additional, Year
