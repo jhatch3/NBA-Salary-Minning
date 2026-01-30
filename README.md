@@ -63,10 +63,9 @@ min_child_weight:
 
 Residuals are computed as:
 
->**Residual = Actual Salary − Predicted Salary**
->
-> Positive residual → Potentially overvalued contract
+**Residual = Actual Salary − Predicted Salary**
 
+Positive residual → Potentially overvalued contract
 Negative residual → Potentially undervalued contract
 
 Residual analysis allows salary efficiency to be evaluated relative to peers, isolating compensation not explained by production.
