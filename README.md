@@ -45,17 +45,17 @@ NBA-Salary/
     ├── names_advanced_tmp.csv
     ├── names_salaries_tmp.csv
     ├── dirty/
-    │   ├── 2020-21/
-    │   ├── 2021-22/
-    │   ├── 2022-23/
-    │   ├── 2023-24/
-    │   └── 2024-25/
+    │   ├── 2020-21/ --- teams.csv ---
+    │   ├── 2021-22/ --- teams.csv ---
+    │   ├── 2022-23/ --- teams.csv ---
+    │   ├── 2023-24/ --- teams.csv ---
+    │   └── 2024-25/ --- teams.csv ---
     └── clean/
         ├── nba_advanced_data.csv
         ├── nba_salaries_2021_to_2025.csv
         ├── master_data.csv
-        ├── 2020-21/
-        ├── 2021-22/
-        ├── 2022-23/
-        ├── 2023-24/
-        └── 2024-25/
+        ├── 2020-21/ --- teams.csv ---
+        ├── 2021-22/ --- teams.csv ---
+        ├── 2022-23/ --- teams.csv ---
+        ├── 2023-24/ --- teams.csv --- 
+        └── 2024-25/ --- teams.csv ---
