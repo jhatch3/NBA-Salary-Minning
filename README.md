@@ -45,19 +45,20 @@ A large-scale RandomizedSearchCV was used:
 
 Best Params 
 ```Text
-n_estimators: 
-max_depth: 
-learning_rate: 
-subsample: 
-colsample_bytree: 
-min_child_weight: 
+Objective: reg:quantileerror
+n_estimators: 1743
+max_depth: 3
+learning_rate: 0.0238
+subsample: 0.95266
+colsample_bytree: 0.9836
+min_child_weight: 4
 ```
 
-### Model Performance
-| Metric | Baseline | Tunned | 
+### Model Performance 
+| Metric | Baseline (squarred error) | Baseline (quantile error) |Tunned | 
 | :--- | :---: | :---: |
-| RMSE (log salary) | ..... |  ..... |
-| R^2 | ..... |  ..... |
+| RMSE (log salary) | 1.083 | 0.990 |  0.954 |
+| R^2 | 0.192 |  0.325 | 0.372 |
 
 ### Residual Analysis (Core Insight)
 
