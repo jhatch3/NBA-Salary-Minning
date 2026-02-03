@@ -56,7 +56,7 @@ min_child_weight: 4
 
 ### Model Performance 
 | Metric | Baseline (squarred error) | Baseline (quantile error) |Tunned | 
-| :--- | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | RMSE (log salary) | 1.083 | 0.990 |  0.954 |
 | R^2 | 0.192 |  0.325 | 0.372 |
 
