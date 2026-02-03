@@ -18,7 +18,6 @@ The model estimates expected salary using a combination of performance, role, an
 - Offensive Box Plus/Minus (OBPM) – offensive impact
 - Defensive Box Plus/Minus (DBPM) – defensive impact
 - Value Over Replacement Player (VORP) – aggregate value metric
-- Win Shares – team-impact contribution
 - Position (one-hot encoded) – PG, SG, SF, PF, C
 - Log-transformed Salary – reduces skew and stabilizes variance
 
