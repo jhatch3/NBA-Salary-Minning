@@ -126,6 +126,8 @@ NBA-Salary/
 ├── main.ipynb
 ├── preprocessing.ipynb
 ├── df.png
+├── Figs
+│   ├── ... 
 └── Data/
     ├── nba_advanced_data.ipynb
     ├── nba_salaries.ipynb
