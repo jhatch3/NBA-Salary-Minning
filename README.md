@@ -9,6 +9,10 @@ Using five seasons of NBA data (2020–21 through 2024–25), the project models
 
 Rather than attempting to predict exact salaries, this work focuses on value efficiency,how much performance teams receive per dollar spent under a salary cap environment.
 
+# Report
+
+![Report](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/Pay%20vs.%20Performance%20-%20Justin%20Hatch.pdf)
+
 # Methodology
 ### Feature Engineering
 
