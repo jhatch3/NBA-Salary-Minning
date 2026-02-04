@@ -116,14 +116,18 @@ This idea can also be appilied to another market where money in finite and there
 ## Appendix
 
 ![fig_1_2](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_1_2.png)
-![Alt text for the image](path/to/your/image.png)
-![Alt text for the image](path/to/your/image.png)
-![Alt text for the image](path/to/your/image.png)
-![Alt text for the image](path/to/your/image.png)
-![Alt text for the image](path/to/your/image.png)
-![Alt text for the image](path/to/your/image.png)
-![Alt text for the image](path/to/your/image.png)
-![Alt text for the image](path/to/your/image.png)
+![fig_3_4](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_3_4.png)
+![fig_5](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_5.png)
+![fig_6_7](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_6_7.png)
+![fig_8](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_8.png)
+![fig_9](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_9.png)
+![fig_10](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_10.png)
+![fig_11](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_11.png)
+![fig_12](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_12.png)
+![fig_13_14](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_13_14.png)
+![fig_15](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_15.png)
+![feature_importance](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/feature_importance.png)
+
 
 Any additional information goes here
 
