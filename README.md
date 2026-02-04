@@ -41,9 +41,9 @@ XGBoost was chosen for its ability to:
 
 A large-scale RandomizedSearchCV was used:
 
-- X configurations
-- Y cross-validation
-- Z total model fits
+- 700 configurations
+- 4 cross-validation
+- 2,800 total model fits
 - Parallelized across CPU cores
 
 Best Params 
