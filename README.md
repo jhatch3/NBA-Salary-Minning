@@ -115,6 +115,16 @@ This project demonstrates how machine learning + residual analysis can support s
 This idea can also be appilied to another market where money in finite and there are inefficiencies in such markets.
 ## Appendix
 
+![fig_1_2](https://github.com/jhatch3/NBA-Salary-Minning/blob/main/NBA-Salary/Figs/fig_1_2.png)
+![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](path/to/your/image.png)
+
 Any additional information goes here
 
 
